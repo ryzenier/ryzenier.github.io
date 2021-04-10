@@ -41,7 +41,7 @@ params:
 
     sidebar:
         emoji:
-        subtitle: Path of ExileをSSFHCでプレイしています。
+        subtitle: Path of ExileをSSFHCでプレイ中。プレイ日記やレースの参加記録、解説なんかを書く予定です。
         avatar:
             local: true
             src: img/avatar.jpg
