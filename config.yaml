@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://ryzenier.github.io
 languageCode: ja
 theme: hugo-theme-stack
 paginate: 10
