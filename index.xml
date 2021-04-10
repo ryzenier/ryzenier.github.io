@@ -18,12 +18,14 @@ alt="Point System">
 &lt;ul>
 &lt;li>League: Ritual SCベースのプライベートリーグ
 &lt;ul>
-&lt;li>&lt;a href="https://www.pathofexile.com/private-leagues/league/Havoc+Team+Blast">https://www.pathofexile.com/private-leagues/league/Havoc+Team+Blast&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.pathofexile.com/private-leagues/league/Havoc&amp;#43;Team&amp;#43;Blast" target="_blank" rel="noopener"
+>Private League Link&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>公式Info
 &lt;ul>
-&lt;li>&lt;a href="https://docs.google.com/spreadsheets/d/1PhvJRVymW9FVSQbNxKxxkiLlG3SX9qvnv04dp7mseus/edit#gid=0">https://docs.google.com/spreadsheets/d/1PhvJRVymW9FVSQbNxKxxkiLlG3SX9qvnv04dp7mseus/edit#gid=0&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://docs.google.com/spreadsheets/d/1PhvJRVymW9FVSQbNxKxxkiLlG3SX9qvnv04dp7mseus/edit#gid=0" target="_blank" rel="noopener"
+>Link&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>ルール:
@@ -157,12 +159,13 @@ alt="Result">
 &lt;h3 id="act進行">Act進行&lt;/h3>
 &lt;p>Actの進行方法は、やることが多く、全てをここに書くのは難しいことと、既に良いドキュメントがあるので、こちらを参考にしてください。&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://docs.google.com/document/d/1s_riAfRTRVEavfPIlNRI4ekirpjLg8QeSuRDB9E4n54/edit">https://docs.google.com/document/d/1s_riAfRTRVEavfPIlNRI4ekirpjLg8QeSuRDB9E4n54/edit&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://docs.google.com/document/d/1s_riAfRTRVEavfPIlNRI4ekirpjLg8QeSuRDB9E4n54/edit" target="_blank" rel="noopener"
+>ShakCentral&amp;rsquo;s Group Progression&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>Act5で2時間以内、A10で4時間以内を目安に練習するのがいいと思います。
 やってみて思ったのは、パーティーで進行したからといって、ソロで走るときと比べて劇的に早くなる、とかはないってことです。
 結局のところキャリーする人のタイムに依存します。&lt;/p>
-&lt;h3 id="各ボスの湧かせ方">各ボスの湧かせ方&lt;/h3>
+&lt;h3 id="各ボスを倒すまで">各ボスを倒すまで&lt;/h3>
 &lt;ul>
 &lt;li>Uber Atziri
 &lt;ul>
@@ -206,8 +209,10 @@ alt="Atlas進行">
 &lt;/figure>&lt;/p>
 &lt;p>また、Atlasの石集めのテンプレ進行を理解していることを前提に書くので、まだの人は、コチラの素晴らしい記事を参考にしてください。&lt;/p>
 &lt;ul>
-&lt;li>英語: &lt;a href="https://balormage.com/atlas-guide/">https://balormage.com/atlas-guide/&lt;/a>&lt;/li>
-&lt;li>日本語訳: &lt;a href="https://balormage.com/atlas-guide-japanese-translation/">https://balormage.com/atlas-guide-japanese-translation/&lt;/a>&lt;/li>
+&lt;li>英語: &lt;a class="link" href="https://balormage.com/atlas-guide/" target="_blank" rel="noopener"
+>Conquerors Atlas Guide for 3.11&lt;/a>&lt;/li>
+&lt;li>日本語訳: &lt;a class="link" href="https://balormage.com/atlas-guide-japanese-translation/" target="_blank" rel="noopener"
+>3.12 Conquerors Atlasガイド&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>内側の石を回収する順番は、②→⑦→③→⑥にしました。&lt;/p>
 &lt;h4 id="map入り直後">Map入り直後&lt;/h4>
