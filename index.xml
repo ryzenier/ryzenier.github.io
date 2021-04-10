@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>/log ryzenier</title><link>https://example.com/</link><description>Recent content on /log ryzenier</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><item><title>3.13 Ritual Havoc Team Blast Race振り返り</title><link>https://example.com/p/2021/04/havoc-team-blast-race-review/</link><pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate><guid>https://example.com/p/2021/04/havoc-team-blast-race-review/</guid><description>&lt;h2 id="これはなに">これはなに？&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>/log ryzenier</title><link>https://ryzenier.github.io/</link><description>Recent content on /log ryzenier</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ryzenier.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>3.13 Ritual Havoc Team Blast Race振り返り</title><link>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</link><pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</guid><description>&lt;h2 id="これはなに">これはなに？&lt;/h2>
 &lt;p>2/27&amp;amp;28に開催されたHavoc Team Blast Raceに参加したので、そのときの振り返り記事です。&lt;/p>
 &lt;p>今後、同じようなレースに参加する人の参考になればと思います。&lt;/p>
 &lt;p>また、パーティープレイでのリーグスタート記事はなかなか無いので「パーティープレイでリーグスタートをキメたい！」といった人向けにも参考になると嬉しいです。&lt;/p>
@@ -6,8 +6,8 @@
 &lt;p>2~6人のグループで、ポイントを競い合うTwitch StreamerのHavoc主催のコミュニティーレースイベントです。&lt;/p>
 &lt;p>ポイントは↓の表にある通りで、24時間以内にできるだけ多く稼いだチームの優勝です。&lt;/p>
 &lt;p>&lt;figure style="flex-grow: 131; flex-basis: 315px">
-&lt;a href="https://example.com/p/2021/04/havoc-team-blast-race-review/htb-point-system.PNG" data-size="425x323">&lt;img src="https://example.com/p/2021/04/havoc-team-blast-race-review/htb-point-system.PNG"
-srcset="https://example.com/p/2021/04/havoc-team-blast-race-review/htb-point-system_hueaba635eb27fe004531161779d721548_10610_480x0_resize_box_2.PNG 480w, https://example.com/p/2021/04/havoc-team-blast-race-review/htb-point-system_hueaba635eb27fe004531161779d721548_10610_1024x0_resize_box_2.PNG 1024w"
+&lt;a href="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/htb-point-system.PNG" data-size="425x323">&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/htb-point-system.PNG"
+srcset="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/htb-point-system_hueaba635eb27fe004531161779d721548_10610_480x0_resize_box_2.PNG 480w, https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/htb-point-system_hueaba635eb27fe004531161779d721548_10610_1024x0_resize_box_2.PNG 1024w"
 width="425"
 height="323"
 loading="lazy"
@@ -134,8 +134,8 @@ title="YouTube Video"
 &lt;h2 id="目標結果">目標＆結果&lt;/h2>
 &lt;p>早速ですが、今回のレース結果です！&lt;/p>
 &lt;p>&lt;figure style="flex-grow: 193; flex-basis: 465px">
-&lt;a href="https://example.com/p/2021/04/havoc-team-blast-race-review/result.PNG" data-size="628x324">&lt;img src="https://example.com/p/2021/04/havoc-team-blast-race-review/result.PNG"
-srcset="https://example.com/p/2021/04/havoc-team-blast-race-review/result_hu58607ff2afa810892b3ad96fc4d12e0d_14448_480x0_resize_box_2.PNG 480w, https://example.com/p/2021/04/havoc-team-blast-race-review/result_hu58607ff2afa810892b3ad96fc4d12e0d_14448_1024x0_resize_box_2.PNG 1024w"
+&lt;a href="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/result.PNG" data-size="628x324">&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/result.PNG"
+srcset="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/result_hu58607ff2afa810892b3ad96fc4d12e0d_14448_480x0_resize_box_2.PNG 480w, https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/result_hu58607ff2afa810892b3ad96fc4d12e0d_14448_1024x0_resize_box_2.PNG 1024w"
 width="628"
 height="324"
 loading="lazy"
@@ -196,8 +196,8 @@ alt="Result">
 &lt;h3 id="atlas進行">Atlas進行&lt;/h3>
 &lt;p>エリア名だとわかりづらいので、以降は↓の図のように番号①～⑧で解説します。&lt;/p>
 &lt;p>&lt;figure style="flex-grow: 155; flex-basis: 372px">
-&lt;a href="https://example.com/p/2021/04/havoc-team-blast-race-review/atlas-number.png" data-size="1082x697">&lt;img src="https://example.com/p/2021/04/havoc-team-blast-race-review/atlas-number.png"
-srcset="https://example.com/p/2021/04/havoc-team-blast-race-review/atlas-number_hu5e208fdc1e04ee6bbeec2d2b761499a9_1383667_480x0_resize_box_2.png 480w, https://example.com/p/2021/04/havoc-team-blast-race-review/atlas-number_hu5e208fdc1e04ee6bbeec2d2b761499a9_1383667_1024x0_resize_box_2.png 1024w"
+&lt;a href="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/atlas-number.png" data-size="1082x697">&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/atlas-number.png"
+srcset="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/atlas-number_hu5e208fdc1e04ee6bbeec2d2b761499a9_1383667_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/atlas-number_hu5e208fdc1e04ee6bbeec2d2b761499a9_1383667_1024x0_resize_box_2.png 1024w"
 width="1082"
 height="697"
 loading="lazy"
@@ -244,8 +244,8 @@ alt="Atlas進行">
 &lt;p>この方法は、トレードリーグであれば、事前に相談して担当領域を決めておくだけで、簡単に再現できるので、おすすめです！&lt;/p>
 &lt;p>マップは↓みたいな感じで、地域ごとにギルスタの四隅に置いておくとわかりやすいです。&lt;/p>
 &lt;p>&lt;figure style="flex-grow: 83; flex-basis: 200px">
-&lt;a href="https://example.com/p/2021/04/havoc-team-blast-race-review/guild-stash.PNG" data-size="553x663">&lt;img src="https://example.com/p/2021/04/havoc-team-blast-race-review/guild-stash.PNG"
-srcset="https://example.com/p/2021/04/havoc-team-blast-race-review/guild-stash_hu99fd9beb8a2ca8a341a04eecbe89eefd_289086_480x0_resize_box_2.PNG 480w, https://example.com/p/2021/04/havoc-team-blast-race-review/guild-stash_hu99fd9beb8a2ca8a341a04eecbe89eefd_289086_1024x0_resize_box_2.PNG 1024w"
+&lt;a href="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/guild-stash.PNG" data-size="553x663">&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/guild-stash.PNG"
+srcset="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/guild-stash_hu99fd9beb8a2ca8a341a04eecbe89eefd_289086_480x0_resize_box_2.PNG 480w, https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/guild-stash_hu99fd9beb8a2ca8a341a04eecbe89eefd_289086_1024x0_resize_box_2.PNG 1024w"
 width="553"
 height="663"
 loading="lazy"
@@ -261,15 +261,15 @@ alt="Guild Stash">
 &lt;h2 id="wip-他チームの戦略">[WIP] 他チームの戦略&lt;/h2>
 &lt;p>WIP&lt;/p>
 &lt;h2 id="感想">感想&lt;/h2>
-&lt;p>最後に、今回一緒に参加してくれた、ばーんさん、はすどさん、らぐさん、ありでした！ｗ&lt;/p></description></item><item><title>フィルター用独自サウンドの作り方</title><link>https://example.com/p/guide/how-to-create-custom-sound/</link><pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate><guid>https://example.com/p/guide/how-to-create-custom-sound/</guid><description>&lt;p>独自のサウンドを作る方法は、オンラインのサイトを使う方法もありますが、それだと遅いので、ここでは &lt;code>voice.exe&lt;/code> を使った方法を紹介します。&lt;/p>
+&lt;p>最後に、今回一緒に参加してくれた、ばーんさん、はすどさん、らぐさん、ありでした！ｗ&lt;/p></description></item><item><title>フィルター用独自サウンドの作り方</title><link>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</link><pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</guid><description>&lt;p>独自のサウンドを作る方法は、オンラインのサイトを使う方法もありますが、それだと遅いので、ここでは &lt;code>voice.exe&lt;/code> を使った方法を紹介します。&lt;/p>
 &lt;h2 id="1-voiceexe-をダウンロード">1. &lt;code>voice.exe&lt;/code> をダウンロード&lt;/h2>
 &lt;p>下記のページにアクセスして「&lt;code>voice.exe&lt;/code>」をダウンロードして好きなフォルダに入れます。&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://www.elifulkerson.com/projects/commandline-text-to-speech.php">https://www.elifulkerson.com/projects/commandline-text-to-speech.php&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>&lt;figure style="flex-grow: 163; flex-basis: 392px">
-&lt;a href="https://example.com/p/guide/how-to-create-custom-sound/voice-download.png" data-size="537x328">&lt;img src="https://example.com/p/guide/how-to-create-custom-sound/voice-download.png"
-srcset="https://example.com/p/guide/how-to-create-custom-sound/voice-download_hu6eb182279e159d1defd5fbf23dc9e42a_13465_480x0_resize_box_2.png 480w, https://example.com/p/guide/how-to-create-custom-sound/voice-download_hu6eb182279e159d1defd5fbf23dc9e42a_13465_1024x0_resize_box_2.png 1024w"
+&lt;a href="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download.png" data-size="537x328">&lt;img src="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download.png"
+srcset="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download_hu6eb182279e159d1defd5fbf23dc9e42a_13465_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download_hu6eb182279e159d1defd5fbf23dc9e42a_13465_1024x0_resize_box_2.png 1024w"
 width="537"
 height="328"
 loading="lazy"
@@ -285,7 +285,7 @@ alt="voice.exe">
 &lt;/code>&lt;/pre>&lt;p>後は、いつもどおり「 &lt;code>C:\Users\ryzenier\Documents\My Games\Path of Exile&lt;/code> 」に &lt;code>trans.wav&lt;/code> を置いて完了です。&lt;/p>
 &lt;p>今回は例として「 &lt;code>trans&lt;/code> 」にしましたが「 &lt;code>blue blue green&lt;/code> 」のように複数単語にしたい場合は、↓のようにすることで、作成できます。&lt;/p>
 &lt;pre>&lt;code>voice -n &amp;quot;Microsoft Zira Desktop&amp;quot; -o bbg.wav blue blue green
-&lt;/code>&lt;/pre></description></item><item><title>ブログ始めました！！！</title><link>https://example.com/p/2021/04/my-first-post/</link><pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate><guid>https://example.com/p/2021/04/my-first-post/</guid><description>&lt;h2 id="ブログ始めました">ブログ始めました！&lt;/h2>
+&lt;/code>&lt;/pre></description></item><item><title>ブログ始めました！！！</title><link>https://ryzenier.github.io/p/2021/04/my-first-post/</link><pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/my-first-post/</guid><description>&lt;h2 id="ブログ始めました">ブログ始めました！&lt;/h2>
 &lt;p>ブログ始めました！よろしくお願いします！！！&lt;/p>
 &lt;p>ブログタイトルは少し悩みましたが「/log ryzenier」にしました。
 PoEのゲーム内コマンドっぽく、自分のプレイしたログを表示してる的な意味合いです。&lt;/p>
