@@ -55,8 +55,6 @@ draft: false
 
 チームメンバーは、以下の4人でした。
 
-全員がSSFHCでレベル100経験者かつ、bannyanさん、hsdfさん、自分はSSFHCのラダーでTOP10の経験あり、hsdfさん、gaijinlagさんはHCでRank#1パーティーになった経験のあるメンバーで、（自分で言うのもあれですが）そこそこ実力のあるメンバーです。
-
 使用スキルはBlade Blastで統一しました。
 
 SCの24時間のGroup FoundレースではAura Botは不要で、その分マップを回る人を増やしたほうがいいです。
