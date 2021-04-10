@@ -1,33 +1,47 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+description: Path of ExileをSSFHCでプレイしています。
+date: '2021-04-06'
+author: ryzenier
 aliases:
   - about-us
-  - about-hugo
   - contact
-license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2021-04-06'
 menu:
     main: 
         weight: -90
         pre: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## About
 
-Hugo makes use of a variety of open source projects including:
+Path of ExileをSSFHCでプレイしています。
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+レースイベントにも積極的に参加していますが、これといった成果は残せていません。
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+社会人で時間が限られていることから、効率的なプレイを心がけています。
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+## PoE略歴
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+- 1.1 Ambush
+    - ハクスラ初挑戦＆英語が読めずA3 Dominus倒した後Act 2週目で詰んで放置
+- 2.6 Legacy
+    - リーグ終わり際に復帰
+    - 英語の勉強をしたことで、少しずつゲームを理解できるようになり、PoE沼に浸かり始める
+- 3.0 Harbinger
+    - SCで40 Challenge達成！
+- 3.1 Abyss
+    - SSFHCに移行し目標だったレベル100達成！
+- 3.2 Bestiary ~ 3.4 Delve
+    - プライベートが忙しくなり一時休止 :sleeping:
+- 3.5 Betrayal ~ 現在
+    - 復帰し、SSFHCでプレイ中！ :running:
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## 各種リンク
+
+- PoE Profile: https://www.pathofexile.com/account/view-profile/ryzenier
+- Twitter: https://twitter.com/ryzenier
+    - RIP Clip Bot: https://twitter.com/poeripclipbot
+- Twitch: https://www.twitch.tv/ryzenier
+- YouTube: https://www.youtube.com/channel/UCz3lnnImPdL3c3ds8onZPNg
+- 個人Discord鯖: https://discord.gg/4sUEWKb
