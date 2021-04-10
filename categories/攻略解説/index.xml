@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>攻略解説 on /log ryzenier</title><link>https://example.com/categories/%E6%94%BB%E7%95%A5%E8%A7%A3%E8%AA%AC/</link><description>Recent content in 攻略解説 on /log ryzenier</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/%E6%94%BB%E7%95%A5%E8%A7%A3%E8%AA%AC/index.xml" rel="self" type="application/rss+xml"/><item><title>フィルター用独自サウンドの作り方</title><link>https://example.com/p/guide/how-to-create-custom-sound/</link><pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate><guid>https://example.com/p/guide/how-to-create-custom-sound/</guid><description>独自のサウンドを作る方法は、オンラインのサイトを使う方法もありますが、それだと遅いので、ここでは voice.exe を使った方法を紹介します。
+1. voice.exe をダウンロード 下記のページにアクセスして「voice.exe」をダウンロードして好きなフォルダに入れます。
+https://www.elifulkerson.com/projects/commandline-text-to-speech.php voice.exe
+2. コマンドプロンプトからコマンドを実行する コマンドプロンプトを起動して voice.exe をダウンロードしたフォルダに移動します。
+※やり方がわからない場合は「 コマンドプロンプト フォルダ 移動 」等でググってください。
+移動したら↓のコマンドをコピペして、実行すると voice.exe と同じフォルダに trans.wav というファイルができます。
+voice -n &amp;quot;Microsoft Zira Desktop&amp;quot; -o trans.wav trans 後は、いつもどおり「 C:\Users\ryzenier\Documents\My Games\Path of Exile 」に trans.wav を置いて完了です。
+今回は例として「 trans 」にしましたが「 blue blue green 」のように複数単語にしたい場合は、↓のようにすることで、作成できます。
+voice -n &amp;quot;Microsoft Zira Desktop&amp;quot; -o bbg.wav blue blue green</description></item></channel></rss>

@@ -1,3 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on /log ryzenier</title><link>https://example.com/post/</link><description>Recent content in Posts on /log ryzenier</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml"/><item><title>ブログ始めました！！！</title><link>https://example.com/p/2021/04/my-first-post/</link><pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate><guid>https://example.com/p/2021/04/my-first-post/</guid><description>ブログ始めました！ ブログ始めました！よろしくお願いします！！！
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on /log ryzenier</title><link>https://example.com/post/</link><description>Recent content in Posts on /log ryzenier</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml"/><item><title>3.13 Ritual Havoc Team Blast Race振り返り</title><link>https://example.com/p/2021/04/havoc-team-blast-race-review/</link><pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate><guid>https://example.com/p/2021/04/havoc-team-blast-race-review/</guid><description>これはなに？ 2/27&amp;amp;28に開催されたHavoc Team Blast Raceに参加したので、そのときの振り返り記事です。
+今後、同じようなレースに参加する人の参考になればと思います。
+また、パーティープレイでのリーグスタート記事はなかなか無いので「パーティープレイでリーグスタートをキメたい！」といった人向けにも参考になると嬉しいです。
+レース概要 2~6人のグループで、ポイントを競い合うTwitch StreamerのHavoc主催のコミュニティーレースイベントです。
+ポイントは↓の表にある通りで、24時間以内にできるだけ多く稼いだチームの優勝です。
+Point System
+League: Ritual SCベースのプライベートリーグ https://www.pathofexile.com/private-leagues/league/Havoc+Team+Blast 公式Info https://docs.google.com/spreadsheets/d/1PhvJRVymW9FVSQbNxKxxkiLlG3SX9qvnv04dp7mseus/edit#gid=0 ルール: 人数: 2~6人 パーティー内でのアイテムの共有可 6時間 x 4の途中休憩ありの合計24時間の4Quarter制 配信必須 日程: DAY1: 2/27 Q1: 10PM - 4AM Q2: 5AM - 11AM DAY2: 2/28 Q3: 10PM - 4AM Q4: 5AM - 11AM 公式Tweet 🏆 #HAVOCTEAMBLAST 🏆</description></item><item><title>フィルター用独自サウンドの作り方</title><link>https://example.com/p/guide/how-to-create-custom-sound/</link><pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate><guid>https://example.com/p/guide/how-to-create-custom-sound/</guid><description>独自のサウンドを作る方法は、オンラインのサイトを使う方法もありますが、それだと遅いので、ここでは voice.exe を使った方法を紹介します。
+1. voice.exe をダウンロード 下記のページにアクセスして「voice.exe」をダウンロードして好きなフォルダに入れます。
+https://www.elifulkerson.com/projects/commandline-text-to-speech.php voice.exe
+2. コマンドプロンプトからコマンドを実行する コマンドプロンプトを起動して voice.exe をダウンロードしたフォルダに移動します。
+※やり方がわからない場合は「 コマンドプロンプト フォルダ 移動 」等でググってください。
+移動したら↓のコマンドをコピペして、実行すると voice.exe と同じフォルダに trans.wav というファイルができます。
+voice -n &amp;quot;Microsoft Zira Desktop&amp;quot; -o trans.wav trans 後は、いつもどおり「 C:\Users\ryzenier\Documents\My Games\Path of Exile 」に trans.wav を置いて完了です。
+今回は例として「 trans 」にしましたが「 blue blue green 」のように複数単語にしたい場合は、↓のようにすることで、作成できます。
+voice -n &amp;quot;Microsoft Zira Desktop&amp;quot; -o bbg.wav blue blue green</description></item><item><title>ブログ始めました！！！</title><link>https://example.com/p/2021/04/my-first-post/</link><pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate><guid>https://example.com/p/2021/04/my-first-post/</guid><description>ブログ始めました！ ブログ始めました！よろしくお願いします！！！
 ブログタイトルは少し悩みましたが「/log ryzenier」にしました。 PoEのゲーム内コマンドっぽく、自分のプレイしたログを表示してる的な意味合いです。
 SSFHCのプレイ日記やレースの参加記録、解説記事なんかを書けたらなと思います。</description></item></channel></rss>
