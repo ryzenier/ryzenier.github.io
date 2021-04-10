@@ -27,9 +27,9 @@ draft: false
 ![Point System](htb-point-system.png)
 
 - League: Ritual SCベースのプライベートリーグ
-    - https://www.pathofexile.com/private-leagues/league/Havoc+Team+Blast
+    - [Private League Link](https://www.pathofexile.com/private-leagues/league/Havoc+Team+Blast)
 - 公式Info
-    - https://docs.google.com/spreadsheets/d/1PhvJRVymW9FVSQbNxKxxkiLlG3SX9qvnv04dp7mseus/edit#gid=0
+    - [Link](https://docs.google.com/spreadsheets/d/1PhvJRVymW9FVSQbNxKxxkiLlG3SX9qvnv04dp7mseus/edit#gid=0)
 - ルール:
     - 人数: 2~6人
     - パーティー内でのアイテムの共有可
@@ -99,13 +99,13 @@ SCの24時間のGroup FoundレースではAura Botは不要で、その分マッ
 
 Actの進行方法は、やることが多く、全てをここに書くのは難しいことと、既に良いドキュメントがあるので、こちらを参考にしてください。
 
-- https://docs.google.com/document/d/1s_riAfRTRVEavfPIlNRI4ekirpjLg8QeSuRDB9E4n54/edit
+- [ShakCentral's Group Progression](https://docs.google.com/document/d/1s_riAfRTRVEavfPIlNRI4ekirpjLg8QeSuRDB9E4n54/edit)
 
 Act5で2時間以内、A10で4時間以内を目安に練習するのがいいと思います。
 やってみて思ったのは、パーティーで進行したからといって、ソロで走るときと比べて劇的に早くなる、とかはないってことです。
 結局のところキャリーする人のタイムに依存します。
 
-### 各ボスの湧かせ方
+### 各ボスを倒すまで
 
 - Uber Atziri
     - Vald RestのSyndicateファームで[Sambodhi's Vow](https://pathofexile.gamepedia.com/Sambodhi%27s_Vow)のカードを集める
@@ -135,8 +135,8 @@ Act5で2時間以内、A10で4時間以内を目安に練習するのがいい�
 
 また、Atlasの石集めのテンプレ進行を理解していることを前提に書くので、まだの人は、コチラの素晴らしい記事を参考にしてください。
 
-- 英語: https://balormage.com/atlas-guide/
-- 日本語訳: https://balormage.com/atlas-guide-japanese-translation/
+- 英語: [Conquerors Atlas Guide for 3.11](https://balormage.com/atlas-guide/)
+- 日本語訳: [3.12 Conquerors Atlasガイド](https://balormage.com/atlas-guide-japanese-translation/)
 
 内側の石を回収する順番は、②→⑦→③→⑥にしました。
 
