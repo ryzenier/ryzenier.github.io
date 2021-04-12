@@ -9,6 +9,7 @@ tags:
     - 上級者向け
     - 超上級者向け
 draft: false
+image: voice-download.png
 ---
 
 独自のサウンドを作る方法は、オンラインのサイトを使う方法もありますが、それだと遅いので、ここでは `voice.exe` を使った方法を紹介します。
