@@ -88,58 +88,7 @@
 &lt;p>を一生繰り返していた。&lt;/p>
 &lt;p>進行速度を考えなければ、畑でいくらでも装備こねられたから「やるビルド見つけられるか」が鍵だったっぽい。&lt;/p>
 &lt;p>実際、Gauntlet終わりで、Raider Trinity DD（ninjaでやってるのは自分だけ）のギアコネてるときは楽しかった。&lt;/p>
-&lt;p>来季は面白いビルドが追加されるといいな。&lt;/p></description></item><item><title>Delveの低層クラフト回収場所まとめ</title><link>https://ryzenier.github.io/p/guide/delve-craft-benches/</link><pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/guide/delve-craft-benches/</guid><description>&lt;img src="https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches.PNG" alt="Featured image of post Delveの低層クラフト回収場所まとめ" />&lt;p>序盤ですぐに回収したい「2 Socket Colors &amp;amp; 2/3 Sockets」「4 Sockets」の場所のまとめです。&lt;/p>
-&lt;p>といっても、めちゃくちゃ簡単で、↓の図で&lt;/p>
-&lt;ul>
-&lt;li>&lt;span style="color:blue">青◯&lt;/span> : 2 Socket Colors &amp;amp; 2/3 Sockets (T1 Azurite Node: 線が1本)&lt;/li>
-&lt;li>&lt;span style="color:red">赤◯&lt;/span> : 4 Sockets (T2 Azurite Node: 線が2本)&lt;/li>
-&lt;/ul>
-&lt;p>です。&lt;/p>
-&lt;p>&lt;figure style="flex-grow: 121; flex-basis: 290px">
-&lt;a href="https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches.PNG" data-size="892x737">&lt;img src="https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches.PNG"
-srcset="https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches_huaf468e1e34a92c4fd2e488bfd9933261_1157862_480x0_resize_box_2.PNG 480w, https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches_huaf468e1e34a92c4fd2e488bfd9933261_1157862_1024x0_resize_box_2.PNG 1024w"
-width="892"
-height="737"
-loading="lazy"
-alt="Craft Benches">
-&lt;/a>
-&lt;figcaption>Craft Benches&lt;/figcaption>
-&lt;/figure>&lt;/p>
-&lt;p>3.13でHarvestがCoreに追加されたことでDelveに行く理由は、ほぼなくなりました。
-上記のクラフトの場所さえ覚えておけば、余計に掘る必要がなくなります。&lt;/p>
-&lt;p>最後に、今回使用したソースはこちら。その他のCraft Benchの場所も載っているので、適宜参考にしてください。&lt;/p>
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://www.reddit.com/r/pathofexile/comments/a4njpc/recipe_locations/" target="_blank" rel="noopener"
->reddit - Recipe Locations&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>フィルター用独自サウンドの作り方</title><link>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</link><pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</guid><description>&lt;img src="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download.png" alt="Featured image of post フィルター用独自サウンドの作り方" />&lt;p>独自のサウンドを作る方法は、オンラインのサイトを使う方法もありますが、それだと遅いので、localで作成できる &lt;code>voice.exe&lt;/code> を紹介します。&lt;/p>
-&lt;h2 id="1-voiceexe-をダウンロード">1. &lt;code>voice.exe&lt;/code> をダウンロード&lt;/h2>
-&lt;p>下記のページにアクセスして「&lt;code>voice.exe&lt;/code>」をダウンロードして好きなフォルダに入れます。&lt;/p>
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://www.elifulkerson.com/projects/commandline-text-to-speech.php" target="_blank" rel="noopener"
->voice.exe&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>ダウンロードする場所はトップページの&lt;span style="color:red">赤枠&lt;/span>で囲ったところ↓&lt;/p>
-&lt;p>&lt;figure style="flex-grow: 163; flex-basis: 392px">
-&lt;a href="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download.png" data-size="537x328">&lt;img src="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download.png"
-srcset="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download_hu6eb182279e159d1defd5fbf23dc9e42a_13465_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download_hu6eb182279e159d1defd5fbf23dc9e42a_13465_1024x0_resize_box_2.png 1024w"
-width="537"
-height="328"
-loading="lazy"
-alt="voice.exe">
-&lt;/a>
-&lt;figcaption>voice.exe&lt;/figcaption>
-&lt;/figure>&lt;/p>
-&lt;h2 id="2-コマンドプロンプトからコマンドを実行する">2. コマンドプロンプトからコマンドを実行する&lt;/h2>
-&lt;p>コマンドプロンプトを起動して &lt;code>voice.exe&lt;/code> をダウンロードしたフォルダに移動します。&lt;/p>
-&lt;p>※やり方がわからない場合は「 &lt;code>コマンドプロンプト フォルダ 移動&lt;/code> 」等でググってください。&lt;/p>
-&lt;p>移動したら↓のコマンドをコピペして、実行すると &lt;code>voice.exe&lt;/code> と同じフォルダに &lt;code>trans.wav&lt;/code> というファイルができます。&lt;/p>
-&lt;pre>&lt;code>voice -n &amp;quot;Microsoft Zira Desktop&amp;quot; -o trans.wav trans
-&lt;/code>&lt;/pre>&lt;p>（※コマンドプロンプトは&lt;code>Ctrl + V&lt;/code>が使えないので右クリック→貼り付けで）&lt;/p>
-&lt;p>後は、いつもどおり「&lt;code>C:\Users\ryzenier\Documents\My Games\Path of Exile&lt;/code>」に &lt;code>trans.wav&lt;/code> を置いて完了です。&lt;/p>
-&lt;hr>
-&lt;p>今回は例として「&lt;code>trans&lt;/code>」にしましたが「&lt;code>blue blue green&lt;/code>」のように複数単語にしたい場合は、特に何も考えず↓のように羅列すればOKです！&lt;/p>
-&lt;pre>&lt;code>voice -n &amp;quot;Microsoft Zira Desktop&amp;quot; -o bbg.wav blue blue green
-&lt;/code>&lt;/pre></description></item><item><title>3.13 Ritual Havoc Team Blast Race振り返り</title><link>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</link><pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</guid><description>&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/thumbnail.jpg" alt="Featured image of post 3.13 Ritual Havoc Team Blast Race振り返り" />&lt;h2 id="これはなに">これはなに？&lt;/h2>
+&lt;p>来季は面白いビルドが追加されるといいな。&lt;/p></description></item><item><title>3.13 Ritual Havoc Team Blast Race振り返り</title><link>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</link><pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</guid><description>&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/thumbnail.jpg" alt="Featured image of post 3.13 Ritual Havoc Team Blast Race振り返り" />&lt;h2 id="これはなに">これはなに？&lt;/h2>
 &lt;p>2/27&amp;amp;28に開催されたHavoc Team Blast Raceに参加したので、そのときの振り返り記事です。&lt;/p>
 &lt;p>今後、同じようなレースに参加する人の参考になればと思います。&lt;/p>
 &lt;p>また、パーティープレイでのリーグスタート記事はなかなか無いので「パーティープレイでリーグスタートをキメたい！」といった人向けにも参考になると嬉しいです。&lt;/p>
@@ -208,8 +157,9 @@ title="YouTube Video"
 &lt;/div>
 &lt;h2 id="チームメンバー紹介">チームメンバー紹介&lt;/h2>
 &lt;p>チームメンバーは、以下の4人でした。&lt;/p>
-&lt;p>使用スキルはBlade Blastで統一しました。&lt;/p>
 &lt;p>SCの24時間のGroup FoundレースではAura Botは不要で、その分マップを回る人を増やしたほうがいいです。&lt;/p>
+&lt;p>使用スキルはBlade Blastで統一しました。&lt;/p>
+&lt;p>自分のやっていたキャラのPoB: &lt;a href="https://pastebin.com/cBqBArAM">https://pastebin.com/cBqBArAM&lt;/a>&lt;/p>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -293,10 +243,10 @@ alt="Result">
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
 &lt;p>自分たちの上には、レース常連の人たちしかいなかったので、そこそこ健闘できたかな、という感想です。&lt;/p>
 &lt;hr>
-&lt;p>ここからは、レース前の練習の振り返りと、具体的にどんな戦略を立てたのか、他のチームはどうだったのか、という振り返りです。&lt;/p>
+&lt;p>ここからは、レース前の練習の振り返りと、具体的にどんな戦略を立てたのか、他のチームはどうだったのか、という振り返っていこうと思います。&lt;/p>
 &lt;h2 id="事前練習">事前練習&lt;/h2>
-&lt;p>練習は、本番の10日前の2/17から初めて、平日はだいたい22:00～3:00、土日は10時間ほどチームで練習しました。&lt;/p>
-&lt;h2 id="事前の戦略と振り返り">事前の戦略と振り返り&lt;/h2>
+&lt;p>10日前の2/17から初めて、平日はだいたい22:00～2:00、土日は10時間ほどチームで練習しました。&lt;/p>
+&lt;h2 id="事前の戦略">事前の戦略&lt;/h2>
 &lt;h3 id="act進行">Act進行&lt;/h3>
 &lt;p>Actの進行方法は、やることが多く、全てをここに書くのは難しいことと、既に良いドキュメントがあるので、こちらを参考にしてください。&lt;/p>
 &lt;ul>
@@ -306,19 +256,19 @@ alt="Result">
 &lt;p>Act5で2時間以内、A10で4時間以内を目安に練習するのがいいと思います。
 やってみて思ったのは、パーティーで進行したからといって、ソロで走るときと比べて劇的に早くなる、とかはないってことです。
 結局のところキャリーする人のタイムに依存します。&lt;/p>
-&lt;h3 id="各ボスを倒すまで">各ボスを倒すまで&lt;/h3>
+&lt;h3 id="各ボスの挑戦権獲得方法">各ボスの挑戦権獲得方法&lt;/h3>
 &lt;ul>
 &lt;li>Uber Atziri
 &lt;ul>
 &lt;li>Vald RestのSyndicateファームで&lt;a class="link" href="https://pathofexile.gamepedia.com/Sambodhi%27s_Vow" target="_blank" rel="noopener"
 >Sambodhi&amp;rsquo;s Vow&lt;/a>のカードを集める&lt;/li>
-&lt;li>Wild T3: Sacrifice a Red Map to create random Map Fragments based on its tierで入手&lt;/li>
+&lt;li>畑のWild T3: Wild Thornmaw Bulbから入手&lt;/li>
 &lt;li>Atziriを倒す（1周約3~5分程度でドロップ率40%ほど）&lt;/li>
-&lt;li>Primal T2: Change a Sacrifice or Mortal Fragment into another random Fragment of that typeで変換&lt;/li>
+&lt;li>畑のPrimal T2 Primal Dustcrab Grainで変換&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;p>=&amp;gt; 畑でFragmentの入手と変換ができるので、思いの外簡単に集められます&lt;/p>
+&lt;p>=&amp;gt; 今期は畑でFragmentの入手と変換ができたので、思いの外、簡単に集められました&lt;/p>
 &lt;ul>
 &lt;li>Maven
 &lt;ul>
@@ -334,10 +284,20 @@ alt="Result">
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;p>=&amp;gt; どちらもガーディアンラッシュに行くのが近道です&lt;/p>
-&lt;p>=&amp;gt; &lt;strong>なるはやでT14+に到達し、マップを回しまくることが重要です！！！&lt;/strong>&lt;/p>
-&lt;h3 id="atlas進行">Atlas進行&lt;/h3>
-&lt;p>エリア名だとわかりづらいので、以降は↓の図のように番号①～⑧で解説します。&lt;/p>
+&lt;p>どちらもガーディアンラッシュに行くことが近道になるので、&lt;/p>
+&lt;p>=&amp;gt; &lt;strong>なるはやでT14+に到達し、マップを回しまくることが重要でした！！！&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;p>自分たちのチームが、具体的どのようにして「なるはやでT14+に到達」できるように、戦略を立てたか解説していこうと思います。&lt;/p>
+&lt;p>（個人的には、事前練習の甲斐もあって、ベストな動きだと思ってます）&lt;/p>
+&lt;h3 id="atlas進行手順">Atlas進行手順&lt;/h3>
+&lt;p>解説するにあたり、エリア名だとわかりづらいので、以降は↓の図のように地域名ではなく番号①～⑧で解説します。&lt;/p>
+&lt;p>Atlasの石集めのテンプレ進行を理解していることを前提に書くので、まだの人は、コチラの素晴らしい記事を参考にしてください。&lt;/p>
+&lt;ul>
+&lt;li>英語: &lt;a class="link" href="https://balormage.com/atlas-guide/" target="_blank" rel="noopener"
+>Conquerors Atlas Guide for 3.11&lt;/a>&lt;/li>
+&lt;li>日本語訳: &lt;a class="link" href="https://balormage.com/atlas-guide-japanese-translation/" target="_blank" rel="noopener"
+>3.12 Conquerors Atlasガイド&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;p>&lt;figure style="flex-grow: 155; flex-basis: 372px">
 &lt;a href="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/atlas-number.png" data-size="1082x697">&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/atlas-number.png"
 srcset="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/atlas-number_hu5e208fdc1e04ee6bbeec2d2b761499a9_1383667_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/atlas-number_hu5e208fdc1e04ee6bbeec2d2b761499a9_1383667_1024x0_resize_box_2.png 1024w"
@@ -348,29 +308,38 @@ alt="Atlas進行">
 &lt;/a>
 &lt;figcaption>Atlas進行&lt;/figcaption>
 &lt;/figure>&lt;/p>
-&lt;p>また、Atlasの石集めのテンプレ進行を理解していることを前提に書くので、まだの人は、コチラの素晴らしい記事を参考にしてください。&lt;/p>
-&lt;ul>
-&lt;li>英語: &lt;a class="link" href="https://balormage.com/atlas-guide/" target="_blank" rel="noopener"
->Conquerors Atlas Guide for 3.11&lt;/a>&lt;/li>
-&lt;li>日本語訳: &lt;a class="link" href="https://balormage.com/atlas-guide-japanese-translation/" target="_blank" rel="noopener"
->3.12 Conquerors Atlasガイド&lt;/a>&lt;/li>
-&lt;/ul>
+&lt;h4 id="内周の石集めの順番">内周の石集めの順番&lt;/h4>
 &lt;p>内側の石を回収する順番は、②→⑦→③→⑥にしました。&lt;/p>
+&lt;p>マップ入り後はファーム速度のためにも、5Lが欲しいので「Invasion Bosses in Areas drop 1 additional valuable Item」のある②。&lt;/p>
+&lt;p>次に、マップドロップ＆経験値の美味い「Up to 1 Harbinger in Areas is joined by reinforcements」のある⑦。&lt;/p>
+&lt;p>特に旨味の無い⑥は、一番最後でいいので③→⑥の順番にしました。&lt;/p>
+&lt;hr>
+&lt;p>ここからは、更に具体的な動きを書いていこうと思います。&lt;/p>
 &lt;h4 id="map入り直後">Map入り直後&lt;/h4>
+&lt;p>Map入り直後は、なるべくはやくT3 Mapに行き、Zanaからマップを買うことでMapプールを増やすことが重要です。
+普段のSSFのリーグスタート時は、T2までしか作ることができませんが、今回はパーティーなので、即T3を作ってZanaを湧かせるようにしました。&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>手順&lt;/p>
 &lt;ol>
 &lt;li>各々KiracからT1をもらた後、T1 Covesを買って3枚売りのVendorレシピでT2 Wharf (※1)を作ってギルスタに入れる&lt;/li>
 &lt;li>リーダーがギルスタのT2 Wharfを回収しT3 Mapを作る&lt;/li>
 &lt;li>T3マップにいってZanaを湧かす(※2)&lt;/li>
 &lt;/ol>
-&lt;p>Map入り直後は、なるべくはやくT3 Mapに行き、Zanaからマップを買うことでMapプールを増やすことが重要です。
-普段のSSFのリーグスタート時は、T2までしか作ることができませんが、今回はパーティーなので、即T3を作ってZanaを湧かせるようにしました。&lt;/p>
-&lt;ul>
-&lt;li>※1: T2をWharfにしている理由は特にありません。メンバー間で統一できていれば他の②のT2でもOKです。&lt;/li>
-&lt;li>※2: ②の地域でT3を作るのは、最初に石をはめるのが②だからです。（内側の台座は、各領域でT3以上のマップボスを倒したときに必ず手に入り、パーティーで共有できます）&lt;/li>
+&lt;/li>
+&lt;li>
+&lt;p>※1: T2をWharfにしている理由は特にありません。メンバー間で統一できていれば他の②のT2でもOKです。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>※2: ②の地域でT3を作るのは、最初に石をはめるのが②だからです。（内側の台座は、各領域でT3以上のマップボスを倒したときに必ず手に入り、パーティーで共有できます）&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h4 id="外周石集め-watchstone-1-4">外周石集め Watchstone: 1-4&lt;/h4>
+&lt;p>Zanaを湧かせた後は、各々石集めを行います。&lt;/p>
+&lt;ul>
+&lt;li>手順
 &lt;ol>
-&lt;li>各々zanaからマップを買う
+&lt;li>各々Zanaからマップを買う
 &lt;ul>
 &lt;li>このとき、事前に四隅を分担しておき、自分の担当以外のマップはギルスタに入れて担当の人に渡す&lt;/li>
 &lt;li>本番は①: ryzenier、④: hsdf、⑤: gaijinlag、⑧: bannyanで分担&lt;/li>
@@ -379,13 +348,15 @@ alt="Atlas進行">
 &lt;li>担当のエリアでBaranを倒したら②に石をはめ、余ったマップをギルスタに入れる&lt;/li>
 &lt;li>ギルスタから四隅のマップを回収して、時計回りで残りの外周の石を回収する&lt;/li>
 &lt;/ol>
+&lt;/li>
+&lt;/ul>
 &lt;p>Zanaが初めて販売するマップは、以前は固定でしたが、いつからか固定ではなくなりました。
 自分の担当領域が売っていなかったら、内側のT1~3を回ってAtlas Bonusを共有しつつ、↓の方法で無理やり手に入れます。&lt;/p>
 &lt;ul>
 &lt;li>余ったT4、T5にHorizon Orbを使う&lt;/li>
-&lt;li>ZanaのMaster Missionを入手したら速攻で使い、店売りを更新&lt;/li>
+&lt;li>ZanaのMaster Missionを入手したら速攻で使い、店売りを更新してマップを購入&lt;/li>
 &lt;/ul>
-&lt;p>担当領域のBaranを倒すまでは、他の外周の領域は絶対に回らないようにしましょう。&lt;/p>
+&lt;p>担当領域のBaranを倒すまでは、他の外周の領域は絶対に回らないようにしましょう。（自分のマップドロッププールに他の外周のマップドロップを混入させないため）&lt;/p>
 &lt;p>この方法は、トレードリーグであれば、事前に相談して担当領域を決めておくだけで、簡単に再現できるので、おすすめです！&lt;/p>
 &lt;p>マップは↓みたいな感じで、地域ごとにギルスタの四隅に置いておくとわかりやすいです。&lt;/p>
 &lt;p>&lt;figure style="flex-grow: 83; flex-basis: 200px">
@@ -403,10 +374,127 @@ alt="Guild Stash">
 &lt;h4 id="watchstone-17-20">Watchstone: 17-20&lt;/h4>
 &lt;p>今季はVald&amp;rsquo;s Restがマップ維持＆Syndicateファームするにあたり、めちゃくちゃ美味かったこともあり、最後の内周の石はボスキル役（ALを8まで上げる必要がある）以外は、回収しませんでした。&lt;/p>
 &lt;p>後は、ひたすらマップを回して、ガーディアンマップを入手するだけです。&lt;/p>
+&lt;h3 id="maven関連">Maven関連&lt;/h3>
+&lt;p>今期から追加されたMaven関連ですが、パーティーだと&lt;strong>圧倒的に&lt;/strong>有利に進行できます。&lt;/p>
+&lt;p>Maven&amp;rsquo;s Beaconは、T5以上でMavenがボスに憑依したときにもらえますが、Mavenが現れるかは確定ではなくランダムです。&lt;/p>
+&lt;p>このため通常、運の要素が絡みますが、Maven&amp;rsquo;s Beaconは、パーティーで共有できるので、憑依したのを確認したらメンバー呼んでから一緒にボスを倒すことで通常より運の要素を減らして、早期に入手できます。
+（バグなのかは定かではありませんが、一部のメンバーが、たまに入手できないときもありました。）&lt;/p>
+&lt;p>Invitationのフラグもパーティーで共有できるので、ボスを倒す直前にメンバーを呼ぶのを心がけていくと、早期にAtlas Passiveを振れます。
+通常、行くのに時間のかかる10ボスラッシュもパーティーメンバーの頭数分、有利になります（5人で回せば一人あたり2回マップ回るだけで済む）。&lt;/p>
+&lt;p>勿論、Shaper/Elder Guardian等の各種ボスラッシュ系のフラグも共有することができるので、Atlas中央Passiveも早期に入手できます。&lt;/p>
+&lt;p>今後は、AtlasのMap BonusやLabyrinth Trialの共有に加えて、Invitationのフラグも共有もしていくと序盤、相当有利に進められます。&lt;/p>
+&lt;p>（正直、パーティープレイに有利過ぎるシステムだと思いました。）&lt;/p>
+&lt;h3 id="各種リーグ要素">各種リーグ要素&lt;/h3>
+&lt;ul>
+&lt;li>Ritual
+&lt;ul>
+&lt;li>マップが落ちるので序盤は触るが、後半は全スルー&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Heist
+&lt;ul>
+&lt;li>全スルー&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Harvest
+&lt;ul>
+&lt;li>各自こねて、要らなくなった装備は共有&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Delirium
+&lt;ul>
+&lt;li>やらない理由がないのでやる&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Metamorph
+&lt;ul>
+&lt;li>マップ落ちるし、SCなのでやる&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Blight
+&lt;ul>
+&lt;li>Boss Kill担当のみ&lt;/li>
+&lt;li>Freedom of Movementとか安くてファーム速度が上がるノードのが取れるぐらいにはやっても良かったかも&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Legion
+&lt;ul>
+&lt;li>全スルー&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Betrayal
+&lt;ul>
+&lt;li>Vald&amp;rsquo;s Restでファーム中に経験値目的でやる。Safehouseは全員で共有&lt;/li>
+&lt;li>Chaosの複合resとトリソケだけ回収したらVeiledはやらない&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Delve
+&lt;ul>
+&lt;li>Delve担当のみやる。燃料は白マップから共有する&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Incursion
+&lt;ul>
+&lt;li>全スルー&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="wip-他チームの戦略">[WIP] 他チームの戦略&lt;/h2>
 &lt;p>WIP&lt;/p>
 &lt;h2 id="感想">感想&lt;/h2>
-&lt;p>最後に、今回一緒に参加してくれた、ばーんさん、はすどさん、らぐさん、ありでした！ｗ&lt;/p></description></item><item><title>ブログ始めました！！！</title><link>https://ryzenier.github.io/p/2021/04/my-first-post/</link><pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/my-first-post/</guid><description>&lt;h2 id="ブログ始めました">ブログ始めました！&lt;/h2>
+&lt;p>最後に、今回一緒に参加してくれた、ばーんさん、はすどさん、らぐさん、ありでした！ｗ&lt;/p>
+&lt;p>普段、SSFHCに籠もってるのもあって、パーティープレイ自体が新鮮だったのと、色々なことが知れたので、めちゃくちゃ楽しかったです！&lt;/p></description></item><item><title>Delveの低層クラフト回収場所まとめ</title><link>https://ryzenier.github.io/p/guide/delve-craft-benches/</link><pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/guide/delve-craft-benches/</guid><description>&lt;img src="https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches.PNG" alt="Featured image of post Delveの低層クラフト回収場所まとめ" />&lt;p>序盤ですぐに回収したい「2 Socket Colors &amp;amp; 2/3 Sockets」「4 Sockets」の場所のまとめです。&lt;/p>
+&lt;p>といっても、めちゃくちゃ簡単で、↓の図で&lt;/p>
+&lt;ul>
+&lt;li>&lt;span style="color:blue">青◯&lt;/span> : 2 Socket Colors &amp;amp; 2/3 Sockets (T1 Azurite Node: 線が1本)&lt;/li>
+&lt;li>&lt;span style="color:red">赤◯&lt;/span> : 4 Sockets (T2 Azurite Node: 線が2本)&lt;/li>
+&lt;/ul>
+&lt;p>です。&lt;/p>
+&lt;p>&lt;figure style="flex-grow: 121; flex-basis: 290px">
+&lt;a href="https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches.PNG" data-size="892x737">&lt;img src="https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches.PNG"
+srcset="https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches_huaf468e1e34a92c4fd2e488bfd9933261_1157862_480x0_resize_box_2.PNG 480w, https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches_huaf468e1e34a92c4fd2e488bfd9933261_1157862_1024x0_resize_box_2.PNG 1024w"
+width="892"
+height="737"
+loading="lazy"
+alt="Craft Benches">
+&lt;/a>
+&lt;figcaption>Craft Benches&lt;/figcaption>
+&lt;/figure>&lt;/p>
+&lt;p>3.13でHarvestがCoreに追加されたことでDelveに行く理由は、ほぼなくなりました。
+上記のクラフトの場所さえ覚えておけば、余計に掘る必要がなくなります。&lt;/p>
+&lt;p>最後に、今回使用したソースはこちら。その他のCraft Benchの場所も載っているので、適宜参考にしてください。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.reddit.com/r/pathofexile/comments/a4njpc/recipe_locations/" target="_blank" rel="noopener"
+>reddit - Recipe Locations&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>フィルター用独自サウンドの作り方</title><link>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</link><pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</guid><description>&lt;img src="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download.png" alt="Featured image of post フィルター用独自サウンドの作り方" />&lt;p>独自のサウンドを作る方法は、オンラインのサイトを使う方法もありますが、それだと遅いので、localで作成できる &lt;code>voice.exe&lt;/code> を紹介します。&lt;/p>
+&lt;h2 id="1-voiceexe-をダウンロード">1. &lt;code>voice.exe&lt;/code> をダウンロード&lt;/h2>
+&lt;p>下記のページにアクセスして「&lt;code>voice.exe&lt;/code>」をダウンロードして好きなフォルダに入れます。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.elifulkerson.com/projects/commandline-text-to-speech.php" target="_blank" rel="noopener"
+>voice.exe&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>ダウンロードする場所はトップページの&lt;span style="color:red">赤枠&lt;/span>で囲ったところ↓&lt;/p>
+&lt;p>&lt;figure style="flex-grow: 163; flex-basis: 392px">
+&lt;a href="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download.png" data-size="537x328">&lt;img src="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download.png"
+srcset="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download_hu6eb182279e159d1defd5fbf23dc9e42a_13465_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download_hu6eb182279e159d1defd5fbf23dc9e42a_13465_1024x0_resize_box_2.png 1024w"
+width="537"
+height="328"
+loading="lazy"
+alt="voice.exe">
+&lt;/a>
+&lt;figcaption>voice.exe&lt;/figcaption>
+&lt;/figure>&lt;/p>
+&lt;h2 id="2-コマンドプロンプトからコマンドを実行する">2. コマンドプロンプトからコマンドを実行する&lt;/h2>
+&lt;p>コマンドプロンプトを起動して &lt;code>voice.exe&lt;/code> をダウンロードしたフォルダに移動します。&lt;/p>
+&lt;p>※やり方がわからない場合は「 &lt;code>コマンドプロンプト フォルダ 移動&lt;/code> 」等でググってください。&lt;/p>
+&lt;p>移動したら↓のコマンドをコピペして、実行すると &lt;code>voice.exe&lt;/code> と同じフォルダに &lt;code>trans.wav&lt;/code> というファイルができます。&lt;/p>
+&lt;pre>&lt;code>voice -n &amp;quot;Microsoft Zira Desktop&amp;quot; -o trans.wav trans
+&lt;/code>&lt;/pre>&lt;p>（※コマンドプロンプトは&lt;code>Ctrl + V&lt;/code>が使えないので右クリック→貼り付けで）&lt;/p>
+&lt;p>後は、いつもどおり「&lt;code>C:\Users\ryzenier\Documents\My Games\Path of Exile&lt;/code>」に &lt;code>trans.wav&lt;/code> を置いて完了です。&lt;/p>
+&lt;hr>
+&lt;p>今回は例として「&lt;code>trans&lt;/code>」にしましたが「&lt;code>blue blue green&lt;/code>」のように複数単語にしたい場合は、特に何も考えず↓のように羅列すればOKです！&lt;/p>
+&lt;pre>&lt;code>voice -n &amp;quot;Microsoft Zira Desktop&amp;quot; -o bbg.wav blue blue green
+&lt;/code>&lt;/pre></description></item><item><title>ブログ始めました！！！</title><link>https://ryzenier.github.io/p/2021/04/my-first-post/</link><pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/my-first-post/</guid><description>&lt;h2 id="ブログ始めました">ブログ始めました！&lt;/h2>
 &lt;p>ブログ始めました！よろしくお願いします！！！&lt;/p>
 &lt;p>ブログタイトルは少し悩みましたが「/log ryzenier」にしました。
 PoEのゲーム内コマンドっぽく、自分のプレイしたログを表示してる的な意味合いです。&lt;/p>
