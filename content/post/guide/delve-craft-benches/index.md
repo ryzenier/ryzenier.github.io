@@ -1,7 +1,7 @@
 ---
 title: Delveの低層クラフト回収場所まとめ
 description: 序盤に速攻で「2 Socket Colors & 2/3 Sockets」「4 Sockets」を回収する方法です
-date: 2021-04-11
+date: 2021-04-09
 slug: guide/delve-craft-benches
 categories:
     - 攻略解説
