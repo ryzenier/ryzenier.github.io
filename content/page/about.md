@@ -45,3 +45,4 @@ Path of ExileをSSFHCでプレイしています。
 - Twitch: https://www.twitch.tv/ryzenier
 - YouTube: https://www.youtube.com/channel/UCz3lnnImPdL3c3ds8onZPNg
 - 個人Discord鯖: https://discord.gg/4sUEWKb
+- RSS: https://ryzenier.github.io/index.xml
