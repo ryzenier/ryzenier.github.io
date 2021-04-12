@@ -31,6 +31,9 @@ params:
     rssFullContent: true
     favicon:
 
+    # GA Analytics 4
+    googleAnalyticsID: "G-LLJKYX5TLE"
+
     footer:
         since: 2021
         customText:
