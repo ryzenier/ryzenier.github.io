@@ -288,7 +288,7 @@ alt="Guild Stash">
 &lt;h2 id="wip-他チームの戦略">[WIP] 他チームの戦略&lt;/h2>
 &lt;p>WIP&lt;/p>
 &lt;h2 id="感想">感想&lt;/h2>
-&lt;p>最後に、今回一緒に参加してくれた、ばーんさん、はすどさん、らぐさん、ありでした！ｗ&lt;/p></description></item><item><title>フィルター用独自サウンドの作り方</title><link>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</link><pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</guid><description>&lt;p>独自のサウンドを作る方法は、オンラインのサイトを使う方法もありますが、それだと遅いので、ここでは &lt;code>voice.exe&lt;/code> を使った方法を紹介します。&lt;/p>
+&lt;p>最後に、今回一緒に参加してくれた、ばーんさん、はすどさん、らぐさん、ありでした！ｗ&lt;/p></description></item><item><title>フィルター用独自サウンドの作り方</title><link>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</link><pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</guid><description>&lt;img src="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download.png" alt="Featured image of post フィルター用独自サウンドの作り方" />&lt;p>独自のサウンドを作る方法は、オンラインのサイトを使う方法もありますが、それだと遅いので、ここでは &lt;code>voice.exe&lt;/code> を使った方法を紹介します。&lt;/p>
 &lt;h2 id="1-voiceexe-をダウンロード">1. &lt;code>voice.exe&lt;/code> をダウンロード&lt;/h2>
 &lt;p>下記のページにアクセスして「&lt;code>voice.exe&lt;/code>」をダウンロードして好きなフォルダに入れます。&lt;/p>
 &lt;ul>
