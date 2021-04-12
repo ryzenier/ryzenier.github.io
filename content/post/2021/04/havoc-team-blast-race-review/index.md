@@ -8,6 +8,7 @@ categories:
 tags:
     - Race Event
 draft: false
+image: thumbnail.jpg
 ---
 
 ## これはなに？
