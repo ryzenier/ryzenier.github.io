@@ -111,12 +111,14 @@ alt="Craft Benches">
 &lt;ul>
 &lt;li>&lt;a class="link" href="https://www.reddit.com/r/pathofexile/comments/a4njpc/recipe_locations/" target="_blank" rel="noopener"
 >reddit - Recipe Locations&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>フィルター用独自サウンドの作り方</title><link>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</link><pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</guid><description>&lt;img src="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download.png" alt="Featured image of post フィルター用独自サウンドの作り方" />&lt;p>独自のサウンドを作る方法は、オンラインのサイトを使う方法もありますが、それだと遅いので、ここでは &lt;code>voice.exe&lt;/code> を使った方法を紹介します。&lt;/p>
+&lt;/ul></description></item><item><title>フィルター用独自サウンドの作り方</title><link>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</link><pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</guid><description>&lt;img src="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download.png" alt="Featured image of post フィルター用独自サウンドの作り方" />&lt;p>独自のサウンドを作る方法は、オンラインのサイトを使う方法もありますが、それだと遅いので、localで作成できる &lt;code>voice.exe&lt;/code> を紹介します。&lt;/p>
 &lt;h2 id="1-voiceexe-をダウンロード">1. &lt;code>voice.exe&lt;/code> をダウンロード&lt;/h2>
 &lt;p>下記のページにアクセスして「&lt;code>voice.exe&lt;/code>」をダウンロードして好きなフォルダに入れます。&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://www.elifulkerson.com/projects/commandline-text-to-speech.php">https://www.elifulkerson.com/projects/commandline-text-to-speech.php&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.elifulkerson.com/projects/commandline-text-to-speech.php" target="_blank" rel="noopener"
+>voice.exe&lt;/a>&lt;/li>
 &lt;/ul>
+&lt;p>ダウンロードする場所はトップページの&lt;span style="color:red">赤枠&lt;/span>で囲ったところ↓&lt;/p>
 &lt;p>&lt;figure style="flex-grow: 163; flex-basis: 392px">
 &lt;a href="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download.png" data-size="537x328">&lt;img src="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download.png"
 srcset="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download_hu6eb182279e159d1defd5fbf23dc9e42a_13465_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download_hu6eb182279e159d1defd5fbf23dc9e42a_13465_1024x0_resize_box_2.png 1024w"
@@ -132,8 +134,10 @@ alt="voice.exe">
 &lt;p>※やり方がわからない場合は「 &lt;code>コマンドプロンプト フォルダ 移動&lt;/code> 」等でググってください。&lt;/p>
 &lt;p>移動したら↓のコマンドをコピペして、実行すると &lt;code>voice.exe&lt;/code> と同じフォルダに &lt;code>trans.wav&lt;/code> というファイルができます。&lt;/p>
 &lt;pre>&lt;code>voice -n &amp;quot;Microsoft Zira Desktop&amp;quot; -o trans.wav trans
-&lt;/code>&lt;/pre>&lt;p>後は、いつもどおり「 &lt;code>C:\Users\ryzenier\Documents\My Games\Path of Exile&lt;/code> 」に &lt;code>trans.wav&lt;/code> を置いて完了です。&lt;/p>
-&lt;p>今回は例として「 &lt;code>trans&lt;/code> 」にしましたが「 &lt;code>blue blue green&lt;/code> 」のように複数単語にしたい場合は、↓のようにすることで、作成できます。&lt;/p>
+&lt;/code>&lt;/pre>&lt;p>（※コマンドプロンプトは&lt;code>Ctrl + V&lt;/code>が使えないので右クリック→貼り付けで）&lt;/p>
+&lt;p>後は、いつもどおり「&lt;code>C:\Users\ryzenier\Documents\My Games\Path of Exile&lt;/code>」に &lt;code>trans.wav&lt;/code> を置いて完了です。&lt;/p>
+&lt;hr>
+&lt;p>今回は例として「&lt;code>trans&lt;/code>」にしましたが「&lt;code>blue blue green&lt;/code>」のように複数単語にしたい場合は、特に何も考えず↓のように羅列すればOKです！&lt;/p>
 &lt;pre>&lt;code>voice -n &amp;quot;Microsoft Zira Desktop&amp;quot; -o bbg.wav blue blue green
 &lt;/code>&lt;/pre></description></item><item><title>3.13 Ritual Havoc Team Blast Race振り返り</title><link>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</link><pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</guid><description>&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/thumbnail.jpg" alt="Featured image of post 3.13 Ritual Havoc Team Blast Race振り返り" />&lt;h2 id="これはなに">これはなに？&lt;/h2>
 &lt;p>2/27&amp;amp;28に開催されたHavoc Team Blast Raceに参加したので、そのときの振り返り記事です。&lt;/p>
