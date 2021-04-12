@@ -12,13 +12,15 @@ draft: false
 image: voice-download.png
 ---
 
-独自のサウンドを作る方法は、オンラインのサイトを使う方法もありますが、それだと遅いので、ここでは `voice.exe` を使った方法を紹介します。
+独自のサウンドを作る方法は、オンラインのサイトを使う方法もありますが、それだと遅いので、localで作成できる `voice.exe` を紹介します。
 
 ## 1. `voice.exe` をダウンロード
 
 下記のページにアクセスして「`voice.exe`」をダウンロードして好きなフォルダに入れます。
 
-- https://www.elifulkerson.com/projects/commandline-text-to-speech.php
+- [voice.exe](https://www.elifulkerson.com/projects/commandline-text-to-speech.php)
+
+ダウンロードする場所はトップページの{{< color red "赤枠" >}}で囲ったところ↓
 
 ![voice.exe](voice-download.png)
 
@@ -35,10 +37,14 @@ image: voice-download.png
 voice -n "Microsoft Zira Desktop" -o trans.wav trans
 ```
 
-後は、いつもどおり「 `C:\Users\ryzenier\Documents\My Games\Path of Exile` 」に `trans.wav` を置いて完了です。
+（※コマンドプロンプトは`Ctrl + V`が使えないので右クリック→貼り付けで）
+
+後は、いつもどおり「`C:\Users\ryzenier\Documents\My Games\Path of Exile`」に `trans.wav` を置いて完了です。
+
+---
 
 
-今回は例として「 `trans` 」にしましたが「 `blue blue green` 」のように複数単語にしたい場合は、↓のようにすることで、作成できます。
+今回は例として「`trans`」にしましたが「`blue blue green`」のように複数単語にしたい場合は、特に何も考えず↓のように羅列すればOKです！
 
 ```
 voice -n "Microsoft Zira Desktop" -o bbg.wav blue blue green
