@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>/log ryzenier</title><link>https://ryzenier.github.io/</link><description>Recent content on /log ryzenier</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ryzenier.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>3.13 Ritual Havoc Team Blast Race振り返り</title><link>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</link><pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</guid><description>&lt;h2 id="これはなに">これはなに？&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>/log ryzenier</title><link>https://ryzenier.github.io/</link><description>Recent content on /log ryzenier</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ryzenier.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Delveの低層クラフト回収場所まとめ</title><link>https://ryzenier.github.io/p/guide/delve-craft-benches/</link><pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/guide/delve-craft-benches/</guid><description>&lt;img src="https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches.PNG" alt="Featured image of post Delveの低層クラフト回収場所まとめ" />&lt;p>序盤ですぐに回収したい「2 Socket Colors &amp;amp; 2/3 Sockets」「4 Sockets」の場所のまとめです。&lt;/p>
+&lt;p>といっても、めちゃくちゃ簡単で、↓の図で&lt;/p>
+&lt;ul>
+&lt;li>&lt;span style="color:blue">青◯&lt;/span> : 2 Socket Colors &amp;amp; 2/3 Sockets (T1 Azurite Node: 線が1本)&lt;/li>
+&lt;li>&lt;span style="color:red">赤◯&lt;/span> : 4 Sockets (T2 Azurite Node: 線が2本)&lt;/li>
+&lt;/ul>
+&lt;p>です。&lt;/p>
+&lt;p>&lt;figure style="flex-grow: 121; flex-basis: 290px">
+&lt;a href="https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches.PNG" data-size="892x737">&lt;img src="https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches.PNG"
+srcset="https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches_huaf468e1e34a92c4fd2e488bfd9933261_1157862_480x0_resize_box_2.PNG 480w, https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches_huaf468e1e34a92c4fd2e488bfd9933261_1157862_1024x0_resize_box_2.PNG 1024w"
+width="892"
+height="737"
+loading="lazy"
+alt="Craft Benches">
+&lt;/a>
+&lt;figcaption>Craft Benches&lt;/figcaption>
+&lt;/figure>&lt;/p>
+&lt;p>3.13でHarvestがCoreに追加されたことでDelveに行く理由は、ほぼなくなりました。
+上記のクラフトの場所さえ覚えておけば、余計に掘る必要がなくなります。&lt;/p>
+&lt;p>最後に、今回使用したソースはこちら。その他のCraft Benchの場所も載っているので、適宜参考にしてください。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.reddit.com/r/pathofexile/comments/a4njpc/recipe_locations/" target="_blank" rel="noopener"
+>reddit - Recipe Locations&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>3.13 Ritual Havoc Team Blast Race振り返り</title><link>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</link><pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</guid><description>&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/thumbnail.jpg" alt="Featured image of post 3.13 Ritual Havoc Team Blast Race振り返り" />&lt;h2 id="これはなに">これはなに？&lt;/h2>
 &lt;p>2/27&amp;amp;28に開催されたHavoc Team Blast Raceに参加したので、そのときの振り返り記事です。&lt;/p>
 &lt;p>今後、同じようなレースに参加する人の参考になればと思います。&lt;/p>
 &lt;p>また、パーティープレイでのリーグスタート記事はなかなか無いので「パーティープレイでリーグスタートをキメたい！」といった人向けにも参考になると嬉しいです。&lt;/p>
