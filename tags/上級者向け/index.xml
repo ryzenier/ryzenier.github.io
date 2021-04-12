@@ -4,7 +4,7 @@
 Craft Benches
 3.13でHarvestがCoreに追加されたことでDelveに行く理由は、ほぼなくなりました。 上記のクラフトの場所さえ覚えておけば、余計に掘る必要がなくなります。
 最後に、今回使用したソースはこちら。その他のCraft Benchの場所も載っているので、適宜参考にしてください。
-reddit - Recipe Locations</description></item><item><title>フィルター用独自サウンドの作り方</title><link>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</link><pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</guid><description>独自のサウンドを作る方法は、オンラインのサイトを使う方法もありますが、それだと遅いので、ここでは voice.exe を使った方法を紹介します。
+reddit - Recipe Locations</description></item><item><title>フィルター用独自サウンドの作り方</title><link>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</link><pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</guid><description>独自のサウンドを作る方法は、オンラインのサイトを使う方法もありますが、それだと遅いので、ここでは voice.exe を使った方法を紹介します。
 1. voice.exe をダウンロード 下記のページにアクセスして「voice.exe」をダウンロードして好きなフォルダに入れます。
 https://www.elifulkerson.com/projects/commandline-text-to-speech.php voice.exe
 2. コマンドプロンプトからコマンドを実行する コマンドプロンプトを起動して voice.exe をダウンロードしたフォルダに移動します。

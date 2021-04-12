@@ -1,16 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on /log ryzenier</title><link>https://ryzenier.github.io/post/</link><description>Recent content in Posts on /log ryzenier</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ryzenier.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Delveの低層クラフト回収場所まとめ</title><link>https://ryzenier.github.io/p/guide/delve-craft-benches/</link><pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/guide/delve-craft-benches/</guid><description>序盤ですぐに回収したい「2 Socket Colors &amp;amp; 2/3 Sockets」「4 Sockets」の場所のまとめです。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on /log ryzenier</title><link>https://ryzenier.github.io/post/</link><description>Recent content in Posts on /log ryzenier</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ryzenier.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Tweetで振り返る3.13 Ritual League</title><link>https://ryzenier.github.io/p/2021/04/3.13-ritual-review/</link><pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/3.13-ritual-review/</guid><description>リーグ開始からのTweetを貼っていくだけ。自分の振り返り用なので、内容薄めｗ
+3.13 Ritualリーグ開始！！！ 2時間前からQueueスタートだったっぽくて、無事失敗orz
+うそやん pic.twitter.com/deFuSmJIpK
+&amp;mdash; らざにあ (@ryzenier) January 15, 2021 Necromancer DD ド安定のNecro DDでスタートしたものの、開始10時間半、84レベ、18位でRIPｗ
+死んだ直後は、わからなかったけど、自分から全部の玉にあたりにいってて草ｗ
+forking riverのボスやばいかもｗ pic.twitter.com/pbOwnNWvAe
+&amp;mdash; らざにあ (@ryzenier) January 16, 2021 Elementalist Cold DoT Elementalist Cold DoTで再走。
+Danがやっててinc 60% AOEでVortex打つのが楽しそうだなあ、ぐらいの気持ちでなんとなく始めた。
+「楽しいなあ～」とか思ってたら突然の死ｗ
+↓の画像をみるとわかるようにRitual中にフィジオーラ持ちが突然湧いて、オーラ効果がついた雑魚に殴られて死んだっぽい。
+雑魚に殴られる瞬間にフィジオーラ持ちが足元の湧いて死んだっぽいですｗ pic.twitter.com/Y9dgH6v6Y5
+&amp;mdash; らざにあ (@ryzenier) January 17, 2021 死体の山・・・ 楽しかっただけに、このRIPで集中力切れて、ここからグダる。
+Necro DDで再走中にMalachai RIPｗ
+マラカイで死んだんだけどｗ
+&amp;mdash; らざにあ (@ryzenier) January 17, 2021 更に、Necro DDを再走するもマップ入り直後にゲームクラッシュして使ってた6Lを無くす・・・
+リーグ要素触ったらゲームクラッシュしてキャラ死んだんだけど・・・
+&amp;mdash; らざにあ (@ryzenier) January 18, 2021 6L落ちたしもうだめだこりゃｗ</description></item><item><title>Delveの低層クラフト回収場所まとめ</title><link>https://ryzenier.github.io/p/guide/delve-craft-benches/</link><pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/guide/delve-craft-benches/</guid><description>序盤ですぐに回収したい「2 Socket Colors &amp;amp; 2/3 Sockets」「4 Sockets」の場所のまとめです。
 といっても、めちゃくちゃ簡単で、↓の図で
 青◯ : 2 Socket Colors &amp;amp; 2/3 Sockets (T1 Azurite Node: 線が1本) 赤◯ : 4 Sockets (T2 Azurite Node: 線が2本) です。
 Craft Benches
 3.13でHarvestがCoreに追加されたことでDelveに行く理由は、ほぼなくなりました。 上記のクラフトの場所さえ覚えておけば、余計に掘る必要がなくなります。
 最後に、今回使用したソースはこちら。その他のCraft Benchの場所も載っているので、適宜参考にしてください。
-reddit - Recipe Locations</description></item><item><title>3.13 Ritual Havoc Team Blast Race振り返り</title><link>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</link><pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</guid><description>これはなに？ 2/27&amp;amp;28に開催されたHavoc Team Blast Raceに参加したので、そのときの振り返り記事です。
-今後、同じようなレースに参加する人の参考になればと思います。
-また、パーティープレイでのリーグスタート記事はなかなか無いので「パーティープレイでリーグスタートをキメたい！」といった人向けにも参考になると嬉しいです。
-レース概要 2~6人のグループで、ポイントを競い合うTwitch StreamerのHavoc主催のコミュニティーレースイベントです。
-ポイントは↓の表にある通りで、24時間以内にできるだけ多く稼いだチームの優勝です。
-Point System
-League: Ritual SCベースのプライベートリーグ Private League Link 公式Info Link ルール: 人数: 2~6人 パーティー内でのアイテムの共有可 6時間 x 4の途中休憩ありの合計24時間の4Quarter制 配信必須 日程: DAY1: 2/27 Q1: 10PM - 4AM Q2: 5AM - 11AM DAY2: 2/28 Q3: 10PM - 4AM Q4: 5AM - 11AM 公式Tweet 🏆 #HAVOCTEAMBLAST 🏆</description></item><item><title>フィルター用独自サウンドの作り方</title><link>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</link><pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</guid><description>独自のサウンドを作る方法は、オンラインのサイトを使う方法もありますが、それだと遅いので、ここでは voice.exe を使った方法を紹介します。
+reddit - Recipe Locations</description></item><item><title>フィルター用独自サウンドの作り方</title><link>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</link><pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</guid><description>独自のサウンドを作る方法は、オンラインのサイトを使う方法もありますが、それだと遅いので、ここでは voice.exe を使った方法を紹介します。
 1. voice.exe をダウンロード 下記のページにアクセスして「voice.exe」をダウンロードして好きなフォルダに入れます。
 https://www.elifulkerson.com/projects/commandline-text-to-speech.php voice.exe
 2. コマンドプロンプトからコマンドを実行する コマンドプロンプトを起動して voice.exe をダウンロードしたフォルダに移動します。
@@ -18,6 +28,12 @@ https://www.elifulkerson.com/projects/commandline-text-to-speech.php voice.exe
 移動したら↓のコマンドをコピペして、実行すると voice.exe と同じフォルダに trans.wav というファイルができます。
 voice -n &amp;quot;Microsoft Zira Desktop&amp;quot; -o trans.wav trans 後は、いつもどおり「 C:\Users\ryzenier\Documents\My Games\Path of Exile 」に trans.wav を置いて完了です。
 今回は例として「 trans 」にしましたが「 blue blue green 」のように複数単語にしたい場合は、↓のようにすることで、作成できます。
-voice -n &amp;quot;Microsoft Zira Desktop&amp;quot; -o bbg.wav blue blue green</description></item><item><title>ブログ始めました！！！</title><link>https://ryzenier.github.io/p/2021/04/my-first-post/</link><pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/my-first-post/</guid><description>ブログ始めました！ ブログ始めました！よろしくお願いします！！！
+voice -n &amp;quot;Microsoft Zira Desktop&amp;quot; -o bbg.wav blue blue green</description></item><item><title>3.13 Ritual Havoc Team Blast Race振り返り</title><link>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</link><pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</guid><description>これはなに？ 2/27&amp;amp;28に開催されたHavoc Team Blast Raceに参加したので、そのときの振り返り記事です。
+今後、同じようなレースに参加する人の参考になればと思います。
+また、パーティープレイでのリーグスタート記事はなかなか無いので「パーティープレイでリーグスタートをキメたい！」といった人向けにも参考になると嬉しいです。
+レース概要 2~6人のグループで、ポイントを競い合うTwitch StreamerのHavoc主催のコミュニティーレースイベントです。
+ポイントは↓の表にある通りで、24時間以内にできるだけ多く稼いだチームの優勝です。
+Point System
+League: Ritual SCベースのプライベートリーグ Private League Link 公式Info Link ルール: 人数: 2~6人 パーティー内でのアイテムの共有可 6時間 x 4の途中休憩ありの合計24時間の4Quarter制 配信必須 日程: DAY1: 2/27 Q1: 10PM - 4AM Q2: 5AM - 11AM DAY2: 2/28 Q3: 10PM - 4AM Q4: 5AM - 11AM 公式Tweet 🏆 #HAVOCTEAMBLAST 🏆</description></item><item><title>ブログ始めました！！！</title><link>https://ryzenier.github.io/p/2021/04/my-first-post/</link><pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/my-first-post/</guid><description>ブログ始めました！ ブログ始めました！よろしくお願いします！！！
 ブログタイトルは少し悩みましたが「/log ryzenier」にしました。 PoEのゲーム内コマンドっぽく、自分のプレイしたログを表示してる的な意味合いです。
 SSFHCのプレイ日記やレースの参加記録、解説記事なんかを書けたらなと思います。</description></item></channel></rss>
