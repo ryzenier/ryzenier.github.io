@@ -1,7 +1,7 @@
 ---
 title: フィルター用独自サウンドの作り方
 description: 時々聞かれるので自分のやっている方法を紹介します。
-date: 2021-04-06
+date: 2021-04-07
 slug: guide/how-to-create-custom-sound
 categories:
     - 攻略解説
