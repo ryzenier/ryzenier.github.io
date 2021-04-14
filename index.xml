@@ -1,4 +1,267 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>/log ryzenier</title><link>https://ryzenier.github.io/</link><description>Recent content on /log ryzenier</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ryzenier.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Tweetで振り返る3.13 Ritual League</title><link>https://ryzenier.github.io/p/2021/04/3.13-ritual-review/</link><pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/3.13-ritual-review/</guid><description>&lt;img src="https://ryzenier.github.io/p/2021/04/3.13-ritual-review/thumbnail.jpg" alt="Featured image of post Tweetで振り返る3.13 Ritual League" />&lt;p>リーグ開始からのTweetを貼っていくだけ。自分の振り返り用なので、内容薄めｗ&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>/log ryzenier</title><link>https://ryzenier.github.io/</link><description>Recent content on /log ryzenier</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ryzenier.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>3.14 Ultimatum Atlas Passive変更点まとめ</title><link>https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/</link><pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/</guid><description>&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/3.14-atlas.jpg" alt="Featured image of post 3.14 Ultimatum Atlas Passive変更点まとめ" />&lt;h2 id="map配置">Map配置&lt;/h2>
+&lt;p>今期はAtlasのMap配置に変更なし！ See: &lt;a class="link" href="https://www.pathofexile.com/forum/view-thread/3079980" target="_blank" rel="noopener"
+>Link&lt;/a>&lt;/p>
+&lt;blockquote>
+&lt;p>Map Tiers
+Note that there has not been a shuffle of the Atlas for Ultimatum. Map tiers are unchanged from Ritual.&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="atlas-passive変更点">Atlas Passive変更点&lt;/h2>
+&lt;ul>
+&lt;li>自分で見るようなので翻訳とかは無し&lt;/li>
+&lt;li>画像は以前のまま&lt;/li>
+&lt;li>後で、一言コメントぐらいはつけるかも&lt;/li>
+&lt;li>公式ソース: &lt;a class="link" href="https://www.pathofexile.com/forum/view-thread/3079973#atlaspassivebalance" target="_blank" rel="noopener"
+>Link&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="haewark-hamlet">Haewark Hamlet&lt;/h2>
+&lt;p>&lt;figure style="flex-grow: 177; flex-basis: 426px">
+&lt;a href="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Haewark-Hamlet.jpg" data-size="1920x1080">&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Haewark-Hamlet.jpg"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Haewark-Hamlet_hu7ba7c0b00c8a4d9e71e96cf3ab9dcea9_435296_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Haewark-Hamlet_hu7ba7c0b00c8a4d9e71e96cf3ab9dcea9_435296_1024x0_resize_q75_box.jpg 1024w"
+width="1920"
+height="1080"
+loading="lazy"
+alt="Haewark Hamlet">
+&lt;/a>
+&lt;figcaption>Haewark Hamlet&lt;/figcaption>
+&lt;/figure>&lt;/p>
+&lt;ul>
+&lt;li>Beyond
+&lt;ul>
+&lt;li>[Removed] Power Hungry has been removed.&lt;/li>
+&lt;li>[Moved] Per Diemon has been moved to Glennach Cairns.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Ritual
+&lt;ul>
+&lt;li>[New] Added two small nodes, which cause Monsters Sacrificed at Ritual Altars in Areas to grant 10% increased Tribute.&lt;/li>
+&lt;li>[New] Added Sacred Lands, which grants +10% chance for Areas to contain Ritual Altars.&lt;/li>
+&lt;li>[New] Added Paid in Blood, which allows you to reroll Favours in Areas 2 additional times, while also granting 100% increased chance of Ritual Altars with Special Rewards.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Harvest
+&lt;ul>
+&lt;li>[Buff] The Grove&amp;rsquo;s Call now grants +10% chance for Areas to contain The Sacred Grove (previously +5%).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Betrayal
+&lt;ul>
+&lt;li>[No Changes] Clarified that the Bribery Atlas Passive causes 200% more items to drop instead of 2 additional items. This is purely a description change.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="tirns-end">Tirn&amp;rsquo;s End&lt;/h2>
+&lt;p>&lt;figure style="flex-grow: 177; flex-basis: 426px">
+&lt;a href="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Tirn%27s-End.jpg" data-size="1920x1080">&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Tirn%27s-End.jpg"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Tirn%27s-End_hue8f796f0d4c7c2c6db4ab3a9376db073_452150_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Tirn%27s-End_hue8f796f0d4c7c2c6db4ab3a9376db073_452150_1024x0_resize_q75_box.jpg 1024w"
+width="1920"
+height="1080"
+loading="lazy"
+alt="Tirn&amp;rsquo;s End">
+&lt;/a>
+&lt;figcaption>Tirn’s End&lt;/figcaption>
+&lt;/figure>&lt;/p>
+&lt;ul>
+&lt;li>Invansion Boss
+&lt;ul>
+&lt;li>[Minor Nerf?] Exotic Goods now causes a wider selection of Items to drop.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Bestiary
+&lt;ul>
+&lt;li>[Nerf] Big Game now has a 15% chance for Yellow Beasts to be replaced with Red Beasts (previously 30%).&lt;/li>
+&lt;li>[Buff] Great Migration now has a 10% chance for Areas with Einhar Missions to contain additional Packs of Beasts instead of other Monsters (previously 5%).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="lex-proxima">Lex Proxima&lt;/h2>
+&lt;p>&lt;figure style="flex-grow: 177; flex-basis: 426px">
+&lt;a href="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Proxima.jpg" data-size="1920x1080">&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Proxima.jpg"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Proxima_huca7d952484357f72624e3c8df2929f9a_472186_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Proxima_huca7d952484357f72624e3c8df2929f9a_472186_1024x0_resize_q75_box.jpg 1024w"
+width="1920"
+height="1080"
+loading="lazy"
+alt="Lex Proxima">
+&lt;/a>
+&lt;figcaption>Lex Proxima&lt;/figcaption>
+&lt;/figure>&lt;/p>
+&lt;ul>
+&lt;li>Harvest
+&lt;ul>
+&lt;li>[Buff] Small Harvest Chance nodes now grant +3% chance for Areas to contain The Sacred Grove (previously +2%).&lt;/li>
+&lt;li>[Nerf] Bumper Crop no longer causes Harvests in Areas to have Doubled bonuses to Item Quantity and Rarity.&lt;/li>
+&lt;li>[Buff] Heart of the Grove no longer grants 100% increased chance for Areas to contain the Heart of the Grove. It now causes Harvest Bosses in Areas to always drop a Sacred Blossom.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Torment
+&lt;ul>
+&lt;li>[Nerf] Seance now Possesses 5 Rare Monsters (previously 20).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Delve
+&lt;ul>
+&lt;li>[Buff] Packed with Energy now grants +1% to all maximum Elemental Resistances for each Voltaxic Sulphite Vein or Chest found in Areas.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="lex-ejoris">Lex Ejoris&lt;/h2>
+&lt;p>&lt;figure style="flex-grow: 177; flex-basis: 426px">
+&lt;a href="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Ejoris.jpg" data-size="1920x1080">&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Ejoris.jpg"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Ejoris_hu7ba7c0b00c8a4d9e71e96cf3ab9dcea9_462659_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Ejoris_hu7ba7c0b00c8a4d9e71e96cf3ab9dcea9_462659_1024x0_resize_q75_box.jpg 1024w"
+width="1920"
+height="1080"
+loading="lazy"
+alt="Lex Ejoris">
+&lt;/a>
+&lt;figcaption>Lex Ejoris&lt;/figcaption>
+&lt;/figure>&lt;/p>
+&lt;ul>
+&lt;li>Perandus
+&lt;ul>
+&lt;li>[Minor Change] Small Perandus nodes now grant a 10% chance to drop twice as many Perandus Coins (previously 20% increased Stack size of Perandus Coins found in Areas).&lt;/li>
+&lt;li>[Nerf] Friend of the Family now causes Cadiro to offer the rarest of 3 options (previously 5).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Metamorph
+&lt;ul>
+&lt;li>[Nerf] Escaped Experiment now has a 50% chance for Areas to contain a Rogue Metamorph (previously 100%).&lt;/li>
+&lt;li>[Buff] Finest Samples now causes Metamorphs in Areas to deal 15% more Damage (previously 50%). In addition, it now causes Metamorphs in Areas to have 150% more Life (previously 100%).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Incursion
+&lt;ul>
+&lt;li>[Nerf] Time Dilation now causes Incursion Monsters in Areas to be at least Magic Rarity. Incursion Architects no longer drop an additional Rare Incursion Item.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Delirium
+&lt;ul>
+&lt;li>[Nerf] Pathological now has a 5% chance to apply layers of Delirium to Maps found in Areas (previously 10%).&lt;/li>
+&lt;li>[Nerf] Compulsive Hoarder now has a 10% chance to cause Delirium encounters in Areas to generate three additional Reward types (previously 15%).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="new-vastir">New Vastir&lt;/h2>
+&lt;p>&lt;figure style="flex-grow: 177; flex-basis: 426px">
+&lt;a href="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/New-Vastir.jpg" data-size="1920x1080">&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/New-Vastir.jpg"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/New-Vastir_hud27dbf0e1915b35024ff051ae78e8f2a_456719_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/New-Vastir_hud27dbf0e1915b35024ff051ae78e8f2a_456719_1024x0_resize_q75_box.jpg 1024w"
+width="1920"
+height="1080"
+loading="lazy"
+alt="New Vastir">
+&lt;/a>
+&lt;figcaption>New Vastir&lt;/figcaption>
+&lt;/figure>&lt;/p>
+&lt;ul>
+&lt;li>Legion
+&lt;ul>
+&lt;li>[Moved] High Value Targets has been moved to Glennach Cairns.&lt;/li>
+&lt;li>[Moved] Protracted Battle has been added (previously in Glennach Cairns).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Abyss
+&lt;ul>
+&lt;li>Votive Hoard now has a 20% chance for Abyssal Troves in Areas to drop a Rare Item with an Abyssal Socket (previously 10%). It no longer increases the Level of Abyssal Troves.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Delve
+&lt;ul>
+&lt;li>[Buff???] Sulphite-hoarding Monsters spawned by Sulphite Sentinels are now more dangerous but more rewarding.&lt;/li>
+&lt;li>[Buff] Out of the Blue now has a 20% chance for Sulphite Veins and Chests in Areas to also contain an equal amount of Azurite (previously 5%).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Anarchy
+&lt;ul>
+&lt;li>[Buff] Total Anarchy now causes Areas to have a 10% chance to contain 20 additional Rogue Exiles (previously added 1 Rogue Exile per 2 additional content types applied to Areas).&lt;/li>
+&lt;li>[Bufff] Rogue Trader now has a 50% chance for Wild Rogue Exiles to have additional rewards (previously 15%). However, it now causes them to have 200% increased Maximum Life.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="glennach-cairns">Glennach Cairns&lt;/h2>
+&lt;p>&lt;figure style="flex-grow: 177; flex-basis: 426px">
+&lt;a href="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Glennach-Cairns.jpg" data-size="1920x1080">&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Glennach-Cairns.jpg"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Glennach-Cairns_huf56132d71a05cb6683f821996624fac3_419620_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Glennach-Cairns_huf56132d71a05cb6683f821996624fac3_419620_1024x0_resize_q75_box.jpg 1024w"
+width="1920"
+height="1080"
+loading="lazy"
+alt="Glennach Cairns">
+&lt;/a>
+&lt;figcaption>Glennach Cairns&lt;/figcaption>
+&lt;/figure>&lt;/p>
+&lt;ul>
+&lt;li>Legion
+&lt;ul>
+&lt;li>[Moved] Protracted Battle has been moved to New Vastir.&lt;/li>
+&lt;li>[Nerf] High Value Targets has been added (previously in New Vastir). It now grants Legion Sergeants an additional 25% chance to hold a reward (no longer guaranteed).&lt;/li>
+&lt;li>[Nerf] Face to Face no longer grants 100% more Timeless Splinters from Legion Generals in Areas.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Beyond
+&lt;ul>
+&lt;li>[Nerf] Per Diemon has been added (previously in Haewark Hamlet). Rare Beyond Demons in Areas now have a 25% chance to drop an additional Basic Currency Item (previously 35%).&lt;/li>
+&lt;li>[Nerf] Torn Veil now grants 50% increased Beyond Portal Merging Radius (previously 100%).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Incursion
+&lt;ul>
+&lt;li>[Moved] Cultural Advancement has been removed. Its effect now appears on Time Dilation in Lex Ejoris.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="valdos-rest">Valdo&amp;rsquo;s Rest&lt;/h2>
+&lt;p>&lt;figure style="flex-grow: 177; flex-basis: 426px">
+&lt;a href="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Valdo%27s-Rest.jpg" data-size="1920x1080">&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Valdo%27s-Rest.jpg"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Valdo%27s-Rest_hu4666f8a26980064eb869c93814d73432_438691_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Valdo%27s-Rest_hu4666f8a26980064eb869c93814d73432_438691_1024x0_resize_q75_box.jpg 1024w"
+width="1920"
+height="1080"
+loading="lazy"
+alt="Valdo&amp;rsquo;s Rest">
+&lt;/a>
+&lt;figcaption>Valdo’s Rest&lt;/figcaption>
+&lt;/figure>&lt;/p>
+&lt;ul>
+&lt;li>Harbinger
+&lt;ul>
+&lt;li>[Nerf] Diplomatic Escort now replaces one Harbinger with a King Harbinger instead of a group of Harbingers.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Syndicate
+&lt;ul>
+&lt;li>[Buff] Gut Instinct now provides 5 Intelligence for the current Encounter&amp;rsquo;s Safehouse if an Immortal Syndicate member is not interrogated (previously 3).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="lira-arthain">Lira Arthain&lt;/h2>
+&lt;p>&lt;figure style="flex-grow: 177; flex-basis: 426px">
+&lt;a href="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lira-Arthain.jpg" data-size="1920x1080">&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lira-Arthain.jpg"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lira-Arthain_hu4f24389255332ea0d4e7a637855a672e_460763_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lira-Arthain_hu4f24389255332ea0d4e7a637855a672e_460763_1024x0_resize_q75_box.jpg 1024w"
+width="1920"
+height="1080"
+loading="lazy"
+alt="Lira Arthain">
+&lt;/a>
+&lt;figcaption>Lira Arthain&lt;/figcaption>
+&lt;/figure>&lt;/p>
+&lt;ul>
+&lt;li>Bestiary
+&lt;ul>
+&lt;li>[Nerf] Natural Selection no longer makes rarer beasts quite as common.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Blight
+&lt;ul>
+&lt;li>[Buff] Immune Response now causes Blight Monsters to spawn 150% faster (previously 100%).&lt;/li>
+&lt;li>[Nerf] Spores on the Wind now causes Maps found in Areas to have a 5% chance to have an &amp;ldquo;Area contains an additional Blight Encounter&amp;rdquo; Enchantment Modifier (previously 10%).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Breach
+&lt;ul>
+&lt;li>[Nerf] Flash Breach now causes Breaches in Areas to open and close 50% faster (previously 100%).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="uncharted-realms">Uncharted Realms&lt;/h2>
+&lt;ul>
+&lt;li>[Buff] Neural Pathways now grants a +1% chance (previously +0.5%) for a Synthesis Map to be dropped from Unique Bosses in Tier 14+ Maps (previously Tier 11+).&lt;/li>
+&lt;/ul></description></item><item><title>Tweetで振り返る3.13 Ritual League</title><link>https://ryzenier.github.io/p/2021/04/3.13-ritual-review/</link><pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/3.13-ritual-review/</guid><description>&lt;img src="https://ryzenier.github.io/p/2021/04/3.13-ritual-review/thumbnail.jpg" alt="Featured image of post Tweetで振り返る3.13 Ritual League" />&lt;p>リーグ開始からのTweetを貼っていくだけ。自分の振り返り用なので、内容薄めｗ&lt;/p>
 &lt;h2 id="313-ritualリーグ開始">3.13 Ritualリーグ開始！！！&lt;/h2>
 &lt;p>2時間前からQueueスタートだったっぽくて、無事失敗orz&lt;/p>
 &lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">うそやん &lt;a href="https://t.co/deFuSmJIpK">pic.twitter.com/deFuSmJIpK&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1350130015493517312?ref_src=twsrc%5Etfw">January 15, 2021&lt;/a>&lt;/blockquote>
