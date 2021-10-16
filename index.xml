@@ -1,4 +1,148 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>/log ryzenier</title><link>https://ryzenier.github.io/</link><description>Recent content on /log ryzenier</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ryzenier.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>3.14 Ultimatum Atlas Passive変更点まとめ</title><link>https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/</link><pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/</guid><description>&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/3.14-atlas.jpg" alt="Featured image of post 3.14 Ultimatum Atlas Passive変更点まとめ" />&lt;h2 id="map配置">Map配置&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>/log ryzenier</title><link>https://ryzenier.github.io/</link><description>Recent content on /log ryzenier</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 18 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ryzenier.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Tweetで振り返る3.14 Ultimatum League</title><link>https://ryzenier.github.io/p/2021/07/3.14-ultimatum-review/</link><pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/07/3.14-ultimatum-review/</guid><description>&lt;img src="https://ryzenier.github.io/p/2021/07/3.14-ultimatum-review/thumbnail.png" alt="Featured image of post Tweetで振り返る3.14 Ultimatum League" />&lt;p>ガチで今更感あるけど、書きかけだった記事を投下ｗ（投稿日10/17ｗ）&lt;/p>
+&lt;p>前回同様、tweetをペチペチ貼っていくだけで内容薄めの振り返り！&lt;/p>
+&lt;h2 id="リーグスタート">リーグスタート！！！&lt;/h2>
+&lt;p>今期はたまたま連打してたタイミングでキュー待ち入って過去最高の4番目！！！&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">俺の勝ち！！！！！！！！！！！ &lt;a href="https://t.co/vgrrpj3qQC">pic.twitter.com/vgrrpj3qQC&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1383118040544419844?ref_src=twsrc%5Etfw">April 16, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>快調な滑り出しと思いきや・・・無限キュー待ちリーグの開始！！！ｗｗｗ&lt;/p>
+&lt;p>原因は「リーグ開始前に事前に実行しておく必要のあった処理を忘れていた」せいとのこと・・・&lt;/p>
+&lt;blockquote>
+&lt;p>Normally, we run a &amp;ldquo;trickle migration&amp;rdquo; process in the background that performs this action on every account over the few days between the last league ending and the new one starting. Due to human error, this process was not run and hence the queue was unbearably slow to empty.&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>See: &lt;a class="link" href="https://www.pathofexile.com/forum/view-thread/3082616" target="_blank" rel="noopener"
+>Ultimatum Launch: Server Issues and Streamer Priority&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>まあ上記のミスに関しては、IT業界の片隅で働いている者として同情の余地はあるかなと思う。
+ただ、それを取り繕おうと、一部ストリーマーのキューをスキップするようにしたのは、ガチで擁護のしようがないｗ&lt;/p>
+&lt;p>その時のお気持ちツイート↓ｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">割とガチでGGGが一般のユーザーが知り得ないところで、特定のプレイヤーに対して有利に働くようにしてた事が嫌すぎるんだけど&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1383281915709386756?ref_src=twsrc%5Etfw">April 17, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>今期は、レースイベントが無かったとはいえ、自分は常にラダーを意識してプレイしているので、かなり失望した。
+こういうことがあると、普段からこうった特別措置してるんじゃないかと疑われてしまうのは必然ｗ&lt;/p>
+&lt;p>個人的には、上記の特別措置が発覚した段階で、リーグをリスタートした方が良かったと思う。&lt;/p>
+&lt;p>（当時何があったかは、↓の茶茶丸さんのまとめが一番まとまっているので参照のこと）&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="http://chachamaru2323.blog.fc2.com/blog-entry-401.html" target="_blank" rel="noopener"
+>[PoE 3.14] Ultimatumリーグ、初日から炎上すの巻&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>そんなこんなで初日はプレイできる状況じゃなかったので割とすぐ離脱ｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">昨日大して寝られなかったのもあって疲れてるから一旦寝る。流石に、現状はゴミ過ぎるｗ&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1383248061992902667?ref_src=twsrc%5Etfw">April 17, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>起床後は、キュー待ちも治っていたので、気持ちを切り替えて再スタート！
+自分は、割と寝たら忘れられるタイプｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">治ったっぽい？で、リスタート無しねｗ&lt;br>なんか寝る前、めちゃくちゃ頭きてたけど、寝たらどうでも良くなったわｗ&lt;br>走るぞーｗ&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1383386504173473795?ref_src=twsrc%5Etfw">April 17, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="assassin-poison-bfbb">Assassin Poison BFBB&lt;/h2>
+&lt;p>そんこんなで、リーグスタートはAssassin Poison BFBB！&lt;/p>
+&lt;p>結構前から存在してたビルドだけど、まともに触るのは、これが初めて！
+Havoc Team Blast Raceで、かなり幅を利かせていて気になっていたビルド。&lt;/p>
+&lt;p>レースの振り返り記事もあるのでお暇なときに、どうぞ&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/" >3.13 Ritual Havoc Team Blast Race振り返り&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>3.14でBBがNerfされたのもあって使用率も少なくなり、クラス1位も楽に狙えそうと予想して決めた感じ。&lt;/p>
+&lt;p>使ってみたら「これ本当にNerfした？ｗ」って言うぐらい強くてビビったｗ
+SSFのゴミギアでもめちゃくちゃDPSがでてファームが快適だった。&lt;/p>
+&lt;p>3.9のMetamorph以降、石4つ入れぐらいから火力的にキツくなってくる印象があったけど、詰まることなくストレートでT16までいけた。&lt;/p>
+&lt;p>リーグ要素も、湧いてくるモブの命中が低いのかFlesh and StoneのBlindとEV + Dodgeで全然被弾しなかったしPlague Bearerで知らないうちに死んでいくのでガチで楽だった。&lt;/p>
+&lt;p>（長くなるので、ここからは雑にツイート貼ってくだけ）&lt;/p>
+&lt;p>リーグ開始のゴタゴタのせいで、一度も死んでないのに90レベ時点の&lt;code>/played&lt;/code> が明らかに遅くて笑うｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="lv" dir="ltr">[MEMO] lv90 &lt;a href="https://t.co/J7cG8SMjGB">pic.twitter.com/J7cG8SMjGB&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1383660887152611333?ref_src=twsrc%5Etfw">April 18, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>92レベでようやく初日の出遅れを取り戻した感じ。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">半分寝ながらdelve掘ってたら死にそうになったので一旦休憩 &lt;a href="https://t.co/07dnnr2oI1">pic.twitter.com/07dnnr2oI1&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1383778937243725838?ref_src=twsrc%5Etfw">April 18, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>運良くElderのFragmentが揃ったので行ってみたらまさかのFirst Killだったｗ
+First Killで名前が出たのは初めて！&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">SSFHC First Elder Killゲットｗｗｗ &lt;a href="https://t.co/vmqHp5EKed">pic.twitter.com/vmqHp5EKed&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1384165652252958724?ref_src=twsrc%5Etfw">April 19, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>3日目終了時点のツイート（ここで有給終わり）&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">Ultimatumリーグスタダおつ！！！&lt;br>約72h経過時点でレベル96の全体8位！&lt;br>明日から仕事だから今週末に100にするぐらいの予定でクラス1位＆10位以内になれるといいかなｗ！ &lt;a href="https://t.co/mdZ8HOX5Bp">pic.twitter.com/mdZ8HOX5Bp&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1384232505084055559?ref_src=twsrc%5Etfw">April 19, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>そんなこんなでリーグ開始8日目にレベル100到達！（全体7位のAssassinクラス1位）&lt;/p>
+&lt;p>ファーム方法はひたすらValdに石4つ入れてハービンジャーとSyndicateとリーグ要素をやってただけ。
+リーグ要素からカレンシーが尽きることなく供給されるのでずっと4cのZanaハービンジャー入れられたのがガチででかい。&lt;/p>
+&lt;p>レベル100に要した時間的には、3.12 HeistのFlashbackイベントのRepositoryグラスラImpalerよりは遅かったけど、歴代2位の早さｗ！&lt;/p>
+&lt;p>ずっとハビを回してたのもあってExとかAnnulとかAncient Orbとかの量もとんでもない量になっててた。
+SSFのファーストキャラで、ここまで稼げたことはないのでやっぱり今期のリーグ要素は壊れてたなあとｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="lv" dir="ltr">[MEMO] lv100 &lt;a href="https://t.co/9WnqlUjiIn">pic.twitter.com/9WnqlUjiIn&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1386358455938605056?ref_src=twsrc%5Etfw">April 25, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="pathfinder-darkscorn-poison-scourge-arrow">Pathfinder Darkscorn Poison Scourge Arrow&lt;/h2>
+&lt;p>ファーストキャラが無事100になったので趣味ビルドをやりつつクラス1位狙えないかなあとpoe-racing見てたら誰もPathfinderやってなかったのでやることに
+（SSFだと大抵、誰かがTR/CAやっててクラス1位が地味に難しかったイメージがあったのでちょうど良い機会だった）&lt;/p>
+&lt;p>ビルドは、今期から一部のリーグ固有ユニークが一般ドロップするようになって初めてDarkscornを手に入れられたので前々からやってみたかったPoison Scorge Arrow。&lt;/p>
+&lt;p>常時Flask使えて、パスファのPoison Prolifでファームは快適だったけど単体が弱かったのと、思ったより固くなかったので右下のLiraでHeistとBlighted Mapファームをひたすらやって100にした。&lt;/p>
+&lt;p>今までレベル100にした中では一番弱かったんじゃないかってぐらい単体DPS出なかったので、次リーグとかでやろうとしてる人がいたら、キチンとPoB叩いてから始めたほうがいい。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">2キャラ目レベル100！！！ &lt;a href="https://t.co/HyQS2NfOdE">pic.twitter.com/HyQS2NfOdE&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1391087485048877060?ref_src=twsrc%5Etfw">May 8, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>100にした直後の感想ツイートｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">ようやくこの苦行から開放されるｗｗｗ ガチで過去一で辛かったｗ DPSなさすぎるんだよｗ&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1391087791958679557?ref_src=twsrc%5Etfw">May 8, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>ただガチでカレンシーは稼げたｗ 今見返してもSSFとは思えない量ｗ エグいてーｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">[MEMO] 2キャラ目終了時点のstash状況 &lt;a href="https://t.co/VHFXvpzJxs">pic.twitter.com/VHFXvpzJxs&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1391106010605965314?ref_src=twsrc%5Etfw">May 8, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="hierophant-archmage-storm-brand">Hierophant Archmage Storm Brand&lt;/h2>
+&lt;p>PathfinderでHeist回してたらAsenath手が出たのでシナジーがありつつ、まだレベル100が出てなかったのでHierophant Archmage Storm Brandをやることにｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">ガチできちゃああああああああああああああああああああああああああああああああああああああああああああああ &lt;a href="https://t.co/u8LfjB0UkQ">pic.twitter.com/u8LfjB0UkQ&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1390929547567136771?ref_src=twsrc%5Etfw">May 8, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>順調にレベリングをしていたと思ったら・・・&lt;/p>
+&lt;p>&lt;blockquote class="twitter-tweet">&lt;p lang="lv" dir="ltr">[MEMO] lv97 &lt;a href="https://t.co/kiRQymrRKw">pic.twitter.com/kiRQymrRKw&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1392212671206879235?ref_src=twsrc%5Etfw">May 11, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;blockquote class="twitter-tweet">&lt;p lang="lv" dir="ltr">[MEMO] lv98 &lt;a href="https://t.co/Bp5MnhbTN3">pic.twitter.com/Bp5MnhbTN3&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1392570187677802496?ref_src=twsrc%5Etfw">May 12, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;/p>
+&lt;p>ボスキル担当だったAssassinの突然死ｗ 仕事終わりの深夜3時で疲れて集中切れてたのと、今までSSFHCでSirusで死んだことがなかった慢心からのRIPｗ&lt;/p>
+&lt;p>一応、言い訳しておくと直前にログアウトしてたせいかDieビームの周期がズレてて、攻撃しようと追いかけちゃったのがいけなかった・・・とほほ・・・&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">Sirusで死ぬやつおるー？ｗｗｗ 今期1RIP目ｗｗｗ &lt;a href="https://t.co/4JDxqjerLA">pic.twitter.com/4JDxqjerLA&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1392912445446844417?ref_src=twsrc%5Etfw">May 13, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>きれいな立ち回りはこちら↓ｗ&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/uSKR_jyiibs"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;p>RIPにもめげずにレベリングして99まで育てるも・・・&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="lv" dir="ltr">[MEMO] lv99 &lt;a href="https://t.co/aAzt8xkiyg">pic.twitter.com/aAzt8xkiyg&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1393097520457211904?ref_src=twsrc%5Etfw">May 14, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>99まで育てたキャラで一番しょうもない死に方したｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">ガチでだりーｗ &lt;a href="https://t.co/JkJFfE0rBz">pic.twitter.com/JkJFfE0rBz&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1393305716539027459?ref_src=twsrc%5Etfw">May 14, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="havoc-team-blast-2">Havoc Team Blast 2&lt;/h2>
+&lt;p>このタイミングで前期同様Havoc主催のSC Group Found Raceをやるとのことだったので参加することに！&lt;/p>
+&lt;p>前回の反省も踏まえて4人→6人にメンバーを増やしてフルパーティーでの参戦！！！&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">🏆&lt;a href="https://twitter.com/hashtag/HAVOCTEAMBLAST?src=hash&amp;amp;ref_src=twsrc%5Etfw">#HAVOCTEAMBLAST&lt;/a> TWO🏆&lt;br>&lt;br>Path of Exile Race Event&lt;br>May 29 - 30 12PM GMT&lt;br>Cast by &lt;a href="https://twitter.com/RaizQT?ref_src=twsrc%5Etfw">@RaizQT&lt;/a> &lt;br>&lt;br>🎁 GIVEAWAY: 18 x Apollyon Mystery Box&lt;br>💞 Retweet + Like this tweet to Enter&lt;br>🗨️ Comment &lt;a href="https://twitter.com/hashtag/HAVOCTEAMBLAST?src=hash&amp;amp;ref_src=twsrc%5Etfw">#HAVOCTEAMBLAST&lt;/a> and Tag a Friend &lt;a href="https://t.co/yExL3iOsau">pic.twitter.com/yExL3iOsau&lt;/a>&lt;/p>&amp;mdash; Havoc (@Havoc616_) &lt;a href="https://twitter.com/Havoc616_/status/1394131994896998402?ref_src=twsrc%5Etfw">May 17, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>最終的に、前回よりはPointを稼げたものの順位的には4 Way Legionのルールを勘違いして失敗したり、The Hidden（=Breach Lord*4のInvitation）をAL8で入ってしまって失敗するという自分の特大トロールのせいで、あまり振るわない結果に・・・（マジでごめんなさい 🙇‍♂️ ）&lt;/p>
+&lt;p>ただ、今回パーティーに参加してくれた、みざりーさんとお揚げさんは、どちらもSSFプレイヤーで、パーティープレイの経験がなかったにも関わらず事前練習含め、めちゃくちゃチームに貢献してくれたのが、ありがたかった！特に、みざりーさんには直前でGladiator KB FeverからAssassin Poison BFBBに変えてもらったという。。。ｗ&lt;/p>
+&lt;p>前回同様、普段SSFをプレイしているせいか、久しぶりにやるパーティープレイはクソ楽しかった！
+ただ、参加しているのが軒並みHCのラダー常連プレイヤーで、普段SCトレードをメインでプレイしてる人（こっちの方が圧倒的に人口が多いハズ）も参加してくれたら更に盛り上がるのになあ、と思うｗ&lt;/p>
+&lt;h2 id="ascendant-corrupting-fever">Ascendant Corrupting Fever&lt;/h2>
+&lt;p>Havoc Raceの後は引き続きSSFHCで、フレンドがやっていて強そうだった弓6LのAscendant Corruption Feverをプレイ！ボスキルとかしてたけど、シンセのボスにやられてRIP&lt;/p>
+&lt;p>ファームも早くてDPSも2.4Mぐらいでてて使用感はかなりよかったので、結構ショックだった・・・&lt;/p>
+&lt;p>今まで、こいつのギミック分かってくて火力でゴリ押ししてたけど、今回でようやく理解したｗ
+近くによるとactiveになるから、動き回っちゃダメなのねｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">こいつガチで嫌いｗ &lt;a href="https://t.co/CmrsaflSMZ">pic.twitter.com/CmrsaflSMZ&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1401520850692567046?ref_src=twsrc%5Etfw">June 6, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="gauntlet-league">Gauntlet League&lt;/h2>
+&lt;p>今期は2 Additional Projectilesのmodが消えて、その代わりinc 70% AoEのmodだったので、かなりアクトが楽だった。&lt;/p>
+&lt;p>順調に進めていたけど、石0 Baranに倒されてRIPｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">というわけでねｗ おつｗ &lt;a href="https://t.co/MzzA3ztTwm">pic.twitter.com/MzzA3ztTwm&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1404161550026350593?ref_src=twsrc%5Etfw">June 13, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="gladiator-corrupting-fever">Gladiator Corrupting Fever&lt;/h2>
+&lt;p>SSFHCに戻って、Delveをdepth: 679（総合2位）まで掘って今期は終了！&lt;/p>
+&lt;p>POB: &lt;a href="https://pastebin.com/heUEfNi3">https://pastebin.com/heUEfNi3&lt;/a>&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">おつｗ aura持ちの骨でワンパンだったｗ 1位狙ってたけど無理だったなーｗ &lt;a href="https://t.co/rd1VaSEOoG">pic.twitter.com/rd1VaSEOoG&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1416047489606553600?ref_src=twsrc%5Etfw">July 16, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="まとめ">まとめ&lt;/h2>
+&lt;p>今期は、Assassinで総合7位、Pathfinderでクラス1位と、かなり順調にいった！
+ファーストキャラである程度資産作れたのと、リーグ要素が脳死でファームする系で直近のリーグの中では一番好みだったのが勝因だと思う！&lt;/p>
+&lt;p>リーグ要素めちゃくちゃプレイしたせいか、SSFHCで唯一Hateforge入手したりもしてたけど、結局最後まで使わなかったｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">実は手袋持ってたりするんだけどあるか？ &lt;a href="https://t.co/VAiWmz54x0">pic.twitter.com/VAiWmz54x0&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1389116488171200512?ref_src=twsrc%5Etfw">May 3, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script></description></item><item><title>3.14 Ultimatum Atlas Passive変更点まとめ</title><link>https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/</link><pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/</guid><description>&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/3.14-atlas.jpg" alt="Featured image of post 3.14 Ultimatum Atlas Passive変更点まとめ" />&lt;h2 id="map配置">Map配置&lt;/h2>
 &lt;p>今期はAtlasのMap配置に変更なし！ See: &lt;a class="link" href="https://www.pathofexile.com/forum/view-thread/3079980" target="_blank" rel="noopener"
 >Link&lt;/a>&lt;/p>
 &lt;blockquote>
