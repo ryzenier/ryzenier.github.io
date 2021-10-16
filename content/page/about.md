@@ -32,7 +32,7 @@ Path of ExileをSSFHCでプレイしている、らざにあ([@ryzenier](https:/
 
 {{< tweet 1342200403660656640 >}}
 
-### 3.14 Ultimatum HC SSF Rank #9 (Assassin #1)
+### 3.14 Ultimatum HC SSF Rank #7 (Assassin #1)
 
 {{< tweet 1386358455938605056 >}}
 
