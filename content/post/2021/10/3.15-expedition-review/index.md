@@ -47,6 +47,16 @@ SSFだと、HarvestかTirn's Endの「Invasion Bosses in Areas drop 1 additional
 （ちなみに、次リーグでは、Atlas周りの大きな改修があり、AmbushはHarbinger、Blight、Delve、Deliriumと同じエリアなので優先して取るかと言われると微妙ｗ
 InvansionもHeist、Bestiaryと競合しているので無し。頼りのリーグ要素はImplict Modを追加する感じで期待できないので、5L、6Lは素直に畑とGrand Heistで狙うのが良さげ。）
 
+**【追記】**
+と思っていたらScourge Passive Skill Treeに"2% chance for transforming to add a link between two unlinked sockets"というのがあり、5pt振り切ることで最大10%まで伸びるらしい。
+3回までTransformできるから、確率的には `27 [%] (= 1 - 0.9^3)` で2 link追加！
+SSF的には、Essence等でLife + 2 Res + Craftみたいな胴体を適当に作ってチャレンジするのが良さげ！
+**【/追記】**
+
+- ref. [Scourge mechanics interesting for 6 linking items ?](https://www.reddit.com/r/pathofexile/comments/q99651/scourge_mechanics_interesting_for_6_linking_items/)
+![Passive Skill](scourge-link.png)
+
+
 - ref. [Scourge Atlas Base and Passive For Each Region [fixed]](https://www.reddit.com/r/pathofexile/comments/q8hvho/scourge_atlas_base_and_passive_for_each_region/)
 ![3.16 Scorge League Atlas Passive](3.16-scorge-atlas.png)
 
