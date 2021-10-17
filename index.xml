@@ -24,8 +24,28 @@ RaiderのEvade&amp;amp;Dodge強すぎｗ&lt;/p>
 &lt;p>後は、CorruptedになっちゃうけどGlennach CairnsのStrongbox+1と「Strongboxes in Areas are Corrupted」の組み合わせもいいんだけど、今期のAtlas進行的にGlennach Cairnsは内周の最後に石回収する都合上、やらなかった。&lt;/p>
 &lt;p>（ちなみに、次リーグでは、Atlas周りの大きな改修があり、AmbushはHarbinger、Blight、Delve、Deliriumと同じエリアなので優先して取るかと言われると微妙ｗ
 InvansionもHeist、Bestiaryと競合しているので無し。頼りのリーグ要素はImplict Modを追加する感じで期待できないので、5L、6Lは素直に畑とGrand Heistで狙うのが良さげ。）&lt;/p>
+&lt;p>&lt;strong>【追記】&lt;/strong>
+と思っていたらScourge Passive Skill Treeに&amp;quot;2% chance for transforming to add a link between two unlinked sockets&amp;quot;というのがあり、5pt振り切ることで最大10%まで伸びるらしい。
+3回までTransformできるから、確率的には &lt;code>27 [%] (= 1 - 0.9^3)&lt;/code> で2 link追加！
+SSF的には、Essence等でLife + 2 Res + Craftみたいな胴体を適当に作ってチャレンジするのが良さげ！
+&lt;strong>【/追記】&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>ref. &lt;a class="link" href="https://www.reddit.com/r/pathofexile/comments/q8hvho/scourge_atlas_base_and_passive_for_each_region/" target="_blank" rel="noopener"
+&lt;li>
+&lt;p>ref. &lt;a class="link" href="https://www.reddit.com/r/pathofexile/comments/q99651/scourge_mechanics_interesting_for_6_linking_items/" target="_blank" rel="noopener"
+>Scourge mechanics interesting for 6 linking items ?&lt;/a>
+&lt;figure style="flex-grow: 250; flex-basis: 600px">
+&lt;a href="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/scourge-link.png" data-size="588x235">&lt;img src="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/scourge-link.png"
+srcset="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/scourge-link_hued63b2a24e6edb45d04a4016250a5495_176687_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/2021/10/3.15-expedition-review/scourge-link_hued63b2a24e6edb45d04a4016250a5495_176687_1024x0_resize_box_2.png 1024w"
+width="588"
+height="235"
+loading="lazy"
+alt="Passive Skill">
+&lt;/a>
+&lt;figcaption>Passive Skill&lt;/figcaption>
+&lt;/figure>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>ref. &lt;a class="link" href="https://www.reddit.com/r/pathofexile/comments/q8hvho/scourge_atlas_base_and_passive_for_each_region/" target="_blank" rel="noopener"
 >Scourge Atlas Base and Passive For Each Region [fixed]&lt;/a>
 &lt;figure style="flex-grow: 177; flex-basis: 426px">
 &lt;a href="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/3.16-scorge-atlas.png" data-size="1483x834">&lt;img src="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/3.16-scorge-atlas.png"
@@ -36,7 +56,8 @@ loading="lazy"
 alt="3.16 Scorge League Atlas Passive">
 &lt;/a>
 &lt;figcaption>3.16 Scorge League Atlas Passive&lt;/figcaption>
-&lt;/figure>&lt;/li>
+&lt;/figure>&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;p>そんなこんなで、4日目時点でレベル97の総合4位！&lt;/p>
 &lt;blockquote class="twitter-tweet">&lt;p lang="lv" dir="ltr">[MEMO] lv97 &lt;a href="https://t.co/gt5ryLQEl1">pic.twitter.com/gt5ryLQEl1&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1420165531328413697?ref_src=twsrc%5Etfw">July 27, 2021&lt;/a>&lt;/blockquote>
