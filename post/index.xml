@@ -1,65 +1,1046 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on /log ryzenier</title><link>https://ryzenier.github.io/post/</link><description>Recent content in Posts on /log ryzenier</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 16 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ryzenier.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Tweetで振り返る3.15 Expedition League</title><link>https://ryzenier.github.io/p/2021/10/3.15-expedition-review/</link><pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/10/3.15-expedition-review/</guid><description>来期のパッチノートが出たというのに今更3.15 Expeditionの振り返りｗ
-リーグスタート！ 557とそこそこの順位でスタート！戦いはここから始まっている。
-そこそこ pic.twitter.com/T1uWLY2vpF
-&amp;mdash; らざにあ (@ryzenier) July 23, 2021 Raider Trinity Lightning Strike 前期フレンドがやっていて強そうだったのでRaider Trinity Lightning Strikeでスタート！
-サポジェムが大幅Nerfされたが、Lightning Strikeの基礎ダメージが1.56倍されていて最終的なDPSは前期とほとんど変わらないず、むしろ1リンク分の価値が下がったことで、5Lでの火力が上がっているのが高評価！
-lightning strikeのbase damageが1.25倍になったのだけ見てて前期とdps変わってないの不思議だなあって思ってたけどeffectivenessも1.25倍になってるのねｗ
-1.25*1.25=1.56だしサボジェムnerfの影響をキャンセルできるのも納得だわｗ
-&amp;mdash; らざにあ (@ryzenier) July 23, 2021 FlaskのNerfとFlame Dash&amp;amp;Smoke MineのCD増加の影響もRaiderの常時OnslaughtとWhirling Bladesで感じないのも良き！ 弱体化されても使うけど、ガチでSmoke Mine返してくれーｗ
-僕は ついてゆけるだろうか―――
-君のいない世界のスピードに――― pic.twitter.com/ejgIVZdlRY
-&amp;mdash; らざにあ (@ryzenier) July 20, 2021 マップ入り直後は、火力低くて結構苦労した。。。ただ、その分めちゃめちゃ固くてファームでは絶対に死なない感じがした。 RaiderのEvade&amp;amp;Dodge強すぎｗ
-【速報】火力が足らずに石0のinvitation失敗ｗｗｗ
-&amp;mdash; らざにあ (@ryzenier) July 24, 2021 リーグ要素は経験値効率落ちるので一切触らず、Grand Heistで6L入手！
-リーグ要素やってるやついる～？ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ pic.twitter.com/SbUPKIT9bw
-&amp;mdash; らざにあ (@ryzenier) July 25, 2021 SSFだと、HarvestかTirn&amp;rsquo;s Endの「Invasion Bosses in Areas drop 1 additional valuable Item」で5L入手からの「Enchanted Armaments」のGrand Heistで6L入手が一番早いと思う。 体感だけど、Area Level: 68-75ぐらいの低層の方が6Link系（素6L or All Sockets Linked）が出やすい気がしている。</description></item><item><title>Tweetで振り返る3.14 Ultimatum League</title><link>https://ryzenier.github.io/p/2021/07/3.14-ultimatum-review/</link><pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/07/3.14-ultimatum-review/</guid><description>ガチで今更感あるけど、書きかけだった記事を投下ｗ（投稿日10/17ｗ）
-前回同様、tweetをペチペチ貼っていくだけで内容薄めの振り返り！
-リーグスタート！！！ 今期はたまたま連打してたタイミングでキュー待ち入って過去最高の4番目！！！
-俺の勝ち！！！！！！！！！！！ pic.twitter.com/vgrrpj3qQC
-&amp;mdash; らざにあ (@ryzenier) April 16, 2021 快調な滑り出しと思いきや・・・無限キュー待ちリーグの開始！！！ｗｗｗ
-原因は「リーグ開始前に事前に実行しておく必要のあった処理を忘れていた」せいとのこと・・・
-Normally, we run a &amp;ldquo;trickle migration&amp;rdquo; process in the background that performs this action on every account over the few days between the last league ending and the new one starting. Due to human error, this process was not run and hence the queue was unbearably slow to empty.
-See: Ultimatum Launch: Server Issues and Streamer Priority まあ上記のミスに関しては、IT業界の片隅で働いている者として同情の余地はあるかなと思う。 ただ、それを取り繕おうと、一部ストリーマーのキューをスキップするようにしたのは、ガチで擁護のしようがないｗ</description></item><item><title>3.14 Ultimatum Atlas Passive変更点まとめ</title><link>https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/</link><pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/</guid><description>Map配置 今期はAtlasのMap配置に変更なし！ See: Link
-Map Tiers Note that there has not been a shuffle of the Atlas for Ultimatum. Map tiers are unchanged from Ritual.
-Atlas Passive変更点 自分で見るようなので翻訳とかは無し 画像は以前のまま 後で、一言コメントぐらいはつけるかも 公式ソース: Link Haewark Hamlet Haewark Hamlet
-Beyond [Removed] Power Hungry has been removed. [Moved] Per Diemon has been moved to Glennach Cairns. Ritual [New] Added two small nodes, which cause Monsters Sacrificed at Ritual Altars in Areas to grant 10% increased Tribute.</description></item><item><title>Tweetで振り返る3.13 Ritual League</title><link>https://ryzenier.github.io/p/2021/04/3.13-ritual-review/</link><pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/3.13-ritual-review/</guid><description>リーグ開始からのTweetを貼っていくだけ。自分の振り返り用なので、内容薄めｗ
-3.13 Ritualリーグ開始！！！ 2時間前からQueueスタートだったっぽくて、無事失敗orz
-うそやん pic.twitter.com/deFuSmJIpK
-&amp;mdash; らざにあ (@ryzenier) January 15, 2021 Necromancer DD ド安定のNecro DDでスタートしたものの、開始10時間半、84レベ、18位でRIPｗ
-死んだ直後は、わからなかったけど、自分から全部の玉にあたりにいってて草ｗ
-forking riverのボスやばいかもｗ pic.twitter.com/pbOwnNWvAe
-&amp;mdash; らざにあ (@ryzenier) January 16, 2021 Elementalist Cold DoT Elementalist Cold DoTで再走。
-Danがやっててinc 60% AOEでVortex打つのが楽しそうだなあ、ぐらいの気持ちでなんとなく始めた。
-「楽しいなあ～」とか思ってたら突然の死ｗ
-↓の画像をみるとわかるようにRitual中にフィジオーラ持ちが突然湧いて、オーラ効果がついた雑魚に殴られて死んだっぽい。
-雑魚に殴られる瞬間にフィジオーラ持ちが足元の湧いて死んだっぽいですｗ pic.twitter.com/Y9dgH6v6Y5
-&amp;mdash; らざにあ (@ryzenier) January 17, 2021 死体の山・・・ 楽しかっただけに、このRIPで集中力切れて、ここからグダる。
-Necro DDで再走中にMalachai RIPｗ
-マラカイで死んだんだけどｗ
-&amp;mdash; らざにあ (@ryzenier) January 17, 2021 更に、Necro DDを再走するもマップ入り直後にゲームクラッシュして使ってた6Lを無くす・・・
-リーグ要素触ったらゲームクラッシュしてキャラ死んだんだけど・・・
-&amp;mdash; らざにあ (@ryzenier) January 18, 2021 6L落ちたしもうだめだこりゃｗ</description></item><item><title>3.13 Ritual Havoc Team Blast Race振り返り</title><link>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</link><pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</guid><description>これはなに？ 2/27&amp;amp;28に開催されたHavoc Team Blast Raceに参加したので、そのときの振り返り記事です。
-今後、同じようなレースに参加する人の参考になればと思います。
-また、パーティープレイでのリーグスタート記事はなかなか無いので「パーティープレイでリーグスタートをキメたい！」といった人向けにも参考になると嬉しいです。
-レース概要 2~6人のグループで、ポイントを競い合うTwitch StreamerのHavoc主催のコミュニティーレースイベントです。
-ポイントは↓の表にある通りで、24時間以内にできるだけ多く稼いだチームの優勝です。
-Point System
-League: Ritual SCベースのプライベートリーグ Private League Link 公式Info Link ルール: 人数: 2~6人 パーティー内でのアイテムの共有可 6時間 x 4の途中休憩ありの合計24時間の4Quarter制 配信必須 日程: DAY1: 2/27 Q1: 10PM - 4AM Q2: 5AM - 11AM DAY2: 2/28 Q3: 10PM - 4AM Q4: 5AM - 11AM 公式Tweet 🏆 #HAVOCTEAMBLAST 🏆</description></item><item><title>Delveの低層クラフト回収場所まとめ</title><link>https://ryzenier.github.io/p/guide/delve-craft-benches/</link><pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/guide/delve-craft-benches/</guid><description>序盤ですぐに回収したい「2 Socket Colors &amp;amp; 2/3 Sockets」「4 Sockets」の場所のまとめです。
-といっても、めちゃくちゃ簡単で、↓の図で
-青◯ : 2 Socket Colors &amp;amp; 2/3 Sockets (T1 Azurite Node: 線が1本) 赤◯ : 4 Sockets (T2 Azurite Node: 線が2本) です。
-Craft Benches
-3.13でHarvestがCoreに追加されたことでDelveに行く理由は、ほぼなくなりました。 上記のクラフトの場所さえ覚えておけば、余計に掘る必要がなくなります。
-最後に、今回使用したソースはこちら。その他のCraft Benchの場所も載っているので、適宜参考にしてください。
-reddit - Recipe Locations</description></item><item><title>フィルター用独自サウンドの作り方</title><link>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</link><pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</guid><description>独自のサウンドを作る方法は、オンラインのサイトを使う方法もありますが、それだと遅いので、localで作成できる voice.exe を紹介します。
-1. voice.exe をダウンロード 下記のページにアクセスして「voice.exe」をダウンロードして好きなフォルダに入れます。
-voice.exe ダウンロードする場所はトップページの赤枠で囲ったところ↓
-voice.exe
-2. コマンドプロンプトからコマンドを実行する コマンドプロンプトを起動して voice.exe をダウンロードしたフォルダに移動します。
-※やり方がわからない場合は「 コマンドプロンプト フォルダ 移動 」等でググってください。
-移動したら↓のコマンドをコピペして、実行すると voice.exe と同じフォルダに trans.wav というファイルができます。
-voice -n &amp;quot;Microsoft Zira Desktop&amp;quot; -o trans.wav trans （※コマンドプロンプトはCtrl + Vが使えないので右クリック→貼り付けで）
-後は、いつもどおり「C:\Users\ryzenier\Documents\My Games\Path of Exile」に trans.wav を置いて完了です。
-今回は例として「trans」にしましたが「blue blue green」のように複数単語にしたい場合は、特に何も考えず↓のように羅列すればOKです！
-voice -n &amp;quot;Microsoft Zira Desktop&amp;quot; -o bbg.wav blue blue green</description></item><item><title>ブログ始めました！！！</title><link>https://ryzenier.github.io/p/2021/04/my-first-post/</link><pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/my-first-post/</guid><description>ブログ始めました！ ブログ始めました！よろしくお願いします！！！
-ブログタイトルは少し悩みましたが「/log ryzenier」にしました。 PoEのゲーム内コマンドっぽく、自分のプレイしたログを表示してる的な意味合いです。
-SSFHCのプレイ日記やレースの参加記録、解説記事なんかを書けたらなと思います。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on /log ryzenier</title><link>https://ryzenier.github.io/post/</link><description>Recent content in Posts on /log ryzenier</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 16 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ryzenier.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Tweetで振り返る3.15 Expedition League</title><link>https://ryzenier.github.io/p/2021/10/3.15-expedition-review/</link><pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/10/3.15-expedition-review/</guid><description>&lt;img src="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/thumbnail.png" alt="Featured image of post Tweetで振り返る3.15 Expedition League" />&lt;p>来期のパッチノートが出たというのに今更3.15 Expeditionの振り返りｗ&lt;/p>
+&lt;h2 id="リーグスタート">リーグスタート！&lt;/h2>
+&lt;p>557とそこそこの順位でスタート！戦いはここから始まっている。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">そこそこ &lt;a href="https://t.co/T1uWLY2vpF">pic.twitter.com/T1uWLY2vpF&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1418624782132649988?ref_src=twsrc%5Etfw">July 23, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="raider-trinity-lightning-strike">Raider Trinity Lightning Strike&lt;/h2>
+&lt;p>前期フレンドがやっていて強そうだったのでRaider Trinity Lightning Strikeでスタート！&lt;/p>
+&lt;p>サポジェムが大幅Nerfされたが、Lightning Strikeの基礎ダメージが1.56倍されていて最終的なDPSは前期とほとんど変わらないず、むしろ1リンク分の価値が下がったことで、5Lでの火力が上がっているのが高評価！&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">lightning strikeのbase damageが1.25倍になったのだけ見てて前期とdps変わってないの不思議だなあって思ってたけどeffectivenessも1.25倍になってるのねｗ&lt;br>1.25*1.25=1.56だしサボジェムnerfの影響をキャンセルできるのも納得だわｗ&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1418474528741593093?ref_src=twsrc%5Etfw">July 23, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>FlaskのNerfとFlame Dash&amp;amp;Smoke MineのCD増加の影響もRaiderの常時OnslaughtとWhirling Bladesで感じないのも良き！
+弱体化されても使うけど、ガチでSmoke Mine返してくれーｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">僕は ついてゆけるだろうか―――&lt;br>君のいない世界のスピードに――― &lt;a href="https://t.co/ejgIVZdlRY">pic.twitter.com/ejgIVZdlRY&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1417450682051825670?ref_src=twsrc%5Etfw">July 20, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>マップ入り直後は、火力低くて結構苦労した。。。ただ、その分めちゃめちゃ固くてファームでは絶対に死なない感じがした。
+RaiderのEvade&amp;amp;Dodge強すぎｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">【速報】火力が足らずに石0のinvitation失敗ｗｗｗ&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1418832422385324033?ref_src=twsrc%5Etfw">July 24, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>リーグ要素は経験値効率落ちるので一切触らず、Grand Heistで6L入手！&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">リーグ要素やってるやついる～？ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ &lt;a href="https://t.co/SbUPKIT9bw">pic.twitter.com/SbUPKIT9bw&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1419323294482722823?ref_src=twsrc%5Etfw">July 25, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>SSFだと、HarvestかTirn&amp;rsquo;s Endの「Invasion Bosses in Areas drop 1 additional valuable Item」で5L入手からの「Enchanted Armaments」のGrand Heistで6L入手が一番早いと思う。
+体感だけど、Area Level: 68-75ぐらいの低層の方が6Link系（素6L or All Sockets Linked）が出やすい気がしている。&lt;/p>
+&lt;p>後は、CorruptedになっちゃうけどGlennach CairnsのStrongbox+1と「Strongboxes in Areas are Corrupted」の組み合わせもいいんだけど、今期のAtlas進行的にGlennach Cairnsは内周の最後に石回収する都合上、やらなかった。&lt;/p>
+&lt;p>（ちなみに、次リーグでは、Atlas周りの大きな改修があり、AmbushはHarbinger、Blight、Delve、Deliriumと同じエリアなので優先して取るかと言われると微妙ｗ
+InvansionもHeist、Bestiaryと競合しているので無し。頼りのリーグ要素はImplict Modを追加する感じで期待できないので、5L、6Lは素直に畑とGrand Heistで狙うのが良さげ。）&lt;/p>
+&lt;p>&lt;strong>【追記】&lt;/strong>
+と思っていたらScourge Passive Skill Treeに&amp;quot;2% chance for transforming to add a link between two unlinked sockets&amp;quot;というのがあり、5pt振り切ることで最大10%まで伸びるらしい。
+3回までTransformできるから、確率的には &lt;code>27 [%] (= 1 - 0.9^3)&lt;/code> で2 link追加！
+SSF的には、Essence等でLife + 2 Res + Craftみたいな胴体を適当に作ってチャレンジするのが良さげ！
+&lt;strong>【/追記】&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>ref. &lt;a class="link" href="https://www.reddit.com/r/pathofexile/comments/q99651/scourge_mechanics_interesting_for_6_linking_items/" target="_blank" rel="noopener"
+>Scourge mechanics interesting for 6 linking items ?&lt;/a>
+&lt;img src="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/scourge-link.png"
+width="588"
+height="235"
+srcset="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/scourge-link_hued63b2a24e6edb45d04a4016250a5495_176687_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/2021/10/3.15-expedition-review/scourge-link_hued63b2a24e6edb45d04a4016250a5495_176687_1024x0_resize_box_2.png 1024w"
+loading="lazy"
+alt="Passive Skill"
+class="gallery-image"
+data-flex-grow="250"
+data-flex-basis="600px"
+>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>ref. &lt;a class="link" href="https://www.reddit.com/r/pathofexile/comments/q8hvho/scourge_atlas_base_and_passive_for_each_region/" target="_blank" rel="noopener"
+>Scourge Atlas Base and Passive For Each Region [fixed]&lt;/a>
+&lt;img src="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/3.16-scorge-atlas.png"
+width="1483"
+height="834"
+srcset="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/3.16-scorge-atlas_hu6ec9cf756fbb6e44e02b066309da65bf_1986830_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/2021/10/3.15-expedition-review/3.16-scorge-atlas_hu6ec9cf756fbb6e44e02b066309da65bf_1986830_1024x0_resize_box_2.png 1024w"
+loading="lazy"
+alt="3.16 Scorge League Atlas Passive"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>そんなこんなで、4日目時点でレベル97の総合4位！&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="lv" dir="ltr">[MEMO] lv97 &lt;a href="https://t.co/gt5ryLQEl1">pic.twitter.com/gt5ryLQEl1&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1420165531328413697?ref_src=twsrc%5Etfw">July 27, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>ただ、このあたりからリーグ要素がガチで面白くないのと、次やりたいビルドがなくてモチベがダダ下がり・・・ｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">全然経験値バーが増えない モチベ0&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1420279506695180289?ref_src=twsrc%5Etfw">July 28, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">今期イマイチレベル上げのモチベ上がらないなあと思ったら次やりたいビルドがないからかｗ 100目指してるとき一番考えてるのは次やるビルドのことだからなあー&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1420234268115030016?ref_src=twsrc%5Etfw">July 28, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">ついにDA 0%になっちまった。ファームするのだりーｗ &lt;a href="https://t.co/uIfsMabScg">pic.twitter.com/uIfsMabScg&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1420702836220784640?ref_src=twsrc%5Etfw">July 29, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>周りを見ても軒並みDaily Activeが減ってて、このリーグガチでゴミだなあって思ってた。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">SSFHC上位陣のDaily Activeすら低くて草ｗ &lt;a href="https://t.co/Sy8NRvaH4U">pic.twitter.com/Sy8NRvaH4U&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1420247698880360450?ref_src=twsrc%5Etfw">July 28, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>後は、マップが全然ドロップしないのもストレスだった。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">mapが落ちないのガチでストレスすぎる&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1420725499018440711?ref_src=twsrc%5Etfw">July 29, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>（これはかなり眉唾ものではあるんだけど、GGGがリーグ開始1週間はマップドロップ率を下げてる説があって、SSFSCガチ勢の友人曰くそんなことはないって言うんだけど自分は絶対にやってると思ってる。特に、ここ最近のリーグでは！勿論、内部的に&lt;a class="link" href="http://www.vhpg.com/map-drop-equity/" target="_blank" rel="noopener"
+>Map Drop Equity&lt;/a>ってのが存在していることは知っているんだけど、そんなんじゃ説明できないほどにドロップ率が違うと思う。一応、個人の感想なので、信じるか信じないかはあなた次第。）&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">めちゃめちゃマップ落ちるようになったｗ 絶対やってんべｗ&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1421298142239084546?ref_src=twsrc%5Etfw">July 31, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>んで、このタイミングで、流行病のワクチン接種2回目に行ってきた。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">2回目の接種終わった。明日頑張れば99いけそうだったけど流石に無理かなーw&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1421390202598158337?ref_src=twsrc%5Etfw">July 31, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>自分は、モデルナだったからか副反応が結構キツくて翌日から熱が出始めて、下がるまで丸3日かかった。（土曜日の夕方に摂取して火曜日まで寝込んでた。）&lt;/p>
+&lt;p>当時のtweet↓。これから摂取の人は、ガチで舐めないほうがいいので気をつけて！&lt;/p>
+&lt;p>&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">お腹痛いし肩痛いし熱あるっぽい&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1421486218026520582?ref_src=twsrc%5Etfw">July 31, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">熱エグいて〜&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1421628459898458118?ref_src=twsrc%5Etfw">August 1, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">頭痛と寒気と熱がヤバい&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1421820357602729986?ref_src=twsrc%5Etfw">August 1, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">ようやくワクワクチンチンから復帰できたｗ 土曜の夕方の打って結局3日もかかったんだがｗ 1回目のとき、そこまでだったからマジなめてたわｗ&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1422459717826215937?ref_src=twsrc%5Etfw">August 3, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;/p>
+&lt;p>ワクチンから復帰するも、当然モチベは上がらずダラダラとファームを続けてた。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">ファームするのダルくね・・・&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1422870145001693188?ref_src=twsrc%5Etfw">August 4, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>本当にモチベが上がらなくて、弟と通話したり、Twitchで久しぶりに配信してみたりした。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">久しぶりに弟と古のツールskypeで通話したｗ&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1422579206731440133?ref_src=twsrc%5Etfw">August 3, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">一体いつからファームしていないと錯覚していた？98.6~ &lt;a href="https://t.co/Cv9BdT8wnN">https://t.co/Cv9BdT8wnN&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1423874007699320833?ref_src=twsrc%5Etfw">August 7, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>そんなこんなでダラダラファームを続けるも、レベル99なりたての全体11位で幽霊DD RIPｗ（何故かバグでRIPログが流れてない）&lt;/p>
+&lt;p>幽霊DDはファーム速度を下げるぐらいしか対策のしようがないし、本当にしょうもないから消して欲しい。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">[PoE][3.15][Expedition] Obviously Good Game &lt;a href="https://t.co/Y2QlyKcyh5">https://t.co/Y2QlyKcyh5&lt;/a> &lt;a href="https://twitter.com/YouTube?ref_src=twsrc%5Etfw">@YouTube&lt;/a>より&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1424050279364759560?ref_src=twsrc%5Etfw">August 7, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>次のビルド何やるかとStashを見ていたらSoul Mantleがあったのでfusing打ったら繋がった。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">繋がったしあのビルドやるかーｗ Maven倒しちゃうよーｗ &lt;a href="https://t.co/igCa2ZNo3L">pic.twitter.com/igCa2ZNo3L&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1424224111631298565?ref_src=twsrc%5Etfw">August 8, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>ただ、本当にリーグ要素がつまらなくて結局何もせず、このままフェードアウトした。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">ripしてからちょっとだけログインして6L繋いだだけでそれ以降何もせず休日が終わった&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1424719017349050375?ref_src=twsrc%5Etfw">August 9, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="まとめ">まとめ&lt;/h2>
+&lt;p>結果的に、2.6 Legacy以降、過去一番プレイしなかったリーグになってしまった。順調にRaiderがレベル100になっていたとしても次のキャラはやらなかったと思う。&lt;/p>
+&lt;p>自分以外にも、そう感じたプレイヤーは多かったようで、3.0以降圧倒的な離脱率を記録したらしい。&lt;/p>
+&lt;ul>
+&lt;li>ref. &lt;a class="link" href="https://www.reddit.com/r/pathofexile/comments/orjyf7/opening_weekend_playerbase_comparison_of_all_poe/" target="_blank" rel="noopener"
+>Opening weekend playerbase comparison of all PoE leagues since 3.0&lt;/a>
+&lt;img src="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/population.png"
+width="792"
+height="498"
+srcset="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/population_hubf857631e9eb593ef5f161b2bf45bfcf_156195_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/2021/10/3.15-expedition-review/population_hubf857631e9eb593ef5f161b2bf45bfcf_156195_1024x0_resize_box_2.png 1024w"
+loading="lazy"
+alt="population"
+class="gallery-image"
+data-flex-grow="159"
+data-flex-basis="381px"
+>&lt;/li>
+&lt;/ul>
+&lt;h2 id="結局何がいけなかったか">結局、何がいけなかったか？&lt;/h2>
+&lt;p>個人的にはSmoke MineのNerfが本当に痛かった。&lt;/p>
+&lt;p>&lt;strong>プレイ速度&lt;/strong>を落とすための変更だと思うが、いくら&lt;strong>ゲームの進行速度&lt;/strong>を落としたいからといって、プレイフィールまで落としてしまうのは、反対。
+正直、Smoke Mineが返ってくるまでASの稼ぎづらいTemplar、Witch、Shadowはやりたくない。そういうレベルで移動が遅い。ビルド選択の幅を著しく下げているので、さっさと戻して欲しい。&lt;/p>
+&lt;p>一方で、サポートジェムをNerfに関しては、割と好意的。&lt;/p>
+&lt;p>最上位プレイヤーのパーティーだと、24時間以内に全ボス撃破できてしまえたので、&lt;strong>ゲーム進行速度&lt;/strong>を落とす意味合いで正しい。（これは実際にHavoc Team Blast Raceに出てみての感想）
+勿論、HCだとより難しくなるが、GGGはSCトレード基準で調整しているらしいので、妥当な判断。&lt;/p>
+&lt;p>と、思っていたが来期は、Atlasの領域を8=&amp;gt;4に、マップ数を164=&amp;gt;118にするらしいｗ サポジェムNerfで遅らせた&lt;strong>ゲーム進行速度&lt;/strong>も一瞬でひっくり返るレベルの大きな変更ｗ
+来期、開始何時間でUber Elderが倒されるのかが今から楽しみｗ&lt;/p></description></item><item><title>Tweetで振り返る3.14 Ultimatum League</title><link>https://ryzenier.github.io/p/2021/07/3.14-ultimatum-review/</link><pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/07/3.14-ultimatum-review/</guid><description>&lt;img src="https://ryzenier.github.io/p/2021/07/3.14-ultimatum-review/thumbnail.png" alt="Featured image of post Tweetで振り返る3.14 Ultimatum League" />&lt;p>ガチで今更感あるけど、書きかけだった記事を投下ｗ（投稿日10/17ｗ）&lt;/p>
+&lt;p>前回同様、tweetをペチペチ貼っていくだけで内容薄めの振り返り！&lt;/p>
+&lt;h2 id="リーグスタート">リーグスタート！！！&lt;/h2>
+&lt;p>今期はたまたま連打してたタイミングでキュー待ち入って過去最高の4番目！！！&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">俺の勝ち！！！！！！！！！！！ &lt;a href="https://t.co/vgrrpj3qQC">pic.twitter.com/vgrrpj3qQC&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1383118040544419844?ref_src=twsrc%5Etfw">April 16, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>快調な滑り出しと思いきや・・・無限キュー待ちリーグの開始！！！ｗｗｗ&lt;/p>
+&lt;p>原因は「リーグ開始前に事前に実行しておく必要のあった処理を忘れていた」せいとのこと・・・&lt;/p>
+&lt;blockquote>
+&lt;p>Normally, we run a &amp;ldquo;trickle migration&amp;rdquo; process in the background that performs this action on every account over the few days between the last league ending and the new one starting. Due to human error, this process was not run and hence the queue was unbearably slow to empty.&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>See: &lt;a class="link" href="https://www.pathofexile.com/forum/view-thread/3082616" target="_blank" rel="noopener"
+>Ultimatum Launch: Server Issues and Streamer Priority&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>まあ上記のミスに関しては、IT業界の片隅で働いている者として同情の余地はあるかなと思う。
+ただ、それを取り繕おうと、一部ストリーマーのキューをスキップするようにしたのは、ガチで擁護のしようがないｗ&lt;/p>
+&lt;p>その時のお気持ちツイート↓ｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">割とガチでGGGが一般のユーザーが知り得ないところで、特定のプレイヤーに対して有利に働くようにしてた事が嫌すぎるんだけど&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1383281915709386756?ref_src=twsrc%5Etfw">April 17, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>今期は、レースイベントが無かったとはいえ、自分は常にラダーを意識してプレイしているので、かなり失望した。
+こういうことがあると、普段からこうった特別措置してるんじゃないかと疑われてしまうのは必然ｗ&lt;/p>
+&lt;p>個人的には、上記の特別措置が発覚した段階で、リーグをリスタートした方が良かったと思う。&lt;/p>
+&lt;p>（当時何があったかは、↓の茶茶丸さんのまとめが一番まとまっているので参照のこと）&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="http://chachamaru2323.blog.fc2.com/blog-entry-401.html" target="_blank" rel="noopener"
+>[PoE 3.14] Ultimatumリーグ、初日から炎上すの巻&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>そんなこんなで初日はプレイできる状況じゃなかったので割とすぐ離脱ｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">昨日大して寝られなかったのもあって疲れてるから一旦寝る。流石に、現状はゴミ過ぎるｗ&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1383248061992902667?ref_src=twsrc%5Etfw">April 17, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>起床後は、キュー待ちも治っていたので、気持ちを切り替えて再スタート！
+自分は、割と寝たら忘れられるタイプｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">治ったっぽい？で、リスタート無しねｗ&lt;br>なんか寝る前、めちゃくちゃ頭きてたけど、寝たらどうでも良くなったわｗ&lt;br>走るぞーｗ&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1383386504173473795?ref_src=twsrc%5Etfw">April 17, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="assassin-poison-bfbb">Assassin Poison BFBB&lt;/h2>
+&lt;p>そんこんなで、リーグスタートはAssassin Poison BFBB！&lt;/p>
+&lt;p>結構前から存在してたビルドだけど、まともに触るのは、これが初めて！
+Havoc Team Blast Raceで、かなり幅を利かせていて気になっていたビルド。&lt;/p>
+&lt;p>レースの振り返り記事もあるのでお暇なときに、どうぞ&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/" >3.13 Ritual Havoc Team Blast Race振り返り&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>3.14でBBがNerfされたのもあって使用率も少なくなり、クラス1位も楽に狙えそうと予想して決めた感じ。&lt;/p>
+&lt;p>使ってみたら「これ本当にNerfした？ｗ」って言うぐらい強くてビビったｗ
+SSFのゴミギアでもめちゃくちゃDPSがでてファームが快適だった。&lt;/p>
+&lt;p>3.9のMetamorph以降、石4つ入れぐらいから火力的にキツくなってくる印象があったけど、詰まることなくストレートでT16までいけた。&lt;/p>
+&lt;p>リーグ要素も、湧いてくるモブの命中が低いのかFlesh and StoneのBlindとEV + Dodgeで全然被弾しなかったしPlague Bearerで知らないうちに死んでいくのでガチで楽だった。&lt;/p>
+&lt;p>（長くなるので、ここからは雑にツイート貼ってくだけ）&lt;/p>
+&lt;p>リーグ開始のゴタゴタのせいで、一度も死んでないのに90レベ時点の&lt;code>/played&lt;/code> が明らかに遅くて笑うｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="lv" dir="ltr">[MEMO] lv90 &lt;a href="https://t.co/J7cG8SMjGB">pic.twitter.com/J7cG8SMjGB&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1383660887152611333?ref_src=twsrc%5Etfw">April 18, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>92レベでようやく初日の出遅れを取り戻した感じ。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">半分寝ながらdelve掘ってたら死にそうになったので一旦休憩 &lt;a href="https://t.co/07dnnr2oI1">pic.twitter.com/07dnnr2oI1&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1383778937243725838?ref_src=twsrc%5Etfw">April 18, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>運良くElderのFragmentが揃ったので行ってみたらまさかのFirst Killだったｗ
+First Killで名前が出たのは初めて！&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">SSFHC First Elder Killゲットｗｗｗ &lt;a href="https://t.co/vmqHp5EKed">pic.twitter.com/vmqHp5EKed&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1384165652252958724?ref_src=twsrc%5Etfw">April 19, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>3日目終了時点のツイート（ここで有給終わり）&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">Ultimatumリーグスタダおつ！！！&lt;br>約72h経過時点でレベル96の全体8位！&lt;br>明日から仕事だから今週末に100にするぐらいの予定でクラス1位＆10位以内になれるといいかなｗ！ &lt;a href="https://t.co/mdZ8HOX5Bp">pic.twitter.com/mdZ8HOX5Bp&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1384232505084055559?ref_src=twsrc%5Etfw">April 19, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>そんなこんなでリーグ開始8日目にレベル100到達！（全体7位のAssassinクラス1位）&lt;/p>
+&lt;p>ファーム方法はひたすらValdに石4つ入れてハービンジャーとSyndicateとリーグ要素をやってただけ。
+リーグ要素からカレンシーが尽きることなく供給されるのでずっと4cのZanaハービンジャー入れられたのがガチででかい。&lt;/p>
+&lt;p>レベル100に要した時間的には、3.12 HeistのFlashbackイベントのRepositoryグラスラImpalerよりは遅かったけど、歴代2位の早さｗ！&lt;/p>
+&lt;p>ずっとハビを回してたのもあってExとかAnnulとかAncient Orbとかの量もとんでもない量になっててた。
+SSFのファーストキャラで、ここまで稼げたことはないのでやっぱり今期のリーグ要素は壊れてたなあとｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="lv" dir="ltr">[MEMO] lv100 &lt;a href="https://t.co/9WnqlUjiIn">pic.twitter.com/9WnqlUjiIn&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1386358455938605056?ref_src=twsrc%5Etfw">April 25, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="pathfinder-darkscorn-poison-scourge-arrow">Pathfinder Darkscorn Poison Scourge Arrow&lt;/h2>
+&lt;p>ファーストキャラが無事100になったので趣味ビルドをやりつつクラス1位狙えないかなあとpoe-racing見てたら誰もPathfinderやってなかったのでやることに
+（SSFだと大抵、誰かがTR/CAやっててクラス1位が地味に難しかったイメージがあったのでちょうど良い機会だった）&lt;/p>
+&lt;p>ビルドは、今期から一部のリーグ固有ユニークが一般ドロップするようになって初めてDarkscornを手に入れられたので前々からやってみたかったPoison Scorge Arrow。&lt;/p>
+&lt;p>常時Flask使えて、パスファのPoison Prolifでファームは快適だったけど単体が弱かったのと、思ったより固くなかったので右下のLiraでHeistとBlighted Mapファームをひたすらやって100にした。&lt;/p>
+&lt;p>今までレベル100にした中では一番弱かったんじゃないかってぐらい単体DPS出なかったので、次リーグとかでやろうとしてる人がいたら、キチンとPoB叩いてから始めたほうがいい。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">2キャラ目レベル100！！！ &lt;a href="https://t.co/HyQS2NfOdE">pic.twitter.com/HyQS2NfOdE&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1391087485048877060?ref_src=twsrc%5Etfw">May 8, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>100にした直後の感想ツイートｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">ようやくこの苦行から開放されるｗｗｗ ガチで過去一で辛かったｗ DPSなさすぎるんだよｗ&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1391087791958679557?ref_src=twsrc%5Etfw">May 8, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>ただガチでカレンシーは稼げたｗ 今見返してもSSFとは思えない量ｗ エグいてーｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">[MEMO] 2キャラ目終了時点のstash状況 &lt;a href="https://t.co/VHFXvpzJxs">pic.twitter.com/VHFXvpzJxs&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1391106010605965314?ref_src=twsrc%5Etfw">May 8, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="hierophant-archmage-storm-brand">Hierophant Archmage Storm Brand&lt;/h2>
+&lt;p>PathfinderでHeist回してたらAsenath手が出たのでシナジーがありつつ、まだレベル100が出てなかったのでHierophant Archmage Storm Brandをやることにｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">ガチできちゃああああああああああああああああああああああああああああああああああああああああああああああ &lt;a href="https://t.co/u8LfjB0UkQ">pic.twitter.com/u8LfjB0UkQ&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1390929547567136771?ref_src=twsrc%5Etfw">May 8, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>順調にレベリングをしていたと思ったら・・・&lt;/p>
+&lt;p>&lt;blockquote class="twitter-tweet">&lt;p lang="lv" dir="ltr">[MEMO] lv97 &lt;a href="https://t.co/kiRQymrRKw">pic.twitter.com/kiRQymrRKw&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1392212671206879235?ref_src=twsrc%5Etfw">May 11, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;blockquote class="twitter-tweet">&lt;p lang="lv" dir="ltr">[MEMO] lv98 &lt;a href="https://t.co/Bp5MnhbTN3">pic.twitter.com/Bp5MnhbTN3&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1392570187677802496?ref_src=twsrc%5Etfw">May 12, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;/p>
+&lt;p>ボスキル担当だったAssassinの突然死ｗ 仕事終わりの深夜3時で疲れて集中切れてたのと、今までSSFHCでSirusで死んだことがなかった慢心からのRIPｗ&lt;/p>
+&lt;p>一応、言い訳しておくと直前にログアウトしてたせいかDieビームの周期がズレてて、攻撃しようと追いかけちゃったのがいけなかった・・・とほほ・・・&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">Sirusで死ぬやつおるー？ｗｗｗ 今期1RIP目ｗｗｗ &lt;a href="https://t.co/4JDxqjerLA">pic.twitter.com/4JDxqjerLA&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1392912445446844417?ref_src=twsrc%5Etfw">May 13, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>きれいな立ち回りはこちら↓ｗ&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/uSKR_jyiibs"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;p>RIPにもめげずにレベリングして99まで育てるも・・・&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="lv" dir="ltr">[MEMO] lv99 &lt;a href="https://t.co/aAzt8xkiyg">pic.twitter.com/aAzt8xkiyg&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1393097520457211904?ref_src=twsrc%5Etfw">May 14, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>99まで育てたキャラで一番しょうもない死に方したｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">ガチでだりーｗ &lt;a href="https://t.co/JkJFfE0rBz">pic.twitter.com/JkJFfE0rBz&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1393305716539027459?ref_src=twsrc%5Etfw">May 14, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="havoc-team-blast-2">Havoc Team Blast 2&lt;/h2>
+&lt;p>このタイミングで前期同様Havoc主催のSC Group Found Raceをやるとのことだったので参加することに！&lt;/p>
+&lt;p>前回の反省も踏まえて4人→6人にメンバーを増やしてフルパーティーでの参戦！！！&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">🏆&lt;a href="https://twitter.com/hashtag/HAVOCTEAMBLAST?src=hash&amp;amp;ref_src=twsrc%5Etfw">#HAVOCTEAMBLAST&lt;/a> TWO🏆&lt;br>&lt;br>Path of Exile Race Event&lt;br>May 29 - 30 12PM GMT&lt;br>Cast by &lt;a href="https://twitter.com/RaizQT?ref_src=twsrc%5Etfw">@RaizQT&lt;/a> &lt;br>&lt;br>🎁 GIVEAWAY: 18 x Apollyon Mystery Box&lt;br>💞 Retweet + Like this tweet to Enter&lt;br>🗨️ Comment &lt;a href="https://twitter.com/hashtag/HAVOCTEAMBLAST?src=hash&amp;amp;ref_src=twsrc%5Etfw">#HAVOCTEAMBLAST&lt;/a> and Tag a Friend &lt;a href="https://t.co/yExL3iOsau">pic.twitter.com/yExL3iOsau&lt;/a>&lt;/p>&amp;mdash; Havoc (@Havoc616_) &lt;a href="https://twitter.com/Havoc616_/status/1394131994896998402?ref_src=twsrc%5Etfw">May 17, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>最終的に、前回よりはPointを稼げたものの順位的には4 Way Legionのルールを勘違いして失敗したり、The Hidden（=Breach Lord*4のInvitation）をAL8で入ってしまって失敗するという自分の特大トロールのせいで、あまり振るわない結果に・・・（マジでごめんなさい 🙇‍♂️ ）&lt;/p>
+&lt;p>ただ、今回パーティーに参加してくれた、みざりーさんとお揚げさんは、どちらもSSFプレイヤーで、パーティープレイの経験がなかったにも関わらず事前練習含め、めちゃくちゃチームに貢献してくれたのが、ありがたかった！特に、みざりーさんには直前でGladiator KB FeverからAssassin Poison BFBBに変えてもらったという。。。ｗ&lt;/p>
+&lt;p>前回同様、普段SSFをプレイしているせいか、久しぶりにやるパーティープレイはクソ楽しかった！
+ただ、参加しているのが軒並みHCのラダー常連プレイヤーで、普段SCトレードをメインでプレイしてる人（こっちの方が圧倒的に人口が多いハズ）も参加してくれたら更に盛り上がるのになあ、と思うｗ&lt;/p>
+&lt;h2 id="ascendant-corrupting-fever">Ascendant Corrupting Fever&lt;/h2>
+&lt;p>Havoc Raceの後は引き続きSSFHCで、フレンドがやっていて強そうだった弓6LのAscendant Corruption Feverをプレイ！ボスキルとかしてたけど、シンセのボスにやられてRIP&lt;/p>
+&lt;p>ファームも早くてDPSも2.4Mぐらいでてて使用感はかなりよかったので、結構ショックだった・・・&lt;/p>
+&lt;p>今まで、こいつのギミック分かってくて火力でゴリ押ししてたけど、今回でようやく理解したｗ
+近くによるとactiveになるから、動き回っちゃダメなのねｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">こいつガチで嫌いｗ &lt;a href="https://t.co/CmrsaflSMZ">pic.twitter.com/CmrsaflSMZ&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1401520850692567046?ref_src=twsrc%5Etfw">June 6, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="gauntlet-league">Gauntlet League&lt;/h2>
+&lt;p>今期は2 Additional Projectilesのmodが消えて、その代わりinc 70% AoEのmodだったので、かなりアクトが楽だった。&lt;/p>
+&lt;p>順調に進めていたけど、石0 Baranに倒されてRIPｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">というわけでねｗ おつｗ &lt;a href="https://t.co/MzzA3ztTwm">pic.twitter.com/MzzA3ztTwm&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1404161550026350593?ref_src=twsrc%5Etfw">June 13, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="gladiator-corrupting-fever">Gladiator Corrupting Fever&lt;/h2>
+&lt;p>SSFHCに戻って、Delveをdepth: 679（総合2位）まで掘って今期は終了！&lt;/p>
+&lt;p>POB: &lt;a href="https://pastebin.com/heUEfNi3">https://pastebin.com/heUEfNi3&lt;/a>&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">おつｗ aura持ちの骨でワンパンだったｗ 1位狙ってたけど無理だったなーｗ &lt;a href="https://t.co/rd1VaSEOoG">pic.twitter.com/rd1VaSEOoG&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1416047489606553600?ref_src=twsrc%5Etfw">July 16, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="まとめ">まとめ&lt;/h2>
+&lt;p>今期は、Assassinで総合7位、Pathfinderでクラス1位と、かなり順調にいった！
+ファーストキャラである程度資産作れたのと、リーグ要素が脳死でファームする系で直近のリーグの中では一番好みだったのが勝因だと思う！&lt;/p>
+&lt;p>リーグ要素めちゃくちゃプレイしたせいか、SSFHCで唯一Hateforge入手したりもしてたけど、結局最後まで使わなかったｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">実は手袋持ってたりするんだけどあるか？ &lt;a href="https://t.co/VAiWmz54x0">pic.twitter.com/VAiWmz54x0&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1389116488171200512?ref_src=twsrc%5Etfw">May 3, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script></description></item><item><title>3.14 Ultimatum Atlas Passive変更点まとめ</title><link>https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/</link><pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/</guid><description>&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/3.14-atlas.jpg" alt="Featured image of post 3.14 Ultimatum Atlas Passive変更点まとめ" />&lt;h2 id="map配置">Map配置&lt;/h2>
+&lt;p>今期はAtlasのMap配置に変更なし！ See: &lt;a class="link" href="https://www.pathofexile.com/forum/view-thread/3079980" target="_blank" rel="noopener"
+>Link&lt;/a>&lt;/p>
+&lt;blockquote>
+&lt;p>Map Tiers
+Note that there has not been a shuffle of the Atlas for Ultimatum. Map tiers are unchanged from Ritual.&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="atlas-passive変更点">Atlas Passive変更点&lt;/h2>
+&lt;ul>
+&lt;li>自分で見るようなので翻訳とかは無し&lt;/li>
+&lt;li>画像は以前のまま&lt;/li>
+&lt;li>後で、一言コメントぐらいはつけるかも&lt;/li>
+&lt;li>公式ソース: &lt;a class="link" href="https://www.pathofexile.com/forum/view-thread/3079973#atlaspassivebalance" target="_blank" rel="noopener"
+>Link&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="haewark-hamlet">Haewark Hamlet&lt;/h2>
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Haewark-Hamlet.jpg"
+width="1920"
+height="1080"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Haewark-Hamlet_hu7ba7c0b00c8a4d9e71e96cf3ab9dcea9_435296_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Haewark-Hamlet_hu7ba7c0b00c8a4d9e71e96cf3ab9dcea9_435296_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Haewark Hamlet"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;ul>
+&lt;li>Beyond
+&lt;ul>
+&lt;li>[Removed] Power Hungry has been removed.&lt;/li>
+&lt;li>[Moved] Per Diemon has been moved to Glennach Cairns.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Ritual
+&lt;ul>
+&lt;li>[New] Added two small nodes, which cause Monsters Sacrificed at Ritual Altars in Areas to grant 10% increased Tribute.&lt;/li>
+&lt;li>[New] Added Sacred Lands, which grants +10% chance for Areas to contain Ritual Altars.&lt;/li>
+&lt;li>[New] Added Paid in Blood, which allows you to reroll Favours in Areas 2 additional times, while also granting 100% increased chance of Ritual Altars with Special Rewards.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Harvest
+&lt;ul>
+&lt;li>[Buff] The Grove&amp;rsquo;s Call now grants +10% chance for Areas to contain The Sacred Grove (previously +5%).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Betrayal
+&lt;ul>
+&lt;li>[No Changes] Clarified that the Bribery Atlas Passive causes 200% more items to drop instead of 2 additional items. This is purely a description change.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="tirns-end">Tirn&amp;rsquo;s End&lt;/h2>
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Tirn%27s-End.jpg"
+width="1920"
+height="1080"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Tirn%27s-End_hue8f796f0d4c7c2c6db4ab3a9376db073_452150_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Tirn%27s-End_hue8f796f0d4c7c2c6db4ab3a9376db073_452150_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Tirn&amp;rsquo;s End"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;ul>
+&lt;li>Invansion Boss
+&lt;ul>
+&lt;li>[Minor Nerf?] Exotic Goods now causes a wider selection of Items to drop.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Bestiary
+&lt;ul>
+&lt;li>[Nerf] Big Game now has a 15% chance for Yellow Beasts to be replaced with Red Beasts (previously 30%).&lt;/li>
+&lt;li>[Buff] Great Migration now has a 10% chance for Areas with Einhar Missions to contain additional Packs of Beasts instead of other Monsters (previously 5%).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="lex-proxima">Lex Proxima&lt;/h2>
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Proxima.jpg"
+width="1920"
+height="1080"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Proxima_huca7d952484357f72624e3c8df2929f9a_472186_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Proxima_huca7d952484357f72624e3c8df2929f9a_472186_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Lex Proxima"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;ul>
+&lt;li>Harvest
+&lt;ul>
+&lt;li>[Buff] Small Harvest Chance nodes now grant +3% chance for Areas to contain The Sacred Grove (previously +2%).&lt;/li>
+&lt;li>[Nerf] Bumper Crop no longer causes Harvests in Areas to have Doubled bonuses to Item Quantity and Rarity.&lt;/li>
+&lt;li>[Buff] Heart of the Grove no longer grants 100% increased chance for Areas to contain the Heart of the Grove. It now causes Harvest Bosses in Areas to always drop a Sacred Blossom.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Torment
+&lt;ul>
+&lt;li>[Nerf] Seance now Possesses 5 Rare Monsters (previously 20).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Delve
+&lt;ul>
+&lt;li>[Buff] Packed with Energy now grants +1% to all maximum Elemental Resistances for each Voltaxic Sulphite Vein or Chest found in Areas.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="lex-ejoris">Lex Ejoris&lt;/h2>
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Ejoris.jpg"
+width="1920"
+height="1080"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Ejoris_hu7ba7c0b00c8a4d9e71e96cf3ab9dcea9_462659_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Ejoris_hu7ba7c0b00c8a4d9e71e96cf3ab9dcea9_462659_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Lex Ejoris"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;ul>
+&lt;li>Perandus
+&lt;ul>
+&lt;li>[Minor Change] Small Perandus nodes now grant a 10% chance to drop twice as many Perandus Coins (previously 20% increased Stack size of Perandus Coins found in Areas).&lt;/li>
+&lt;li>[Nerf] Friend of the Family now causes Cadiro to offer the rarest of 3 options (previously 5).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Metamorph
+&lt;ul>
+&lt;li>[Nerf] Escaped Experiment now has a 50% chance for Areas to contain a Rogue Metamorph (previously 100%).&lt;/li>
+&lt;li>[Buff] Finest Samples now causes Metamorphs in Areas to deal 15% more Damage (previously 50%). In addition, it now causes Metamorphs in Areas to have 150% more Life (previously 100%).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Incursion
+&lt;ul>
+&lt;li>[Nerf] Time Dilation now causes Incursion Monsters in Areas to be at least Magic Rarity. Incursion Architects no longer drop an additional Rare Incursion Item.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Delirium
+&lt;ul>
+&lt;li>[Nerf] Pathological now has a 5% chance to apply layers of Delirium to Maps found in Areas (previously 10%).&lt;/li>
+&lt;li>[Nerf] Compulsive Hoarder now has a 10% chance to cause Delirium encounters in Areas to generate three additional Reward types (previously 15%).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="new-vastir">New Vastir&lt;/h2>
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/New-Vastir.jpg"
+width="1920"
+height="1080"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/New-Vastir_hud27dbf0e1915b35024ff051ae78e8f2a_456719_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/New-Vastir_hud27dbf0e1915b35024ff051ae78e8f2a_456719_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="New Vastir"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;ul>
+&lt;li>Legion
+&lt;ul>
+&lt;li>[Moved] High Value Targets has been moved to Glennach Cairns.&lt;/li>
+&lt;li>[Moved] Protracted Battle has been added (previously in Glennach Cairns).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Abyss
+&lt;ul>
+&lt;li>Votive Hoard now has a 20% chance for Abyssal Troves in Areas to drop a Rare Item with an Abyssal Socket (previously 10%). It no longer increases the Level of Abyssal Troves.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Delve
+&lt;ul>
+&lt;li>[Buff???] Sulphite-hoarding Monsters spawned by Sulphite Sentinels are now more dangerous but more rewarding.&lt;/li>
+&lt;li>[Buff] Out of the Blue now has a 20% chance for Sulphite Veins and Chests in Areas to also contain an equal amount of Azurite (previously 5%).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Anarchy
+&lt;ul>
+&lt;li>[Buff] Total Anarchy now causes Areas to have a 10% chance to contain 20 additional Rogue Exiles (previously added 1 Rogue Exile per 2 additional content types applied to Areas).&lt;/li>
+&lt;li>[Bufff] Rogue Trader now has a 50% chance for Wild Rogue Exiles to have additional rewards (previously 15%). However, it now causes them to have 200% increased Maximum Life.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="glennach-cairns">Glennach Cairns&lt;/h2>
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Glennach-Cairns.jpg"
+width="1920"
+height="1080"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Glennach-Cairns_huf56132d71a05cb6683f821996624fac3_419620_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Glennach-Cairns_huf56132d71a05cb6683f821996624fac3_419620_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Glennach Cairns"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;ul>
+&lt;li>Legion
+&lt;ul>
+&lt;li>[Moved] Protracted Battle has been moved to New Vastir.&lt;/li>
+&lt;li>[Nerf] High Value Targets has been added (previously in New Vastir). It now grants Legion Sergeants an additional 25% chance to hold a reward (no longer guaranteed).&lt;/li>
+&lt;li>[Nerf] Face to Face no longer grants 100% more Timeless Splinters from Legion Generals in Areas.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Beyond
+&lt;ul>
+&lt;li>[Nerf] Per Diemon has been added (previously in Haewark Hamlet). Rare Beyond Demons in Areas now have a 25% chance to drop an additional Basic Currency Item (previously 35%).&lt;/li>
+&lt;li>[Nerf] Torn Veil now grants 50% increased Beyond Portal Merging Radius (previously 100%).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Incursion
+&lt;ul>
+&lt;li>[Moved] Cultural Advancement has been removed. Its effect now appears on Time Dilation in Lex Ejoris.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="valdos-rest">Valdo&amp;rsquo;s Rest&lt;/h2>
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Valdo%27s-Rest.jpg"
+width="1920"
+height="1080"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Valdo%27s-Rest_hu4666f8a26980064eb869c93814d73432_438691_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Valdo%27s-Rest_hu4666f8a26980064eb869c93814d73432_438691_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Valdo&amp;rsquo;s Rest"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;ul>
+&lt;li>Harbinger
+&lt;ul>
+&lt;li>[Nerf] Diplomatic Escort now replaces one Harbinger with a King Harbinger instead of a group of Harbingers.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Syndicate
+&lt;ul>
+&lt;li>[Buff] Gut Instinct now provides 5 Intelligence for the current Encounter&amp;rsquo;s Safehouse if an Immortal Syndicate member is not interrogated (previously 3).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="lira-arthain">Lira Arthain&lt;/h2>
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lira-Arthain.jpg"
+width="1920"
+height="1080"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lira-Arthain_hu4f24389255332ea0d4e7a637855a672e_460763_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lira-Arthain_hu4f24389255332ea0d4e7a637855a672e_460763_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Lira Arthain"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;ul>
+&lt;li>Bestiary
+&lt;ul>
+&lt;li>[Nerf] Natural Selection no longer makes rarer beasts quite as common.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Blight
+&lt;ul>
+&lt;li>[Buff] Immune Response now causes Blight Monsters to spawn 150% faster (previously 100%).&lt;/li>
+&lt;li>[Nerf] Spores on the Wind now causes Maps found in Areas to have a 5% chance to have an &amp;ldquo;Area contains an additional Blight Encounter&amp;rdquo; Enchantment Modifier (previously 10%).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Breach
+&lt;ul>
+&lt;li>[Nerf] Flash Breach now causes Breaches in Areas to open and close 50% faster (previously 100%).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="uncharted-realms">Uncharted Realms&lt;/h2>
+&lt;ul>
+&lt;li>[Buff] Neural Pathways now grants a +1% chance (previously +0.5%) for a Synthesis Map to be dropped from Unique Bosses in Tier 14+ Maps (previously Tier 11+).&lt;/li>
+&lt;/ul></description></item><item><title>Tweetで振り返る3.13 Ritual League</title><link>https://ryzenier.github.io/p/2021/04/3.13-ritual-review/</link><pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/3.13-ritual-review/</guid><description>&lt;img src="https://ryzenier.github.io/p/2021/04/3.13-ritual-review/thumbnail.jpg" alt="Featured image of post Tweetで振り返る3.13 Ritual League" />&lt;p>リーグ開始からのTweetを貼っていくだけ。自分の振り返り用なので、内容薄めｗ&lt;/p>
+&lt;h2 id="313-ritualリーグ開始">3.13 Ritualリーグ開始！！！&lt;/h2>
+&lt;p>2時間前からQueueスタートだったっぽくて、無事失敗orz&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">うそやん &lt;a href="https://t.co/deFuSmJIpK">pic.twitter.com/deFuSmJIpK&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1350130015493517312?ref_src=twsrc%5Etfw">January 15, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="necromancer-dd">Necromancer DD&lt;/h2>
+&lt;p>ド安定のNecro DDでスタートしたものの、開始10時間半、84レベ、18位でRIPｗ&lt;/p>
+&lt;p>死んだ直後は、わからなかったけど、自分から全部の玉にあたりにいってて草ｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">forking riverのボスやばいかもｗ &lt;a href="https://t.co/pbOwnNWvAe">pic.twitter.com/pbOwnNWvAe&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1350320936654815238?ref_src=twsrc%5Etfw">January 16, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="elementalist-cold-dot">Elementalist Cold DoT&lt;/h2>
+&lt;p>Elementalist Cold DoTで再走。&lt;/p>
+&lt;p>Danがやっててinc 60% AOEでVortex打つのが楽しそうだなあ、ぐらいの気持ちでなんとなく始めた。&lt;/p>
+&lt;p>「楽しいなあ～」とか思ってたら突然の死ｗ&lt;/p>
+&lt;p>↓の画像をみるとわかるようにRitual中にフィジオーラ持ちが突然湧いて、オーラ効果がついた雑魚に殴られて死んだっぽい。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">雑魚に殴られる瞬間にフィジオーラ持ちが足元の湧いて死んだっぽいですｗ &lt;a href="https://t.co/Y9dgH6v6Y5">pic.twitter.com/Y9dgH6v6Y5&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1350607889744818176?ref_src=twsrc%5Etfw">January 17, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="死体の山">死体の山・・・&lt;/h2>
+&lt;p>楽しかっただけに、このRIPで集中力切れて、ここからグダる。&lt;/p>
+&lt;p>Necro DDで再走中にMalachai RIPｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">マラカイで死んだんだけどｗ&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1350713598390095872?ref_src=twsrc%5Etfw">January 17, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>更に、Necro DDを再走するもマップ入り直後にゲームクラッシュして使ってた6Lを無くす・・・&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">リーグ要素触ったらゲームクラッシュしてキャラ死んだんだけど・・・&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1351143812190629888?ref_src=twsrc%5Etfw">January 18, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">6L落ちたしもうだめだこりゃｗ&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1351144420415045639?ref_src=twsrc%5Etfw">January 18, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>この後、完全にやる気を失いリーグ開始2日目にしてPoEから離脱ｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">というわけでね&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1351154950873763844?ref_src=twsrc%5Etfw">January 18, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>4日後にPathfinder Archamage BFBBを始めるも、イキリSmoke MineでPackに突っ込んで91レベでRIPｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">イキリsmoke mineで死ぬやつおりゅ～ｗ &lt;a href="https://t.co/N5OR4AX9IL">pic.twitter.com/N5OR4AX9IL&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1352795702984806400?ref_src=twsrc%5Etfw">January 23, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>その後、しばらくしてDeadeye TR Mineを始めるも、&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">仕事終わったらdeadeye TR mineやるｗｗｗ たのしみーｗ&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1353964375787233280?ref_src=twsrc%5Etfw">January 26, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>飽きてmigrateｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">なんとなくフレッシュスタートｗ！ノリでmigrateしたけど、なんのビルドやろーかなーｗ &lt;a href="https://t.co/GeHNKD5cd0">pic.twitter.com/GeHNKD5cd0&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1355570952818413568?ref_src=twsrc%5Etfw">January 30, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="さらに死体の山">さらに、死体の山・・・&lt;/h2>
+&lt;p>migrate後、DarkeeがやっていたChampion EQを始めるも、マップ入り後に、即RIPｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="und" dir="ltr">wwww &lt;a href="https://t.co/4KsII715kN">pic.twitter.com/4KsII715kN&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1355805075831054336?ref_src=twsrc%5Etfw">January 31, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>この後も何キャラかmigrateしてフレッシュスタートするも、全てRIPｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="und" dir="ltr">www &lt;a href="https://t.co/TJzqUZywmq">pic.twitter.com/TJzqUZywmq&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1358398916316733441?ref_src=twsrc%5Etfw">February 7, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ht" dir="ltr">sinnda w &lt;a href="https://t.co/KWEsEkxK1s">pic.twitter.com/KWEsEkxK1s&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1360340162257907713?ref_src=twsrc%5Etfw">February 12, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="havoc-team-blast-race">Havoc Team Blast Race&lt;/h2>
+&lt;p>この当たりで、ちょうどHavoc主催のグループFoundのレースのアナウンスがあり、参加することに！&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">これ配信必須だけど参加したい日本の方いませんか？&lt;br>2/27-28でそれぞれ12時間ずつ計24時間(=6h*4)、scパーティーでボスキルとレベリングを競うイベントです。 &lt;a href="https://t.co/vpLCetm7MO">https://t.co/vpLCetm7MO&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1360549705336295425?ref_src=twsrc%5Etfw">February 13, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>結果は、全体で8位！！！そこそこ健闘できたし、普段SSFHCに籠もっている分、パーティープレイが新鮮で、練習含めてめちゃ楽しかった！！！&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">レースおつでしたｗ！&lt;br>最終順位は8位！！！ポイントは合計117でした！&lt;br>最後、ウバエルフラグの運がよければワンチャン+6ptで5位でしたが、こればっかりは完全運ゲーなので残念😭 &lt;a href="https://t.co/g0ylVr3aE2">pic.twitter.com/g0ylVr3aE2&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1366225919526928384?ref_src=twsrc%5Etfw">March 1, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>さらに突っ込んだ振り返りは、↓にまとめてます。お時間のあるときにどうぞ！&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/" >3.13 Ritual Havoc Team Blast Race振り返り&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="313-ritual-class-gauntlet-race">3.13 Ritual Class Gauntlet Race&lt;/h2>
+&lt;p>今期のGauntletは、クラス別に順位が決まるようになったので、空き巣狙いでRaider Trinity DDで参加！&lt;/p>
+&lt;p>いつもどおり&lt;strong>初日だけ&lt;/strong>クラス1位！ｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">暫定クラス1位ｗ &lt;a href="https://t.co/CAT4Y0lmdg">pic.twitter.com/CAT4Y0lmdg&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1371169088123244551?ref_src=twsrc%5Etfw">March 14, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>順調かと思いきや・・・TRでDD用の装備を集めている途中に91レベでRIPｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">死んだｗ&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1371861688991899649?ref_src=twsrc%5Etfw">March 16, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">再起動とか繰り返しててOBS起動してなかったのマジでクソｗ&lt;br>死因はLegionのボス解凍中にレアの飛ばしてくる火の玉でワンショットｗ&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1371863069723271172?ref_src=twsrc%5Etfw">March 16, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>その後、集めていた装備でRaider Trinity DDを始めるも、Archamge BFBBやってた人が全ボス倒したので、通常SSFHCにMigrate・・・&lt;/p>
+&lt;p>空き巣狙いで始めたRaiderだったけど、めちゃくちゃ強かったｗ とにかく、装備要求が低くて、硬い！！！ｗ&lt;/p>
+&lt;p>当初はElder + Shaper + Maven + ガーディアンラッシュ2つぐらいでトップになれると考えてたけど甘かった。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">Gauntlet Maven &lt;a href="https://t.co/vTKeFXgTvm">https://t.co/vTKeFXgTvm&lt;/a> &lt;a href="https://twitter.com/YouTube?ref_src=twsrc%5Etfw">@YouTube&lt;/a>より &lt;br>Raider#1の人のGauntlet Mod Maven戦ｗ 耐久はあるけど瞬殺してるってわけではないから、普通にプレイングがうますぎるなｗ 勝てそうにないしSSFHCにmigrateするか&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1372647572293120002?ref_src=twsrc%5Etfw">March 18, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">Raider一位の人、全ボス撃破したってことでねｗ ほなｗ &lt;a href="https://t.co/cS99anqcgd">pic.twitter.com/cS99anqcgd&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1372985842361233409?ref_src=twsrc%5Etfw">March 19, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="raider-trinity-dd">Raider Trinity DD&lt;/h2>
+&lt;p>通常SSFHCにmigrateした後は、今期まだ倒していなかったMavenを討伐しに！&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">[Path of Exile][3.13][Ritual] Raider Trinity DD Maven Kill in SSFHC &lt;a href="https://t.co/T4tYRFcI91">https://t.co/T4tYRFcI91&lt;/a> &lt;a href="https://twitter.com/YouTube?ref_src=twsrc%5Etfw">@YouTube&lt;/a>より &lt;br>遅くなったけどMaven倒した！DDさいきょーｗ&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1374074008199557123?ref_src=twsrc%5Etfw">March 22, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>この後も、99まで育てたけど、100目指すのはめんどくなったので今期は終了！&lt;/p>
+&lt;h2 id="まとめ">まとめ&lt;/h2>
+&lt;p>振り返ってみると今期はとにかく雑魚死しまくっていた。過去一かもしれないｗ&lt;/p>
+&lt;p>マジで、「これがやりたい！」みたいなビルドが見つからず、&lt;/p>
+&lt;ul>
+&lt;li>新しくビルド始める→飽きる→集中力なくなってRIP&lt;/li>
+&lt;/ul>
+&lt;p>を一生繰り返していた。&lt;/p>
+&lt;p>進行速度を考えなければ、畑でいくらでも装備こねられたから「やるビルド見つけられるか」が鍵だったっぽい。&lt;/p>
+&lt;p>実際、Gauntlet終わりで、Raider Trinity DD（ninjaでやってるのは自分だけ）のギアコネてるときは楽しかった。&lt;/p>
+&lt;p>来季は面白いビルドが追加されるといいな。&lt;/p></description></item><item><title>3.13 Ritual Havoc Team Blast Race振り返り</title><link>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</link><pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</guid><description>&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/thumbnail.jpg" alt="Featured image of post 3.13 Ritual Havoc Team Blast Race振り返り" />&lt;h2 id="これはなに">これはなに？&lt;/h2>
+&lt;p>2/27&amp;amp;28に開催されたHavoc Team Blast Raceに参加したので、そのときの振り返り記事です。&lt;/p>
+&lt;p>今後、同じようなレースに参加する人の参考になればと思います。&lt;/p>
+&lt;p>また、パーティープレイでのリーグスタート記事はなかなか無いので「パーティープレイでリーグスタートをキメたい！」といった人向けにも参考になると嬉しいです。&lt;/p>
+&lt;h2 id="レース概要">レース概要&lt;/h2>
+&lt;p>2~6人のグループで、ポイントを競い合うTwitch StreamerのHavoc主催のコミュニティーレースイベントです。&lt;/p>
+&lt;p>ポイントは↓の表にある通りで、24時間以内にできるだけ多く稼いだチームの優勝です。&lt;/p>
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/htb-point-system.PNG"
+width="425"
+height="323"
+srcset="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/htb-point-system_hueaba635eb27fe004531161779d721548_10610_480x0_resize_box_2.PNG 480w, https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/htb-point-system_hueaba635eb27fe004531161779d721548_10610_1024x0_resize_box_2.PNG 1024w"
+loading="lazy"
+alt="Point System"
+class="gallery-image"
+data-flex-grow="131"
+data-flex-basis="315px"
+>&lt;/p>
+&lt;ul>
+&lt;li>League: Ritual SCベースのプライベートリーグ
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.pathofexile.com/private-leagues/league/Havoc&amp;#43;Team&amp;#43;Blast" target="_blank" rel="noopener"
+>Private League Link&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>公式Info
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://docs.google.com/spreadsheets/d/1PhvJRVymW9FVSQbNxKxxkiLlG3SX9qvnv04dp7mseus/edit#gid=0" target="_blank" rel="noopener"
+>Link&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>ルール:
+&lt;ul>
+&lt;li>人数: 2~6人&lt;/li>
+&lt;li>パーティー内でのアイテムの共有可&lt;/li>
+&lt;li>6時間 x 4の途中休憩ありの合計24時間の4Quarter制&lt;/li>
+&lt;li>&lt;strong>配信必須&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>日程:
+&lt;ul>
+&lt;li>DAY1: 2/27
+&lt;ul>
+&lt;li>Q1: 10PM - 4AM&lt;/li>
+&lt;li>Q2: 5AM - 11AM&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>DAY2: 2/28
+&lt;ul>
+&lt;li>Q3: 10PM - 4AM&lt;/li>
+&lt;li>Q4: 5AM - 11AM&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="公式tweet">公式Tweet&lt;/h3>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">🏆 &lt;a href="https://twitter.com/hashtag/HAVOCTEAMBLAST?src=hash&amp;amp;ref_src=twsrc%5Etfw">#HAVOCTEAMBLAST&lt;/a> 🏆&lt;br>&lt;br>Path of Exile Race Event&lt;br>February 27 - 28 1PM GMT&lt;a href="https://t.co/aJ0Qa8P500">https://t.co/aJ0Qa8P500&lt;/a>&lt;br>&lt;br>🎁 GIVEAWAY: 20 x Warlord Mystery Box&lt;br>💞 Retweet + Like this tweet to Enter&lt;br>🗨️ Comment &lt;a href="https://twitter.com/hashtag/HAVOCTEAMBLAST?src=hash&amp;amp;ref_src=twsrc%5Etfw">#HAVOCTEAMBLAST&lt;/a> and Tag a Friend &lt;a href="https://t.co/crVJjGKUSy">pic.twitter.com/crVJjGKUSy&lt;/a>&lt;/p>&amp;mdash; Havoc (@Havoc616_) &lt;a href="https://twitter.com/Havoc616_/status/1360334371253858308?ref_src=twsrc%5Etfw">February 12, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h3 id="公式宣伝youtube動画">公式宣伝YouTube動画&lt;/h3>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/5aNB6265DjU"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;h2 id="チームメンバー紹介">チームメンバー紹介&lt;/h2>
+&lt;p>チームメンバーは、以下の4人でした。&lt;/p>
+&lt;p>SCの24時間のGroup FoundレースではAura Botは不要で、その分マップを回る人を増やしたほうがいいです。&lt;/p>
+&lt;p>使用スキルはBlade Blastで統一しました。&lt;/p>
+&lt;p>自分のやっていたキャラのPoB: &lt;a href="https://pastebin.com/cBqBArAM">https://pastebin.com/cBqBArAM&lt;/a>&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>Build&lt;/th>
+&lt;th>Role&lt;/th>
+&lt;th>Acount&lt;/th>
+&lt;th>Twitch&lt;/th>
+&lt;th>Discord ID&lt;/th>
+&lt;th>Twitter ID*&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>bannyang&lt;/td>
+&lt;td>Occultist Poison BFBB&lt;/td>
+&lt;td>Utils + Delve&lt;/td>
+&lt;td>&lt;a class="link" href="https://www.pathofexile.com/account/view-profile/bannyang/characters" target="_blank" rel="noopener"
+>profile&lt;/a>&lt;/td>
+&lt;td>&lt;a class="link" href="https://www.twitch.tv/barnyang" target="_blank" rel="noopener"
+>twitch&lt;/a>&lt;/td>
+&lt;td>Barn#7562&lt;/td>
+&lt;td>&lt;a class="link" href="https://twitter.com/ukesiburn" target="_blank" rel="noopener"
+>@ukesiburn&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>hsdf&lt;/td>
+&lt;td>Elementalist Fire BFBB&lt;/td>
+&lt;td>Farmer&lt;/td>
+&lt;td>&lt;a class="link" href="https://www.pathofexile.com/account/view-profile/hsdf/characters" target="_blank" rel="noopener"
+>profile&lt;/a>&lt;/td>
+&lt;td>&lt;a class="link" href="https://www.twitch.tv/hsdff" target="_blank" rel="noopener"
+>twitch&lt;/a>&lt;/td>
+&lt;td>hsd#5284&lt;/td>
+&lt;td>&lt;a class="link" href="https://twitter.com/hsdf_hsdf" target="_blank" rel="noopener"
+>@hsdf_hsdf&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>gaijinlag&lt;/td>
+&lt;td>Assassin Poison BFBB&lt;/td>
+&lt;td>Farmer&lt;/td>
+&lt;td>&lt;a class="link" href="https://www.pathofexile.com/account/view-profile/gaijinlag" target="_blank" rel="noopener"
+>profile&lt;/a>&lt;/td>
+&lt;td>&lt;a class="link" href="https://www.twitch.tv/gaijinlag" target="_blank" rel="noopener"
+>twitch&lt;/a>&lt;/td>
+&lt;td>gaijinlag#3720&lt;/td>
+&lt;td>&lt;a class="link" href="https://twitter.com/gaijinlag" target="_blank" rel="noopener"
+>@gaijinlag&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>ryzenier&lt;/td>
+&lt;td>Elementalist Fire BFBB&lt;/td>
+&lt;td>Boss Killer&lt;/td>
+&lt;td>&lt;a class="link" href="https://www.pathofexile.com/account/view-profile/ryzenier/characters" target="_blank" rel="noopener"
+>profile&lt;/a>&lt;/td>
+&lt;td>&lt;a class="link" href="https://www.twitch.tv/ryzenier" target="_blank" rel="noopener"
+>twitch&lt;/a>&lt;/td>
+&lt;td>ryzenier#5308&lt;/td>
+&lt;td>&lt;a class="link" href="https://twitter.com/ryzenier" target="_blank" rel="noopener"
+>@ryzenier&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="目標結果">目標＆結果&lt;/h2>
+&lt;p>早速ですが、今回のレース結果です！&lt;/p>
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/result.PNG"
+width="628"
+height="324"
+srcset="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/result_hu58607ff2afa810892b3ad96fc4d12e0d_14448_480x0_resize_box_2.PNG 480w, https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/result_hu58607ff2afa810892b3ad96fc4d12e0d_14448_1024x0_resize_box_2.PNG 1024w"
+loading="lazy"
+alt="Result"
+class="gallery-image"
+data-flex-grow="193"
+data-flex-basis="465px"
+>&lt;/p>
+&lt;p>事前練習から、時間的にUber Elderは厳しそうだったので、それ以外の全ボスとDelveは300層、平均レベルは94で116ptを目標にしました。&lt;/p>
+&lt;p>本番では、平均レベルが94→95で1pt増えて、117ptでした。Vald&amp;rsquo;s RestのSyndicateファームでSafehouse（=100% inc exp）を共有しまくったのがデカかったです。&lt;/p>
+&lt;p>チームの最終順位は、8位で一応インマネしました！！！ 🎉 （$116を4人で山分け 💰 ）&lt;/p>
+&lt;p>レース後にTweetもしましたが、無理だと思っていたUber ElderもFragmentガチャの運が良ければいけそうでした。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">レースおつでしたｗ！&lt;br>最終順位は8位！！！ポイントは合計117でした！&lt;br>最後、ウバエルフラグの運がよければワンチャン+6ptで5位でしたが、こればっかりは完全運ゲーなので残念😭 &lt;a href="https://t.co/g0ylVr3aE2">pic.twitter.com/g0ylVr3aE2&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1366225919526928384?ref_src=twsrc%5Etfw">March 1, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>自分たちの上には、レース常連の人たちしかいなかったので、そこそこ健闘できたかな、という感想です。&lt;/p>
+&lt;hr>
+&lt;p>ここからは、レース前の練習の振り返りと、具体的にどんな戦略を立てたのか、他のチームはどうだったのか、という振り返っていこうと思います。&lt;/p>
+&lt;h2 id="事前練習">事前練習&lt;/h2>
+&lt;p>10日前の2/17から初めて、平日はだいたい22:00～2:00、土日は10時間ほどチームで練習しました。&lt;/p>
+&lt;h2 id="事前の戦略">事前の戦略&lt;/h2>
+&lt;h3 id="act進行">Act進行&lt;/h3>
+&lt;p>Actの進行方法は、やることが多く、全てをここに書くのは難しいことと、既に良いドキュメントがあるので、こちらを参考にしてください。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://docs.google.com/document/d/1s_riAfRTRVEavfPIlNRI4ekirpjLg8QeSuRDB9E4n54/edit" target="_blank" rel="noopener"
+>ShakCentral&amp;rsquo;s Group Progression&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Act5で2時間以内、A10で4時間以内を目安に練習するのがいいと思います。
+やってみて思ったのは、パーティーで進行したからといって、ソロで走るときと比べて劇的に早くなる、とかはないってことです。
+結局のところキャリーする人のタイムに依存します。&lt;/p>
+&lt;h3 id="各ボスの挑戦権獲得方法">各ボスの挑戦権獲得方法&lt;/h3>
+&lt;ul>
+&lt;li>Uber Atziri
+&lt;ul>
+&lt;li>Vald RestのSyndicateファームで&lt;a class="link" href="https://pathofexile.gamepedia.com/Sambodhi%27s_Vow" target="_blank" rel="noopener"
+>Sambodhi&amp;rsquo;s Vow&lt;/a>のカードを集める&lt;/li>
+&lt;li>畑のWild T3: Wild Thornmaw Bulbから入手&lt;/li>
+&lt;li>Atziriを倒す（1周約3~5分程度でドロップ率40%ほど）&lt;/li>
+&lt;li>畑のPrimal T2 Primal Dustcrab Grainで変換&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>=&amp;gt; 今期は畑でFragmentの入手と変換ができたので、思いの外、簡単に集められました&lt;/p>
+&lt;ul>
+&lt;li>Maven
+&lt;ul>
+&lt;li>10ボス（1~2個）、ガーディアンラッシュ（3~5個）でCrescent Splinterを集める&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>AL8 Sirus
+&lt;ul>
+&lt;li>Sirusを湧かすのに石20個 =&amp;gt; AL+5&lt;/li>
+&lt;li>Vald&amp;rsquo;s RestのCraftable Watchstone4個 =&amp;gt; AL+1&lt;/li>
+&lt;li>Atlas 中央Passive =&amp;gt; AL+1&lt;/li>
+&lt;li>未回収の外周の石、ガーディアンラッシュでVald&amp;rsquo;s Rest以外のCraftable Watchstone、Maven&amp;amp;SirusのUnique石 =&amp;gt; AL+1&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>どちらもガーディアンラッシュに行くことが近道になるので、&lt;/p>
+&lt;p>=&amp;gt; &lt;strong>なるはやでT14+に到達し、マップを回しまくることが重要でした！！！&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;p>自分たちのチームが、具体的どのようにして「なるはやでT14+に到達」できるように、戦略を立てたか解説していこうと思います。&lt;/p>
+&lt;p>（個人的には、事前練習の甲斐もあって、ベストな動きだと思ってます）&lt;/p>
+&lt;h3 id="atlas進行手順">Atlas進行手順&lt;/h3>
+&lt;p>解説するにあたり、エリア名だとわかりづらいので、以降は↓の図のように地域名ではなく番号①～⑧で解説します。&lt;/p>
+&lt;p>Atlasの石集めのテンプレ進行を理解していることを前提に書くので、まだの人は、コチラの素晴らしい記事を参考にしてください。&lt;/p>
+&lt;ul>
+&lt;li>英語: &lt;a class="link" href="https://balormage.com/atlas-guide/" target="_blank" rel="noopener"
+>Conquerors Atlas Guide for 3.11&lt;/a>&lt;/li>
+&lt;li>日本語訳: &lt;a class="link" href="https://balormage.com/atlas-guide-japanese-translation/" target="_blank" rel="noopener"
+>3.12 Conquerors Atlasガイド&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/atlas-number.png"
+width="1082"
+height="697"
+srcset="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/atlas-number_hu5e208fdc1e04ee6bbeec2d2b761499a9_1383667_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/atlas-number_hu5e208fdc1e04ee6bbeec2d2b761499a9_1383667_1024x0_resize_box_2.png 1024w"
+loading="lazy"
+alt="Atlas進行"
+class="gallery-image"
+data-flex-grow="155"
+data-flex-basis="372px"
+>&lt;/p>
+&lt;h4 id="内周の石集めの順番">内周の石集めの順番&lt;/h4>
+&lt;p>内側の石を回収する順番は、②→⑦→③→⑥にしました。&lt;/p>
+&lt;p>マップ入り後はファーム速度のためにも、5Lが欲しいので「Invasion Bosses in Areas drop 1 additional valuable Item」のある②。&lt;/p>
+&lt;p>次に、マップドロップ＆経験値の美味い「Up to 1 Harbinger in Areas is joined by reinforcements」のある⑦。&lt;/p>
+&lt;p>特に旨味の無い⑥は、一番最後でいいので③→⑥の順番にしました。&lt;/p>
+&lt;hr>
+&lt;p>ここからは、更に具体的な動きを書いていこうと思います。&lt;/p>
+&lt;h4 id="map入り直後">Map入り直後&lt;/h4>
+&lt;p>Map入り直後は、なるべくはやくT3 Mapに行き、Zanaからマップを買うことでMapプールを増やすことが重要です。
+普段のSSFのリーグスタート時は、T2までしか作ることができませんが、今回はパーティーなので、即T3を作ってZanaを湧かせるようにしました。&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>手順&lt;/p>
+&lt;ol>
+&lt;li>各々KiracからT1をもらた後、T1 Covesを買って3枚売りのVendorレシピでT2 Wharf (※1)を作ってギルスタに入れる&lt;/li>
+&lt;li>リーダーがギルスタのT2 Wharfを回収しT3 Mapを作る&lt;/li>
+&lt;li>T3マップにいってZanaを湧かす(※2)&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;p>※1: T2をWharfにしている理由は特にありません。メンバー間で統一できていれば他の②のT2でもOKです。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>※2: ②の地域でT3を作るのは、最初に石をはめるのが②だからです。（内側の台座は、各領域でT3以上のマップボスを倒したときに必ず手に入り、パーティーで共有できます）&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="外周石集め-watchstone-1-4">外周石集め Watchstone: 1-4&lt;/h4>
+&lt;p>Zanaを湧かせた後は、各々石集めを行います。&lt;/p>
+&lt;ul>
+&lt;li>手順
+&lt;ol>
+&lt;li>各々Zanaからマップを買う
+&lt;ul>
+&lt;li>このとき、事前に四隅を分担しておき、自分の担当以外のマップはギルスタに入れて担当の人に渡す&lt;/li>
+&lt;li>本番は①: ryzenier、④: hsdf、⑤: gaijinlag、⑧: bannyanで分担&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>担当のエリアでBaranを倒したら②に石をはめ、余ったマップをギルスタに入れる&lt;/li>
+&lt;li>ギルスタから四隅のマップを回収して、時計回りで残りの外周の石を回収する&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ul>
+&lt;p>Zanaが初めて販売するマップは、以前は固定でしたが、いつからか固定ではなくなりました。
+自分の担当領域が売っていなかったら、内側のT1~3を回ってAtlas Bonusを共有しつつ、↓の方法で無理やり手に入れます。&lt;/p>
+&lt;ul>
+&lt;li>余ったT4、T5にHorizon Orbを使う&lt;/li>
+&lt;li>ZanaのMaster Missionを入手したら速攻で使い、店売りを更新してマップを購入&lt;/li>
+&lt;/ul>
+&lt;p>担当領域のBaranを倒すまでは、他の外周の領域は絶対に回らないようにしましょう。（自分のマップドロッププールに他の外周のマップドロップを混入させないため）&lt;/p>
+&lt;p>この方法は、トレードリーグであれば、事前に相談して担当領域を決めておくだけで、簡単に再現できるので、おすすめです！&lt;/p>
+&lt;p>マップは↓みたいな感じで、地域ごとにギルスタの四隅に置いておくとわかりやすいです。&lt;/p>
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/guild-stash.PNG"
+width="553"
+height="663"
+srcset="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/guild-stash_hu99fd9beb8a2ca8a341a04eecbe89eefd_289086_480x0_resize_box_2.PNG 480w, https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/guild-stash_hu99fd9beb8a2ca8a341a04eecbe89eefd_289086_1024x0_resize_box_2.PNG 1024w"
+loading="lazy"
+alt="Guild Stash"
+class="gallery-image"
+data-flex-grow="83"
+data-flex-basis="200px"
+>&lt;/p>
+&lt;h4 id="watchstone-5-8--13-16">Watchstone: 5-8 &amp;amp; 13-16&lt;/h4>
+&lt;p>特に工夫する点はなくひたすらマップを回るだけです。&lt;/p>
+&lt;h4 id="watchstone-17-20">Watchstone: 17-20&lt;/h4>
+&lt;p>今季はVald&amp;rsquo;s Restがマップ維持＆Syndicateファームするにあたり、めちゃくちゃ美味かったこともあり、最後の内周の石はボスキル役（ALを8まで上げる必要がある）以外は、回収しませんでした。&lt;/p>
+&lt;p>後は、ひたすらマップを回して、ガーディアンマップを入手するだけです。&lt;/p>
+&lt;h3 id="maven関連">Maven関連&lt;/h3>
+&lt;p>今期から追加されたMaven関連ですが、パーティーだと&lt;strong>圧倒的に&lt;/strong>有利に進行できます。&lt;/p>
+&lt;p>Maven&amp;rsquo;s Beaconは、T5以上でMavenがボスに憑依したときにもらえますが、Mavenが現れるかは確定ではなくランダムです。&lt;/p>
+&lt;p>このため通常、運の要素が絡みますが、Maven&amp;rsquo;s Beaconは、パーティーで共有できるので、憑依したのを確認したらメンバー呼んでから一緒にボスを倒すことで通常より運の要素を減らして、早期に入手できます。
+（バグなのかは定かではありませんが、一部のメンバーが、たまに入手できないときもありました。）&lt;/p>
+&lt;p>Invitationのフラグもパーティーで共有できるので、ボスを倒す直前にメンバーを呼ぶのを心がけていくと、早期にAtlas Passiveを振れます。
+通常、行くのに時間のかかる10ボスラッシュもパーティーメンバーの頭数分、有利になります（5人で回せば一人あたり2回マップ回るだけで済む）。&lt;/p>
+&lt;p>勿論、Shaper/Elder Guardian等の各種ボスラッシュ系のフラグも共有することができるので、Atlas中央Passiveも早期に入手できます。&lt;/p>
+&lt;p>今後は、AtlasのMap BonusやLabyrinth Trialの共有に加えて、Invitationのフラグも共有もしていくと序盤、相当有利に進められます。&lt;/p>
+&lt;p>（正直、パーティープレイに有利過ぎるシステムだと思いました。）&lt;/p>
+&lt;h3 id="各種リーグ要素">各種リーグ要素&lt;/h3>
+&lt;ul>
+&lt;li>Ritual
+&lt;ul>
+&lt;li>マップが落ちるので序盤は触るが、後半は全スルー&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Heist
+&lt;ul>
+&lt;li>全スルー&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Harvest
+&lt;ul>
+&lt;li>各自こねて、要らなくなった装備は共有&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Delirium
+&lt;ul>
+&lt;li>やらない理由がないのでやる&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Metamorph
+&lt;ul>
+&lt;li>マップ落ちるし、SCなのでやる&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Blight
+&lt;ul>
+&lt;li>Boss Kill担当のみ&lt;/li>
+&lt;li>Freedom of Movementとか安くてファーム速度が上がるノードのが取れるぐらいにはやっても良かったかも&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Legion
+&lt;ul>
+&lt;li>全スルー&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Betrayal
+&lt;ul>
+&lt;li>Vald&amp;rsquo;s Restでファーム中に経験値目的でやる。Safehouseは全員で共有&lt;/li>
+&lt;li>Chaosの複合resとトリソケだけ回収したらVeiledはやらない&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Delve
+&lt;ul>
+&lt;li>Delve担当のみやる。燃料は白マップから共有する&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Incursion
+&lt;ul>
+&lt;li>全スルー&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="wip-他チームの戦略">[WIP] 他チームの戦略&lt;/h2>
+&lt;p>WIP&lt;/p>
+&lt;h2 id="感想">感想&lt;/h2>
+&lt;p>最後に、今回一緒に参加してくれた、ばーんさん、はすどさん、らぐさん、ありでした！ｗ&lt;/p>
+&lt;p>普段、SSFHCに籠もってるのもあって、パーティープレイ自体が新鮮だったのと、色々なことが知れたので、めちゃくちゃ楽しかったです！&lt;/p></description></item><item><title>Delveの低層クラフト回収場所まとめ</title><link>https://ryzenier.github.io/p/guide/delve-craft-benches/</link><pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/guide/delve-craft-benches/</guid><description>&lt;img src="https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches.PNG" alt="Featured image of post Delveの低層クラフト回収場所まとめ" />&lt;p>序盤ですぐに回収したい「2 Socket Colors &amp;amp; 2/3 Sockets」「4 Sockets」の場所のまとめです。&lt;/p>
+&lt;p>といっても、めちゃくちゃ簡単で、↓の図で&lt;/p>
+&lt;ul>
+&lt;li>&lt;span style="color:blue">青◯&lt;/span> : 2 Socket Colors &amp;amp; 2/3 Sockets (T1 Azurite Node: 線が1本)&lt;/li>
+&lt;li>&lt;span style="color:red">赤◯&lt;/span> : 4 Sockets (T2 Azurite Node: 線が2本)&lt;/li>
+&lt;/ul>
+&lt;p>です。&lt;/p>
+&lt;p>&lt;img src="https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches.PNG"
+width="892"
+height="737"
+srcset="https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches_huaf468e1e34a92c4fd2e488bfd9933261_1157862_480x0_resize_box_2.PNG 480w, https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches_huaf468e1e34a92c4fd2e488bfd9933261_1157862_1024x0_resize_box_2.PNG 1024w"
+loading="lazy"
+alt="Craft Benches"
+class="gallery-image"
+data-flex-grow="121"
+data-flex-basis="290px"
+>&lt;/p>
+&lt;p>3.13でHarvestがCoreに追加されたことでDelveに行く理由は、ほぼなくなりました。
+上記のクラフトの場所さえ覚えておけば、余計に掘る必要がなくなります。&lt;/p>
+&lt;p>最後に、今回使用したソースはこちら。その他のCraft Benchの場所も載っているので、適宜参考にしてください。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.reddit.com/r/pathofexile/comments/a4njpc/recipe_locations/" target="_blank" rel="noopener"
+>reddit - Recipe Locations&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>フィルター用独自サウンドの作り方</title><link>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</link><pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/guide/how-to-create-custom-sound/</guid><description>&lt;img src="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download.png" alt="Featured image of post フィルター用独自サウンドの作り方" />&lt;p>独自のサウンドを作る方法は、オンラインのサイトを使う方法もありますが、それだと遅いので、localで作成できる &lt;code>voice.exe&lt;/code> を紹介します。&lt;/p>
+&lt;h2 id="1-voiceexe-をダウンロード">1. &lt;code>voice.exe&lt;/code> をダウンロード&lt;/h2>
+&lt;p>下記のページにアクセスして「&lt;code>voice.exe&lt;/code>」をダウンロードして好きなフォルダに入れます。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.elifulkerson.com/projects/commandline-text-to-speech.php" target="_blank" rel="noopener"
+>voice.exe&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>ダウンロードする場所はトップページの&lt;span style="color:red">赤枠&lt;/span>で囲ったところ↓&lt;/p>
+&lt;p>&lt;img src="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download.png"
+width="537"
+height="328"
+srcset="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download_hu6eb182279e159d1defd5fbf23dc9e42a_13465_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download_hu6eb182279e159d1defd5fbf23dc9e42a_13465_1024x0_resize_box_2.png 1024w"
+loading="lazy"
+alt="voice.exe"
+class="gallery-image"
+data-flex-grow="163"
+data-flex-basis="392px"
+>&lt;/p>
+&lt;h2 id="2-コマンドプロンプトからコマンドを実行する">2. コマンドプロンプトからコマンドを実行する&lt;/h2>
+&lt;p>コマンドプロンプトを起動して &lt;code>voice.exe&lt;/code> をダウンロードしたフォルダに移動します。&lt;/p>
+&lt;p>※やり方がわからない場合は「 &lt;code>コマンドプロンプト フォルダ 移動&lt;/code> 」等でググってください。&lt;/p>
+&lt;p>移動したら↓のコマンドをコピペして、実行すると &lt;code>voice.exe&lt;/code> と同じフォルダに &lt;code>trans.wav&lt;/code> というファイルができます。&lt;/p>
+&lt;pre>&lt;code>voice -n &amp;quot;Microsoft Zira Desktop&amp;quot; -o trans.wav trans
+&lt;/code>&lt;/pre>&lt;p>（※コマンドプロンプトは&lt;code>Ctrl + V&lt;/code>が使えないので右クリック→貼り付けで）&lt;/p>
+&lt;p>後は、いつもどおり「&lt;code>C:\Users\ryzenier\Documents\My Games\Path of Exile&lt;/code>」に &lt;code>trans.wav&lt;/code> を置いて完了です。&lt;/p>
+&lt;hr>
+&lt;p>今回は例として「&lt;code>trans&lt;/code>」にしましたが「&lt;code>blue blue green&lt;/code>」のように複数単語にしたい場合は、特に何も考えず↓のように羅列すればOKです！&lt;/p>
+&lt;pre>&lt;code>voice -n &amp;quot;Microsoft Zira Desktop&amp;quot; -o bbg.wav blue blue green
+&lt;/code>&lt;/pre></description></item><item><title>ブログ始めました！！！</title><link>https://ryzenier.github.io/p/2021/04/my-first-post/</link><pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/my-first-post/</guid><description>&lt;h2 id="ブログ始めました">ブログ始めました！&lt;/h2>
+&lt;p>ブログ始めました！よろしくお願いします！！！&lt;/p>
+&lt;p>ブログタイトルは少し悩みましたが「/log ryzenier」にしました。
+PoEのゲーム内コマンドっぽく、自分のプレイしたログを表示してる的な意味合いです。&lt;/p>
+&lt;p>SSFHCのプレイ日記やレースの参加記録、解説記事なんかを書けたらなと思います。&lt;/p></description></item></channel></rss>

@@ -33,30 +33,30 @@ SSF的には、Essence等でLife + 2 Res + Craftみたいな胴体を適当に�
 &lt;li>
 &lt;p>ref. &lt;a class="link" href="https://www.reddit.com/r/pathofexile/comments/q99651/scourge_mechanics_interesting_for_6_linking_items/" target="_blank" rel="noopener"
 >Scourge mechanics interesting for 6 linking items ?&lt;/a>
-&lt;figure style="flex-grow: 250; flex-basis: 600px">
-&lt;a href="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/scourge-link.png" data-size="588x235">&lt;img src="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/scourge-link.png"
-srcset="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/scourge-link_hued63b2a24e6edb45d04a4016250a5495_176687_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/2021/10/3.15-expedition-review/scourge-link_hued63b2a24e6edb45d04a4016250a5495_176687_1024x0_resize_box_2.png 1024w"
+&lt;img src="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/scourge-link.png"
 width="588"
 height="235"
+srcset="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/scourge-link_hued63b2a24e6edb45d04a4016250a5495_176687_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/2021/10/3.15-expedition-review/scourge-link_hued63b2a24e6edb45d04a4016250a5495_176687_1024x0_resize_box_2.png 1024w"
 loading="lazy"
-alt="Passive Skill">
-&lt;/a>
-&lt;figcaption>Passive Skill&lt;/figcaption>
-&lt;/figure>&lt;/p>
+alt="Passive Skill"
+class="gallery-image"
+data-flex-grow="250"
+data-flex-basis="600px"
+>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>ref. &lt;a class="link" href="https://www.reddit.com/r/pathofexile/comments/q8hvho/scourge_atlas_base_and_passive_for_each_region/" target="_blank" rel="noopener"
 >Scourge Atlas Base and Passive For Each Region [fixed]&lt;/a>
-&lt;figure style="flex-grow: 177; flex-basis: 426px">
-&lt;a href="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/3.16-scorge-atlas.png" data-size="1483x834">&lt;img src="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/3.16-scorge-atlas.png"
-srcset="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/3.16-scorge-atlas_hu6ec9cf756fbb6e44e02b066309da65bf_1986830_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/2021/10/3.15-expedition-review/3.16-scorge-atlas_hu6ec9cf756fbb6e44e02b066309da65bf_1986830_1024x0_resize_box_2.png 1024w"
+&lt;img src="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/3.16-scorge-atlas.png"
 width="1483"
 height="834"
+srcset="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/3.16-scorge-atlas_hu6ec9cf756fbb6e44e02b066309da65bf_1986830_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/2021/10/3.15-expedition-review/3.16-scorge-atlas_hu6ec9cf756fbb6e44e02b066309da65bf_1986830_1024x0_resize_box_2.png 1024w"
 loading="lazy"
-alt="3.16 Scorge League Atlas Passive">
-&lt;/a>
-&lt;figcaption>3.16 Scorge League Atlas Passive&lt;/figcaption>
-&lt;/figure>&lt;/p>
+alt="3.16 Scorge League Atlas Passive"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;p>そんなこんなで、4日目時点でレベル97の総合4位！&lt;/p>
@@ -117,16 +117,16 @@ alt="3.16 Scorge League Atlas Passive">
 &lt;ul>
 &lt;li>ref. &lt;a class="link" href="https://www.reddit.com/r/pathofexile/comments/orjyf7/opening_weekend_playerbase_comparison_of_all_poe/" target="_blank" rel="noopener"
 >Opening weekend playerbase comparison of all PoE leagues since 3.0&lt;/a>
-&lt;figure style="flex-grow: 159; flex-basis: 381px">
-&lt;a href="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/population.png" data-size="792x498">&lt;img src="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/population.png"
-srcset="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/population_hubf857631e9eb593ef5f161b2bf45bfcf_156195_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/2021/10/3.15-expedition-review/population_hubf857631e9eb593ef5f161b2bf45bfcf_156195_1024x0_resize_box_2.png 1024w"
+&lt;img src="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/population.png"
 width="792"
 height="498"
+srcset="https://ryzenier.github.io/p/2021/10/3.15-expedition-review/population_hubf857631e9eb593ef5f161b2bf45bfcf_156195_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/2021/10/3.15-expedition-review/population_hubf857631e9eb593ef5f161b2bf45bfcf_156195_1024x0_resize_box_2.png 1024w"
 loading="lazy"
-alt="population">
-&lt;/a>
-&lt;figcaption>population&lt;/figcaption>
-&lt;/figure>&lt;/li>
+alt="population"
+class="gallery-image"
+data-flex-grow="159"
+data-flex-basis="381px"
+>&lt;/li>
 &lt;/ul>
 &lt;h2 id="結局何がいけなかったか">結局、何がいけなかったか？&lt;/h2>
 &lt;p>個人的にはSmoke MineのNerfが本当に痛かった。&lt;/p>
@@ -296,16 +296,16 @@ Note that there has not been a shuffle of the Atlas for Ultimatum. Map tiers are
 >Link&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="haewark-hamlet">Haewark Hamlet&lt;/h2>
-&lt;p>&lt;figure style="flex-grow: 177; flex-basis: 426px">
-&lt;a href="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Haewark-Hamlet.jpg" data-size="1920x1080">&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Haewark-Hamlet.jpg"
-srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Haewark-Hamlet_hu7ba7c0b00c8a4d9e71e96cf3ab9dcea9_435296_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Haewark-Hamlet_hu7ba7c0b00c8a4d9e71e96cf3ab9dcea9_435296_1024x0_resize_q75_box.jpg 1024w"
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Haewark-Hamlet.jpg"
 width="1920"
 height="1080"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Haewark-Hamlet_hu7ba7c0b00c8a4d9e71e96cf3ab9dcea9_435296_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Haewark-Hamlet_hu7ba7c0b00c8a4d9e71e96cf3ab9dcea9_435296_1024x0_resize_q75_box.jpg 1024w"
 loading="lazy"
-alt="Haewark Hamlet">
-&lt;/a>
-&lt;figcaption>Haewark Hamlet&lt;/figcaption>
-&lt;/figure>&lt;/p>
+alt="Haewark Hamlet"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
 &lt;ul>
 &lt;li>Beyond
 &lt;ul>
@@ -332,16 +332,16 @@ alt="Haewark Hamlet">
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="tirns-end">Tirn&amp;rsquo;s End&lt;/h2>
-&lt;p>&lt;figure style="flex-grow: 177; flex-basis: 426px">
-&lt;a href="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Tirn%27s-End.jpg" data-size="1920x1080">&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Tirn%27s-End.jpg"
-srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Tirn%27s-End_hue8f796f0d4c7c2c6db4ab3a9376db073_452150_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Tirn%27s-End_hue8f796f0d4c7c2c6db4ab3a9376db073_452150_1024x0_resize_q75_box.jpg 1024w"
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Tirn%27s-End.jpg"
 width="1920"
 height="1080"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Tirn%27s-End_hue8f796f0d4c7c2c6db4ab3a9376db073_452150_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Tirn%27s-End_hue8f796f0d4c7c2c6db4ab3a9376db073_452150_1024x0_resize_q75_box.jpg 1024w"
 loading="lazy"
-alt="Tirn&amp;rsquo;s End">
-&lt;/a>
-&lt;figcaption>Tirn’s End&lt;/figcaption>
-&lt;/figure>&lt;/p>
+alt="Tirn&amp;rsquo;s End"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
 &lt;ul>
 &lt;li>Invansion Boss
 &lt;ul>
@@ -356,16 +356,16 @@ alt="Tirn&amp;rsquo;s End">
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="lex-proxima">Lex Proxima&lt;/h2>
-&lt;p>&lt;figure style="flex-grow: 177; flex-basis: 426px">
-&lt;a href="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Proxima.jpg" data-size="1920x1080">&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Proxima.jpg"
-srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Proxima_huca7d952484357f72624e3c8df2929f9a_472186_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Proxima_huca7d952484357f72624e3c8df2929f9a_472186_1024x0_resize_q75_box.jpg 1024w"
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Proxima.jpg"
 width="1920"
 height="1080"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Proxima_huca7d952484357f72624e3c8df2929f9a_472186_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Proxima_huca7d952484357f72624e3c8df2929f9a_472186_1024x0_resize_q75_box.jpg 1024w"
 loading="lazy"
-alt="Lex Proxima">
-&lt;/a>
-&lt;figcaption>Lex Proxima&lt;/figcaption>
-&lt;/figure>&lt;/p>
+alt="Lex Proxima"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
 &lt;ul>
 &lt;li>Harvest
 &lt;ul>
@@ -386,16 +386,16 @@ alt="Lex Proxima">
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="lex-ejoris">Lex Ejoris&lt;/h2>
-&lt;p>&lt;figure style="flex-grow: 177; flex-basis: 426px">
-&lt;a href="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Ejoris.jpg" data-size="1920x1080">&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Ejoris.jpg"
-srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Ejoris_hu7ba7c0b00c8a4d9e71e96cf3ab9dcea9_462659_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Ejoris_hu7ba7c0b00c8a4d9e71e96cf3ab9dcea9_462659_1024x0_resize_q75_box.jpg 1024w"
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Ejoris.jpg"
 width="1920"
 height="1080"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Ejoris_hu7ba7c0b00c8a4d9e71e96cf3ab9dcea9_462659_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lex-Ejoris_hu7ba7c0b00c8a4d9e71e96cf3ab9dcea9_462659_1024x0_resize_q75_box.jpg 1024w"
 loading="lazy"
-alt="Lex Ejoris">
-&lt;/a>
-&lt;figcaption>Lex Ejoris&lt;/figcaption>
-&lt;/figure>&lt;/p>
+alt="Lex Ejoris"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
 &lt;ul>
 &lt;li>Perandus
 &lt;ul>
@@ -422,16 +422,16 @@ alt="Lex Ejoris">
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="new-vastir">New Vastir&lt;/h2>
-&lt;p>&lt;figure style="flex-grow: 177; flex-basis: 426px">
-&lt;a href="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/New-Vastir.jpg" data-size="1920x1080">&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/New-Vastir.jpg"
-srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/New-Vastir_hud27dbf0e1915b35024ff051ae78e8f2a_456719_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/New-Vastir_hud27dbf0e1915b35024ff051ae78e8f2a_456719_1024x0_resize_q75_box.jpg 1024w"
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/New-Vastir.jpg"
 width="1920"
 height="1080"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/New-Vastir_hud27dbf0e1915b35024ff051ae78e8f2a_456719_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/New-Vastir_hud27dbf0e1915b35024ff051ae78e8f2a_456719_1024x0_resize_q75_box.jpg 1024w"
 loading="lazy"
-alt="New Vastir">
-&lt;/a>
-&lt;figcaption>New Vastir&lt;/figcaption>
-&lt;/figure>&lt;/p>
+alt="New Vastir"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
 &lt;ul>
 &lt;li>Legion
 &lt;ul>
@@ -458,16 +458,16 @@ alt="New Vastir">
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="glennach-cairns">Glennach Cairns&lt;/h2>
-&lt;p>&lt;figure style="flex-grow: 177; flex-basis: 426px">
-&lt;a href="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Glennach-Cairns.jpg" data-size="1920x1080">&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Glennach-Cairns.jpg"
-srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Glennach-Cairns_huf56132d71a05cb6683f821996624fac3_419620_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Glennach-Cairns_huf56132d71a05cb6683f821996624fac3_419620_1024x0_resize_q75_box.jpg 1024w"
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Glennach-Cairns.jpg"
 width="1920"
 height="1080"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Glennach-Cairns_huf56132d71a05cb6683f821996624fac3_419620_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Glennach-Cairns_huf56132d71a05cb6683f821996624fac3_419620_1024x0_resize_q75_box.jpg 1024w"
 loading="lazy"
-alt="Glennach Cairns">
-&lt;/a>
-&lt;figcaption>Glennach Cairns&lt;/figcaption>
-&lt;/figure>&lt;/p>
+alt="Glennach Cairns"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
 &lt;ul>
 &lt;li>Legion
 &lt;ul>
@@ -489,16 +489,16 @@ alt="Glennach Cairns">
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="valdos-rest">Valdo&amp;rsquo;s Rest&lt;/h2>
-&lt;p>&lt;figure style="flex-grow: 177; flex-basis: 426px">
-&lt;a href="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Valdo%27s-Rest.jpg" data-size="1920x1080">&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Valdo%27s-Rest.jpg"
-srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Valdo%27s-Rest_hu4666f8a26980064eb869c93814d73432_438691_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Valdo%27s-Rest_hu4666f8a26980064eb869c93814d73432_438691_1024x0_resize_q75_box.jpg 1024w"
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Valdo%27s-Rest.jpg"
 width="1920"
 height="1080"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Valdo%27s-Rest_hu4666f8a26980064eb869c93814d73432_438691_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Valdo%27s-Rest_hu4666f8a26980064eb869c93814d73432_438691_1024x0_resize_q75_box.jpg 1024w"
 loading="lazy"
-alt="Valdo&amp;rsquo;s Rest">
-&lt;/a>
-&lt;figcaption>Valdo’s Rest&lt;/figcaption>
-&lt;/figure>&lt;/p>
+alt="Valdo&amp;rsquo;s Rest"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
 &lt;ul>
 &lt;li>Harbinger
 &lt;ul>
@@ -512,16 +512,16 @@ alt="Valdo&amp;rsquo;s Rest">
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="lira-arthain">Lira Arthain&lt;/h2>
-&lt;p>&lt;figure style="flex-grow: 177; flex-basis: 426px">
-&lt;a href="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lira-Arthain.jpg" data-size="1920x1080">&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lira-Arthain.jpg"
-srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lira-Arthain_hu4f24389255332ea0d4e7a637855a672e_460763_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lira-Arthain_hu4f24389255332ea0d4e7a637855a672e_460763_1024x0_resize_q75_box.jpg 1024w"
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lira-Arthain.jpg"
 width="1920"
 height="1080"
+srcset="https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lira-Arthain_hu4f24389255332ea0d4e7a637855a672e_460763_480x0_resize_q75_box.jpg 480w, https://ryzenier.github.io/p/2021/04/3.14-ultimatum-atlas-passive-changes/Lira-Arthain_hu4f24389255332ea0d4e7a637855a672e_460763_1024x0_resize_q75_box.jpg 1024w"
 loading="lazy"
-alt="Lira Arthain">
-&lt;/a>
-&lt;figcaption>Lira Arthain&lt;/figcaption>
-&lt;/figure>&lt;/p>
+alt="Lira Arthain"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
 &lt;ul>
 &lt;li>Bestiary
 &lt;ul>
@@ -640,16 +640,16 @@ alt="Lira Arthain">
 &lt;h2 id="レース概要">レース概要&lt;/h2>
 &lt;p>2~6人のグループで、ポイントを競い合うTwitch StreamerのHavoc主催のコミュニティーレースイベントです。&lt;/p>
 &lt;p>ポイントは↓の表にある通りで、24時間以内にできるだけ多く稼いだチームの優勝です。&lt;/p>
-&lt;p>&lt;figure style="flex-grow: 131; flex-basis: 315px">
-&lt;a href="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/htb-point-system.PNG" data-size="425x323">&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/htb-point-system.PNG"
-srcset="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/htb-point-system_hueaba635eb27fe004531161779d721548_10610_480x0_resize_box_2.PNG 480w, https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/htb-point-system_hueaba635eb27fe004531161779d721548_10610_1024x0_resize_box_2.PNG 1024w"
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/htb-point-system.PNG"
 width="425"
 height="323"
+srcset="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/htb-point-system_hueaba635eb27fe004531161779d721548_10610_480x0_resize_box_2.PNG 480w, https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/htb-point-system_hueaba635eb27fe004531161779d721548_10610_1024x0_resize_box_2.PNG 1024w"
 loading="lazy"
-alt="Point System">
-&lt;/a>
-&lt;figcaption>Point System&lt;/figcaption>
-&lt;/figure>&lt;/p>
+alt="Point System"
+class="gallery-image"
+data-flex-grow="131"
+data-flex-basis="315px"
+>&lt;/p>
 &lt;ul>
 &lt;li>League: Ritual SCベースのプライベートリーグ
 &lt;ul>
@@ -770,16 +770,16 @@ title="YouTube Video"
 &lt;/table>
 &lt;h2 id="目標結果">目標＆結果&lt;/h2>
 &lt;p>早速ですが、今回のレース結果です！&lt;/p>
-&lt;p>&lt;figure style="flex-grow: 193; flex-basis: 465px">
-&lt;a href="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/result.PNG" data-size="628x324">&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/result.PNG"
-srcset="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/result_hu58607ff2afa810892b3ad96fc4d12e0d_14448_480x0_resize_box_2.PNG 480w, https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/result_hu58607ff2afa810892b3ad96fc4d12e0d_14448_1024x0_resize_box_2.PNG 1024w"
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/result.PNG"
 width="628"
 height="324"
+srcset="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/result_hu58607ff2afa810892b3ad96fc4d12e0d_14448_480x0_resize_box_2.PNG 480w, https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/result_hu58607ff2afa810892b3ad96fc4d12e0d_14448_1024x0_resize_box_2.PNG 1024w"
 loading="lazy"
-alt="Result">
-&lt;/a>
-&lt;figcaption>Result&lt;/figcaption>
-&lt;/figure>&lt;/p>
+alt="Result"
+class="gallery-image"
+data-flex-grow="193"
+data-flex-basis="465px"
+>&lt;/p>
 &lt;p>事前練習から、時間的にUber Elderは厳しそうだったので、それ以外の全ボスとDelveは300層、平均レベルは94で116ptを目標にしました。&lt;/p>
 &lt;p>本番では、平均レベルが94→95で1pt増えて、117ptでした。Vald&amp;rsquo;s RestのSyndicateファームでSafehouse（=100% inc exp）を共有しまくったのがデカかったです。&lt;/p>
 &lt;p>チームの最終順位は、8位で一応インマネしました！！！ 🎉 （$116を4人で山分け 💰 ）&lt;/p>
@@ -843,16 +843,16 @@ alt="Result">
 &lt;li>日本語訳: &lt;a class="link" href="https://balormage.com/atlas-guide-japanese-translation/" target="_blank" rel="noopener"
 >3.12 Conquerors Atlasガイド&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;figure style="flex-grow: 155; flex-basis: 372px">
-&lt;a href="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/atlas-number.png" data-size="1082x697">&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/atlas-number.png"
-srcset="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/atlas-number_hu5e208fdc1e04ee6bbeec2d2b761499a9_1383667_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/atlas-number_hu5e208fdc1e04ee6bbeec2d2b761499a9_1383667_1024x0_resize_box_2.png 1024w"
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/atlas-number.png"
 width="1082"
 height="697"
+srcset="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/atlas-number_hu5e208fdc1e04ee6bbeec2d2b761499a9_1383667_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/atlas-number_hu5e208fdc1e04ee6bbeec2d2b761499a9_1383667_1024x0_resize_box_2.png 1024w"
 loading="lazy"
-alt="Atlas進行">
-&lt;/a>
-&lt;figcaption>Atlas進行&lt;/figcaption>
-&lt;/figure>&lt;/p>
+alt="Atlas進行"
+class="gallery-image"
+data-flex-grow="155"
+data-flex-basis="372px"
+>&lt;/p>
 &lt;h4 id="内周の石集めの順番">内周の石集めの順番&lt;/h4>
 &lt;p>内側の石を回収する順番は、②→⑦→③→⑥にしました。&lt;/p>
 &lt;p>マップ入り後はファーム速度のためにも、5Lが欲しいので「Invasion Bosses in Areas drop 1 additional valuable Item」のある②。&lt;/p>
@@ -904,16 +904,16 @@ alt="Atlas進行">
 &lt;p>担当領域のBaranを倒すまでは、他の外周の領域は絶対に回らないようにしましょう。（自分のマップドロッププールに他の外周のマップドロップを混入させないため）&lt;/p>
 &lt;p>この方法は、トレードリーグであれば、事前に相談して担当領域を決めておくだけで、簡単に再現できるので、おすすめです！&lt;/p>
 &lt;p>マップは↓みたいな感じで、地域ごとにギルスタの四隅に置いておくとわかりやすいです。&lt;/p>
-&lt;p>&lt;figure style="flex-grow: 83; flex-basis: 200px">
-&lt;a href="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/guild-stash.PNG" data-size="553x663">&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/guild-stash.PNG"
-srcset="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/guild-stash_hu99fd9beb8a2ca8a341a04eecbe89eefd_289086_480x0_resize_box_2.PNG 480w, https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/guild-stash_hu99fd9beb8a2ca8a341a04eecbe89eefd_289086_1024x0_resize_box_2.PNG 1024w"
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/guild-stash.PNG"
 width="553"
 height="663"
+srcset="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/guild-stash_hu99fd9beb8a2ca8a341a04eecbe89eefd_289086_480x0_resize_box_2.PNG 480w, https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/guild-stash_hu99fd9beb8a2ca8a341a04eecbe89eefd_289086_1024x0_resize_box_2.PNG 1024w"
 loading="lazy"
-alt="Guild Stash">
-&lt;/a>
-&lt;figcaption>Guild Stash&lt;/figcaption>
-&lt;/figure>&lt;/p>
+alt="Guild Stash"
+class="gallery-image"
+data-flex-grow="83"
+data-flex-basis="200px"
+>&lt;/p>
 &lt;h4 id="watchstone-5-8--13-16">Watchstone: 5-8 &amp;amp; 13-16&lt;/h4>
 &lt;p>特に工夫する点はなくひたすらマップを回るだけです。&lt;/p>
 &lt;h4 id="watchstone-17-20">Watchstone: 17-20&lt;/h4>
@@ -995,16 +995,16 @@ alt="Guild Stash">
 &lt;li>&lt;span style="color:red">赤◯&lt;/span> : 4 Sockets (T2 Azurite Node: 線が2本)&lt;/li>
 &lt;/ul>
 &lt;p>です。&lt;/p>
-&lt;p>&lt;figure style="flex-grow: 121; flex-basis: 290px">
-&lt;a href="https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches.PNG" data-size="892x737">&lt;img src="https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches.PNG"
-srcset="https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches_huaf468e1e34a92c4fd2e488bfd9933261_1157862_480x0_resize_box_2.PNG 480w, https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches_huaf468e1e34a92c4fd2e488bfd9933261_1157862_1024x0_resize_box_2.PNG 1024w"
+&lt;p>&lt;img src="https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches.PNG"
 width="892"
 height="737"
+srcset="https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches_huaf468e1e34a92c4fd2e488bfd9933261_1157862_480x0_resize_box_2.PNG 480w, https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches_huaf468e1e34a92c4fd2e488bfd9933261_1157862_1024x0_resize_box_2.PNG 1024w"
 loading="lazy"
-alt="Craft Benches">
-&lt;/a>
-&lt;figcaption>Craft Benches&lt;/figcaption>
-&lt;/figure>&lt;/p>
+alt="Craft Benches"
+class="gallery-image"
+data-flex-grow="121"
+data-flex-basis="290px"
+>&lt;/p>
 &lt;p>3.13でHarvestがCoreに追加されたことでDelveに行く理由は、ほぼなくなりました。
 上記のクラフトの場所さえ覚えておけば、余計に掘る必要がなくなります。&lt;/p>
 &lt;p>最後に、今回使用したソースはこちら。その他のCraft Benchの場所も載っているので、適宜参考にしてください。&lt;/p>
@@ -1019,16 +1019,16 @@ alt="Craft Benches">
 >voice.exe&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>ダウンロードする場所はトップページの&lt;span style="color:red">赤枠&lt;/span>で囲ったところ↓&lt;/p>
-&lt;p>&lt;figure style="flex-grow: 163; flex-basis: 392px">
-&lt;a href="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download.png" data-size="537x328">&lt;img src="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download.png"
-srcset="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download_hu6eb182279e159d1defd5fbf23dc9e42a_13465_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download_hu6eb182279e159d1defd5fbf23dc9e42a_13465_1024x0_resize_box_2.png 1024w"
+&lt;p>&lt;img src="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download.png"
 width="537"
 height="328"
+srcset="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download_hu6eb182279e159d1defd5fbf23dc9e42a_13465_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download_hu6eb182279e159d1defd5fbf23dc9e42a_13465_1024x0_resize_box_2.png 1024w"
 loading="lazy"
-alt="voice.exe">
-&lt;/a>
-&lt;figcaption>voice.exe&lt;/figcaption>
-&lt;/figure>&lt;/p>
+alt="voice.exe"
+class="gallery-image"
+data-flex-grow="163"
+data-flex-basis="392px"
+>&lt;/p>
 &lt;h2 id="2-コマンドプロンプトからコマンドを実行する">2. コマンドプロンプトからコマンドを実行する&lt;/h2>
 &lt;p>コマンドプロンプトを起動して &lt;code>voice.exe&lt;/code> をダウンロードしたフォルダに移動します。&lt;/p>
 &lt;p>※やり方がわからない場合は「 &lt;code>コマンドプロンプト フォルダ 移動&lt;/code> 」等でググってください。&lt;/p>
@@ -1039,8 +1039,72 @@ alt="voice.exe">
 &lt;hr>
 &lt;p>今回は例として「&lt;code>trans&lt;/code>」にしましたが「&lt;code>blue blue green&lt;/code>」のように複数単語にしたい場合は、特に何も考えず↓のように羅列すればOKです！&lt;/p>
 &lt;pre>&lt;code>voice -n &amp;quot;Microsoft Zira Desktop&amp;quot; -o bbg.wav blue blue green
-&lt;/code>&lt;/pre></description></item><item><title>ブログ始めました！！！</title><link>https://ryzenier.github.io/p/2021/04/my-first-post/</link><pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/my-first-post/</guid><description>&lt;h2 id="ブログ始めました">ブログ始めました！&lt;/h2>
+&lt;/code>&lt;/pre></description></item><item><title>About</title><link>https://ryzenier.github.io/about/</link><pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/about/</guid><description>&lt;h2 id="about">About&lt;/h2>
+&lt;p>Path of ExileをSSFHCでプレイしている、らざにあ(&lt;a class="link" href="https://twitter.com/ryzenier" target="_blank" rel="noopener"
+>@ryzenier&lt;/a>)です！&lt;/p>
+&lt;p>現在は主にlv100ラダーでの上位入賞を目指しています！&lt;/p>
+&lt;h2 id="なんでssfhcなの">なんでSSFHCなの？&lt;/h2>
+&lt;ul>
+&lt;li>HC: 難しい分、より多くの達成感を得られる！&lt;/li>
+&lt;li>SSF: トレードができない分、それをカバーするための知識や戦略が重要で、それらを考えるのが楽しい！&lt;/li>
+&lt;/ul>
+&lt;p>からです！&lt;/p>
+&lt;h2 id="過去実績">過去実績&lt;/h2>
+&lt;h3 id="313-ritual-flashback-hc-ssf-rank-4">3.13 Ritual Flashback HC SSF Rank #4&lt;/h3>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">世界4位！！！！！ &lt;a href="https://t.co/MQL4L6u1kG">pic.twitter.com/MQL4L6u1kG&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1342200403660656640?ref_src=twsrc%5Etfw">December 24, 2020&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h3 id="314-ultimatum-hc-ssf-rank-7-assassin-1">3.14 Ultimatum HC SSF Rank #7 (Assassin #1)&lt;/h3>
+&lt;blockquote class="twitter-tweet">&lt;p lang="lv" dir="ltr">[MEMO] lv100 &lt;a href="https://t.co/9WnqlUjiIn">pic.twitter.com/9WnqlUjiIn&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1386358455938605056?ref_src=twsrc%5Etfw">April 25, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="poe略歴">PoE略歴&lt;/h2>
+&lt;ul>
+&lt;li>1.1 Ambush
+&lt;ul>
+&lt;li>ハクスラ初挑戦かつ英語が読めず、何も分からないままA3 Dominus倒した後、2週目で詰んで放置 💩&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>2.6 Legacy
+&lt;ul>
+&lt;li>リーグ終わり際に復帰 🔙&lt;/li>
+&lt;li>英語の勉強をしたことで、少しずつゲームを理解できるようになり、PoE沼に浸かり始める 📝&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>3.0 Harbinger
+&lt;ul>
+&lt;li>ひたすらVaultを回す日々 💰&lt;/li>
+&lt;li>SCで40 Challenge達成！🚀&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>3.1 Abyss
+&lt;ul>
+&lt;li>SSFHCに移住し、目標だったレベル100達成！ 😎&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>3.2 Bestiary ~ 3.4 Delve
+&lt;ul>
+&lt;li>プライベートが忙しくなり一時休止 😴&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>3.5 Betrayal ~ 現在
+&lt;ul>
+&lt;li>復帰し、SSFHCでプレイ中！ 🏃&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="各種リンク">各種リンク&lt;/h2>
+&lt;ul>
+&lt;li>PoE Profile: &lt;a href="https://www.pathofexile.com/account/view-profile/ryzenier">https://www.pathofexile.com/account/view-profile/ryzenier&lt;/a>&lt;/li>
+&lt;li>Twitter: &lt;a href="https://twitter.com/ryzenier">https://twitter.com/ryzenier&lt;/a>
+&lt;ul>
+&lt;li>TwitchからRIP Clipを自動で取得してくるBot: &lt;a href="https://twitter.com/poeripclipbot">https://twitter.com/poeripclipbot&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Twitch: &lt;a href="https://www.twitch.tv/ryzenier">https://www.twitch.tv/ryzenier&lt;/a>&lt;/li>
+&lt;li>YouTube: &lt;a href="https://www.youtube.com/channel/UCz3lnnImPdL3c3ds8onZPNg">https://www.youtube.com/channel/UCz3lnnImPdL3c3ds8onZPNg&lt;/a>&lt;/li>
+&lt;li>個人Discord鯖: &lt;a href="https://discord.gg/4sUEWKb">https://discord.gg/4sUEWKb&lt;/a>&lt;/li>
+&lt;li>RSS: &lt;a href="https://ryzenier.github.io/index.xml">https://ryzenier.github.io/index.xml&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>ブログ始めました！！！</title><link>https://ryzenier.github.io/p/2021/04/my-first-post/</link><pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/my-first-post/</guid><description>&lt;h2 id="ブログ始めました">ブログ始めました！&lt;/h2>
 &lt;p>ブログ始めました！よろしくお願いします！！！&lt;/p>
 &lt;p>ブログタイトルは少し悩みましたが「/log ryzenier」にしました。
 PoEのゲーム内コマンドっぽく、自分のプレイしたログを表示してる的な意味合いです。&lt;/p>
-&lt;p>SSFHCのプレイ日記やレースの参加記録、解説記事なんかを書けたらなと思います。&lt;/p></description></item></channel></rss>
+&lt;p>SSFHCのプレイ日記やレースの参加記録、解説記事なんかを書けたらなと思います。&lt;/p></description></item><item><title>Archives</title><link>https://ryzenier.github.io/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/archives/</guid><description/></item><item><title>Search</title><link>https://ryzenier.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/search/</guid><description/></item></channel></rss>

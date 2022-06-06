@@ -1,7 +1,356 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Race Event on /log ryzenier</title><link>https://ryzenier.github.io/tags/race-event/</link><description>Recent content in Race Event on /log ryzenier</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ryzenier.github.io/tags/race-event/index.xml" rel="self" type="application/rss+xml"/><item><title>3.13 Ritual Havoc Team Blast Race振り返り</title><link>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</link><pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</guid><description>これはなに？ 2/27&amp;amp;28に開催されたHavoc Team Blast Raceに参加したので、そのときの振り返り記事です。
-今後、同じようなレースに参加する人の参考になればと思います。
-また、パーティープレイでのリーグスタート記事はなかなか無いので「パーティープレイでリーグスタートをキメたい！」といった人向けにも参考になると嬉しいです。
-レース概要 2~6人のグループで、ポイントを競い合うTwitch StreamerのHavoc主催のコミュニティーレースイベントです。
-ポイントは↓の表にある通りで、24時間以内にできるだけ多く稼いだチームの優勝です。
-Point System
-League: Ritual SCベースのプライベートリーグ Private League Link 公式Info Link ルール: 人数: 2~6人 パーティー内でのアイテムの共有可 6時間 x 4の途中休憩ありの合計24時間の4Quarter制 配信必須 日程: DAY1: 2/27 Q1: 10PM - 4AM Q2: 5AM - 11AM DAY2: 2/28 Q3: 10PM - 4AM Q4: 5AM - 11AM 公式Tweet 🏆 #HAVOCTEAMBLAST 🏆</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Race Event on /log ryzenier</title><link>https://ryzenier.github.io/tags/race-event/</link><description>Recent content in Race Event on /log ryzenier</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ryzenier.github.io/tags/race-event/index.xml" rel="self" type="application/rss+xml"/><item><title>3.13 Ritual Havoc Team Blast Race振り返り</title><link>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</link><pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate><guid>https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/</guid><description>&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/thumbnail.jpg" alt="Featured image of post 3.13 Ritual Havoc Team Blast Race振り返り" />&lt;h2 id="これはなに">これはなに？&lt;/h2>
+&lt;p>2/27&amp;amp;28に開催されたHavoc Team Blast Raceに参加したので、そのときの振り返り記事です。&lt;/p>
+&lt;p>今後、同じようなレースに参加する人の参考になればと思います。&lt;/p>
+&lt;p>また、パーティープレイでのリーグスタート記事はなかなか無いので「パーティープレイでリーグスタートをキメたい！」といった人向けにも参考になると嬉しいです。&lt;/p>
+&lt;h2 id="レース概要">レース概要&lt;/h2>
+&lt;p>2~6人のグループで、ポイントを競い合うTwitch StreamerのHavoc主催のコミュニティーレースイベントです。&lt;/p>
+&lt;p>ポイントは↓の表にある通りで、24時間以内にできるだけ多く稼いだチームの優勝です。&lt;/p>
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/htb-point-system.PNG"
+width="425"
+height="323"
+srcset="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/htb-point-system_hueaba635eb27fe004531161779d721548_10610_480x0_resize_box_2.PNG 480w, https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/htb-point-system_hueaba635eb27fe004531161779d721548_10610_1024x0_resize_box_2.PNG 1024w"
+loading="lazy"
+alt="Point System"
+class="gallery-image"
+data-flex-grow="131"
+data-flex-basis="315px"
+>&lt;/p>
+&lt;ul>
+&lt;li>League: Ritual SCベースのプライベートリーグ
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.pathofexile.com/private-leagues/league/Havoc&amp;#43;Team&amp;#43;Blast" target="_blank" rel="noopener"
+>Private League Link&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>公式Info
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://docs.google.com/spreadsheets/d/1PhvJRVymW9FVSQbNxKxxkiLlG3SX9qvnv04dp7mseus/edit#gid=0" target="_blank" rel="noopener"
+>Link&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>ルール:
+&lt;ul>
+&lt;li>人数: 2~6人&lt;/li>
+&lt;li>パーティー内でのアイテムの共有可&lt;/li>
+&lt;li>6時間 x 4の途中休憩ありの合計24時間の4Quarter制&lt;/li>
+&lt;li>&lt;strong>配信必須&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>日程:
+&lt;ul>
+&lt;li>DAY1: 2/27
+&lt;ul>
+&lt;li>Q1: 10PM - 4AM&lt;/li>
+&lt;li>Q2: 5AM - 11AM&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>DAY2: 2/28
+&lt;ul>
+&lt;li>Q3: 10PM - 4AM&lt;/li>
+&lt;li>Q4: 5AM - 11AM&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="公式tweet">公式Tweet&lt;/h3>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">🏆 &lt;a href="https://twitter.com/hashtag/HAVOCTEAMBLAST?src=hash&amp;amp;ref_src=twsrc%5Etfw">#HAVOCTEAMBLAST&lt;/a> 🏆&lt;br>&lt;br>Path of Exile Race Event&lt;br>February 27 - 28 1PM GMT&lt;a href="https://t.co/aJ0Qa8P500">https://t.co/aJ0Qa8P500&lt;/a>&lt;br>&lt;br>🎁 GIVEAWAY: 20 x Warlord Mystery Box&lt;br>💞 Retweet + Like this tweet to Enter&lt;br>🗨️ Comment &lt;a href="https://twitter.com/hashtag/HAVOCTEAMBLAST?src=hash&amp;amp;ref_src=twsrc%5Etfw">#HAVOCTEAMBLAST&lt;/a> and Tag a Friend &lt;a href="https://t.co/crVJjGKUSy">pic.twitter.com/crVJjGKUSy&lt;/a>&lt;/p>&amp;mdash; Havoc (@Havoc616_) &lt;a href="https://twitter.com/Havoc616_/status/1360334371253858308?ref_src=twsrc%5Etfw">February 12, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h3 id="公式宣伝youtube動画">公式宣伝YouTube動画&lt;/h3>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/5aNB6265DjU"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;h2 id="チームメンバー紹介">チームメンバー紹介&lt;/h2>
+&lt;p>チームメンバーは、以下の4人でした。&lt;/p>
+&lt;p>SCの24時間のGroup FoundレースではAura Botは不要で、その分マップを回る人を増やしたほうがいいです。&lt;/p>
+&lt;p>使用スキルはBlade Blastで統一しました。&lt;/p>
+&lt;p>自分のやっていたキャラのPoB: &lt;a href="https://pastebin.com/cBqBArAM">https://pastebin.com/cBqBArAM&lt;/a>&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>Build&lt;/th>
+&lt;th>Role&lt;/th>
+&lt;th>Acount&lt;/th>
+&lt;th>Twitch&lt;/th>
+&lt;th>Discord ID&lt;/th>
+&lt;th>Twitter ID*&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>bannyang&lt;/td>
+&lt;td>Occultist Poison BFBB&lt;/td>
+&lt;td>Utils + Delve&lt;/td>
+&lt;td>&lt;a class="link" href="https://www.pathofexile.com/account/view-profile/bannyang/characters" target="_blank" rel="noopener"
+>profile&lt;/a>&lt;/td>
+&lt;td>&lt;a class="link" href="https://www.twitch.tv/barnyang" target="_blank" rel="noopener"
+>twitch&lt;/a>&lt;/td>
+&lt;td>Barn#7562&lt;/td>
+&lt;td>&lt;a class="link" href="https://twitter.com/ukesiburn" target="_blank" rel="noopener"
+>@ukesiburn&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>hsdf&lt;/td>
+&lt;td>Elementalist Fire BFBB&lt;/td>
+&lt;td>Farmer&lt;/td>
+&lt;td>&lt;a class="link" href="https://www.pathofexile.com/account/view-profile/hsdf/characters" target="_blank" rel="noopener"
+>profile&lt;/a>&lt;/td>
+&lt;td>&lt;a class="link" href="https://www.twitch.tv/hsdff" target="_blank" rel="noopener"
+>twitch&lt;/a>&lt;/td>
+&lt;td>hsd#5284&lt;/td>
+&lt;td>&lt;a class="link" href="https://twitter.com/hsdf_hsdf" target="_blank" rel="noopener"
+>@hsdf_hsdf&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>gaijinlag&lt;/td>
+&lt;td>Assassin Poison BFBB&lt;/td>
+&lt;td>Farmer&lt;/td>
+&lt;td>&lt;a class="link" href="https://www.pathofexile.com/account/view-profile/gaijinlag" target="_blank" rel="noopener"
+>profile&lt;/a>&lt;/td>
+&lt;td>&lt;a class="link" href="https://www.twitch.tv/gaijinlag" target="_blank" rel="noopener"
+>twitch&lt;/a>&lt;/td>
+&lt;td>gaijinlag#3720&lt;/td>
+&lt;td>&lt;a class="link" href="https://twitter.com/gaijinlag" target="_blank" rel="noopener"
+>@gaijinlag&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>ryzenier&lt;/td>
+&lt;td>Elementalist Fire BFBB&lt;/td>
+&lt;td>Boss Killer&lt;/td>
+&lt;td>&lt;a class="link" href="https://www.pathofexile.com/account/view-profile/ryzenier/characters" target="_blank" rel="noopener"
+>profile&lt;/a>&lt;/td>
+&lt;td>&lt;a class="link" href="https://www.twitch.tv/ryzenier" target="_blank" rel="noopener"
+>twitch&lt;/a>&lt;/td>
+&lt;td>ryzenier#5308&lt;/td>
+&lt;td>&lt;a class="link" href="https://twitter.com/ryzenier" target="_blank" rel="noopener"
+>@ryzenier&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="目標結果">目標＆結果&lt;/h2>
+&lt;p>早速ですが、今回のレース結果です！&lt;/p>
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/result.PNG"
+width="628"
+height="324"
+srcset="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/result_hu58607ff2afa810892b3ad96fc4d12e0d_14448_480x0_resize_box_2.PNG 480w, https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/result_hu58607ff2afa810892b3ad96fc4d12e0d_14448_1024x0_resize_box_2.PNG 1024w"
+loading="lazy"
+alt="Result"
+class="gallery-image"
+data-flex-grow="193"
+data-flex-basis="465px"
+>&lt;/p>
+&lt;p>事前練習から、時間的にUber Elderは厳しそうだったので、それ以外の全ボスとDelveは300層、平均レベルは94で116ptを目標にしました。&lt;/p>
+&lt;p>本番では、平均レベルが94→95で1pt増えて、117ptでした。Vald&amp;rsquo;s RestのSyndicateファームでSafehouse（=100% inc exp）を共有しまくったのがデカかったです。&lt;/p>
+&lt;p>チームの最終順位は、8位で一応インマネしました！！！ 🎉 （$116を4人で山分け 💰 ）&lt;/p>
+&lt;p>レース後にTweetもしましたが、無理だと思っていたUber ElderもFragmentガチャの運が良ければいけそうでした。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">レースおつでしたｗ！&lt;br>最終順位は8位！！！ポイントは合計117でした！&lt;br>最後、ウバエルフラグの運がよければワンチャン+6ptで5位でしたが、こればっかりは完全運ゲーなので残念😭 &lt;a href="https://t.co/g0ylVr3aE2">pic.twitter.com/g0ylVr3aE2&lt;/a>&lt;/p>&amp;mdash; らざにあ (@ryzenier) &lt;a href="https://twitter.com/ryzenier/status/1366225919526928384?ref_src=twsrc%5Etfw">March 1, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>自分たちの上には、レース常連の人たちしかいなかったので、そこそこ健闘できたかな、という感想です。&lt;/p>
+&lt;hr>
+&lt;p>ここからは、レース前の練習の振り返りと、具体的にどんな戦略を立てたのか、他のチームはどうだったのか、という振り返っていこうと思います。&lt;/p>
+&lt;h2 id="事前練習">事前練習&lt;/h2>
+&lt;p>10日前の2/17から初めて、平日はだいたい22:00～2:00、土日は10時間ほどチームで練習しました。&lt;/p>
+&lt;h2 id="事前の戦略">事前の戦略&lt;/h2>
+&lt;h3 id="act進行">Act進行&lt;/h3>
+&lt;p>Actの進行方法は、やることが多く、全てをここに書くのは難しいことと、既に良いドキュメントがあるので、こちらを参考にしてください。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://docs.google.com/document/d/1s_riAfRTRVEavfPIlNRI4ekirpjLg8QeSuRDB9E4n54/edit" target="_blank" rel="noopener"
+>ShakCentral&amp;rsquo;s Group Progression&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Act5で2時間以内、A10で4時間以内を目安に練習するのがいいと思います。
+やってみて思ったのは、パーティーで進行したからといって、ソロで走るときと比べて劇的に早くなる、とかはないってことです。
+結局のところキャリーする人のタイムに依存します。&lt;/p>
+&lt;h3 id="各ボスの挑戦権獲得方法">各ボスの挑戦権獲得方法&lt;/h3>
+&lt;ul>
+&lt;li>Uber Atziri
+&lt;ul>
+&lt;li>Vald RestのSyndicateファームで&lt;a class="link" href="https://pathofexile.gamepedia.com/Sambodhi%27s_Vow" target="_blank" rel="noopener"
+>Sambodhi&amp;rsquo;s Vow&lt;/a>のカードを集める&lt;/li>
+&lt;li>畑のWild T3: Wild Thornmaw Bulbから入手&lt;/li>
+&lt;li>Atziriを倒す（1周約3~5分程度でドロップ率40%ほど）&lt;/li>
+&lt;li>畑のPrimal T2 Primal Dustcrab Grainで変換&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>=&amp;gt; 今期は畑でFragmentの入手と変換ができたので、思いの外、簡単に集められました&lt;/p>
+&lt;ul>
+&lt;li>Maven
+&lt;ul>
+&lt;li>10ボス（1~2個）、ガーディアンラッシュ（3~5個）でCrescent Splinterを集める&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>AL8 Sirus
+&lt;ul>
+&lt;li>Sirusを湧かすのに石20個 =&amp;gt; AL+5&lt;/li>
+&lt;li>Vald&amp;rsquo;s RestのCraftable Watchstone4個 =&amp;gt; AL+1&lt;/li>
+&lt;li>Atlas 中央Passive =&amp;gt; AL+1&lt;/li>
+&lt;li>未回収の外周の石、ガーディアンラッシュでVald&amp;rsquo;s Rest以外のCraftable Watchstone、Maven&amp;amp;SirusのUnique石 =&amp;gt; AL+1&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>どちらもガーディアンラッシュに行くことが近道になるので、&lt;/p>
+&lt;p>=&amp;gt; &lt;strong>なるはやでT14+に到達し、マップを回しまくることが重要でした！！！&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;p>自分たちのチームが、具体的どのようにして「なるはやでT14+に到達」できるように、戦略を立てたか解説していこうと思います。&lt;/p>
+&lt;p>（個人的には、事前練習の甲斐もあって、ベストな動きだと思ってます）&lt;/p>
+&lt;h3 id="atlas進行手順">Atlas進行手順&lt;/h3>
+&lt;p>解説するにあたり、エリア名だとわかりづらいので、以降は↓の図のように地域名ではなく番号①～⑧で解説します。&lt;/p>
+&lt;p>Atlasの石集めのテンプレ進行を理解していることを前提に書くので、まだの人は、コチラの素晴らしい記事を参考にしてください。&lt;/p>
+&lt;ul>
+&lt;li>英語: &lt;a class="link" href="https://balormage.com/atlas-guide/" target="_blank" rel="noopener"
+>Conquerors Atlas Guide for 3.11&lt;/a>&lt;/li>
+&lt;li>日本語訳: &lt;a class="link" href="https://balormage.com/atlas-guide-japanese-translation/" target="_blank" rel="noopener"
+>3.12 Conquerors Atlasガイド&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/atlas-number.png"
+width="1082"
+height="697"
+srcset="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/atlas-number_hu5e208fdc1e04ee6bbeec2d2b761499a9_1383667_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/atlas-number_hu5e208fdc1e04ee6bbeec2d2b761499a9_1383667_1024x0_resize_box_2.png 1024w"
+loading="lazy"
+alt="Atlas進行"
+class="gallery-image"
+data-flex-grow="155"
+data-flex-basis="372px"
+>&lt;/p>
+&lt;h4 id="内周の石集めの順番">内周の石集めの順番&lt;/h4>
+&lt;p>内側の石を回収する順番は、②→⑦→③→⑥にしました。&lt;/p>
+&lt;p>マップ入り後はファーム速度のためにも、5Lが欲しいので「Invasion Bosses in Areas drop 1 additional valuable Item」のある②。&lt;/p>
+&lt;p>次に、マップドロップ＆経験値の美味い「Up to 1 Harbinger in Areas is joined by reinforcements」のある⑦。&lt;/p>
+&lt;p>特に旨味の無い⑥は、一番最後でいいので③→⑥の順番にしました。&lt;/p>
+&lt;hr>
+&lt;p>ここからは、更に具体的な動きを書いていこうと思います。&lt;/p>
+&lt;h4 id="map入り直後">Map入り直後&lt;/h4>
+&lt;p>Map入り直後は、なるべくはやくT3 Mapに行き、Zanaからマップを買うことでMapプールを増やすことが重要です。
+普段のSSFのリーグスタート時は、T2までしか作ることができませんが、今回はパーティーなので、即T3を作ってZanaを湧かせるようにしました。&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>手順&lt;/p>
+&lt;ol>
+&lt;li>各々KiracからT1をもらた後、T1 Covesを買って3枚売りのVendorレシピでT2 Wharf (※1)を作ってギルスタに入れる&lt;/li>
+&lt;li>リーダーがギルスタのT2 Wharfを回収しT3 Mapを作る&lt;/li>
+&lt;li>T3マップにいってZanaを湧かす(※2)&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;p>※1: T2をWharfにしている理由は特にありません。メンバー間で統一できていれば他の②のT2でもOKです。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>※2: ②の地域でT3を作るのは、最初に石をはめるのが②だからです。（内側の台座は、各領域でT3以上のマップボスを倒したときに必ず手に入り、パーティーで共有できます）&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="外周石集め-watchstone-1-4">外周石集め Watchstone: 1-4&lt;/h4>
+&lt;p>Zanaを湧かせた後は、各々石集めを行います。&lt;/p>
+&lt;ul>
+&lt;li>手順
+&lt;ol>
+&lt;li>各々Zanaからマップを買う
+&lt;ul>
+&lt;li>このとき、事前に四隅を分担しておき、自分の担当以外のマップはギルスタに入れて担当の人に渡す&lt;/li>
+&lt;li>本番は①: ryzenier、④: hsdf、⑤: gaijinlag、⑧: bannyanで分担&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>担当のエリアでBaranを倒したら②に石をはめ、余ったマップをギルスタに入れる&lt;/li>
+&lt;li>ギルスタから四隅のマップを回収して、時計回りで残りの外周の石を回収する&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ul>
+&lt;p>Zanaが初めて販売するマップは、以前は固定でしたが、いつからか固定ではなくなりました。
+自分の担当領域が売っていなかったら、内側のT1~3を回ってAtlas Bonusを共有しつつ、↓の方法で無理やり手に入れます。&lt;/p>
+&lt;ul>
+&lt;li>余ったT4、T5にHorizon Orbを使う&lt;/li>
+&lt;li>ZanaのMaster Missionを入手したら速攻で使い、店売りを更新してマップを購入&lt;/li>
+&lt;/ul>
+&lt;p>担当領域のBaranを倒すまでは、他の外周の領域は絶対に回らないようにしましょう。（自分のマップドロッププールに他の外周のマップドロップを混入させないため）&lt;/p>
+&lt;p>この方法は、トレードリーグであれば、事前に相談して担当領域を決めておくだけで、簡単に再現できるので、おすすめです！&lt;/p>
+&lt;p>マップは↓みたいな感じで、地域ごとにギルスタの四隅に置いておくとわかりやすいです。&lt;/p>
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/guild-stash.PNG"
+width="553"
+height="663"
+srcset="https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/guild-stash_hu99fd9beb8a2ca8a341a04eecbe89eefd_289086_480x0_resize_box_2.PNG 480w, https://ryzenier.github.io/p/2021/04/havoc-team-blast-race-review/guild-stash_hu99fd9beb8a2ca8a341a04eecbe89eefd_289086_1024x0_resize_box_2.PNG 1024w"
+loading="lazy"
+alt="Guild Stash"
+class="gallery-image"
+data-flex-grow="83"
+data-flex-basis="200px"
+>&lt;/p>
+&lt;h4 id="watchstone-5-8--13-16">Watchstone: 5-8 &amp;amp; 13-16&lt;/h4>
+&lt;p>特に工夫する点はなくひたすらマップを回るだけです。&lt;/p>
+&lt;h4 id="watchstone-17-20">Watchstone: 17-20&lt;/h4>
+&lt;p>今季はVald&amp;rsquo;s Restがマップ維持＆Syndicateファームするにあたり、めちゃくちゃ美味かったこともあり、最後の内周の石はボスキル役（ALを8まで上げる必要がある）以外は、回収しませんでした。&lt;/p>
+&lt;p>後は、ひたすらマップを回して、ガーディアンマップを入手するだけです。&lt;/p>
+&lt;h3 id="maven関連">Maven関連&lt;/h3>
+&lt;p>今期から追加されたMaven関連ですが、パーティーだと&lt;strong>圧倒的に&lt;/strong>有利に進行できます。&lt;/p>
+&lt;p>Maven&amp;rsquo;s Beaconは、T5以上でMavenがボスに憑依したときにもらえますが、Mavenが現れるかは確定ではなくランダムです。&lt;/p>
+&lt;p>このため通常、運の要素が絡みますが、Maven&amp;rsquo;s Beaconは、パーティーで共有できるので、憑依したのを確認したらメンバー呼んでから一緒にボスを倒すことで通常より運の要素を減らして、早期に入手できます。
+（バグなのかは定かではありませんが、一部のメンバーが、たまに入手できないときもありました。）&lt;/p>
+&lt;p>Invitationのフラグもパーティーで共有できるので、ボスを倒す直前にメンバーを呼ぶのを心がけていくと、早期にAtlas Passiveを振れます。
+通常、行くのに時間のかかる10ボスラッシュもパーティーメンバーの頭数分、有利になります（5人で回せば一人あたり2回マップ回るだけで済む）。&lt;/p>
+&lt;p>勿論、Shaper/Elder Guardian等の各種ボスラッシュ系のフラグも共有することができるので、Atlas中央Passiveも早期に入手できます。&lt;/p>
+&lt;p>今後は、AtlasのMap BonusやLabyrinth Trialの共有に加えて、Invitationのフラグも共有もしていくと序盤、相当有利に進められます。&lt;/p>
+&lt;p>（正直、パーティープレイに有利過ぎるシステムだと思いました。）&lt;/p>
+&lt;h3 id="各種リーグ要素">各種リーグ要素&lt;/h3>
+&lt;ul>
+&lt;li>Ritual
+&lt;ul>
+&lt;li>マップが落ちるので序盤は触るが、後半は全スルー&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Heist
+&lt;ul>
+&lt;li>全スルー&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Harvest
+&lt;ul>
+&lt;li>各自こねて、要らなくなった装備は共有&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Delirium
+&lt;ul>
+&lt;li>やらない理由がないのでやる&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Metamorph
+&lt;ul>
+&lt;li>マップ落ちるし、SCなのでやる&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Blight
+&lt;ul>
+&lt;li>Boss Kill担当のみ&lt;/li>
+&lt;li>Freedom of Movementとか安くてファーム速度が上がるノードのが取れるぐらいにはやっても良かったかも&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Legion
+&lt;ul>
+&lt;li>全スルー&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Betrayal
+&lt;ul>
+&lt;li>Vald&amp;rsquo;s Restでファーム中に経験値目的でやる。Safehouseは全員で共有&lt;/li>
+&lt;li>Chaosの複合resとトリソケだけ回収したらVeiledはやらない&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Delve
+&lt;ul>
+&lt;li>Delve担当のみやる。燃料は白マップから共有する&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Incursion
+&lt;ul>
+&lt;li>全スルー&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="wip-他チームの戦略">[WIP] 他チームの戦略&lt;/h2>
+&lt;p>WIP&lt;/p>
+&lt;h2 id="感想">感想&lt;/h2>
+&lt;p>最後に、今回一緒に参加してくれた、ばーんさん、はすどさん、らぐさん、ありでした！ｗ&lt;/p>
+&lt;p>普段、SSFHCに籠もってるのもあって、パーティープレイ自体が新鮮だったのと、色々なことが知れたので、めちゃくちゃ楽しかったです！&lt;/p></description></item></channel></rss>
