@@ -10,7 +10,8 @@ lastmod: '2021-04-06'
 menu:
     main: 
         weight: -90
-        pre: user
+        params:
+            icon: user
 ---
 
 ## About
