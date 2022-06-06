@@ -271,7 +271,7 @@ data-flex-basis="426px"
 &lt;p>&lt;img src="https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches.PNG"
 width="892"
 height="737"
-srcset="https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches_huaf468e1e34a92c4fd2e488bfd9933261_1157862_480x0_resize_box_2.PNG 480w, https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches_huaf468e1e34a92c4fd2e488bfd9933261_1157862_1024x0_resize_box_2.PNG 1024w"
+srcset="https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches_huaf468e1e34a92c4fd2e488bfd9933261_1157862_480x0_resize_box_3.PNG 480w, https://ryzenier.github.io/p/guide/delve-craft-benches/delve-craft-benches_huaf468e1e34a92c4fd2e488bfd9933261_1157862_1024x0_resize_box_3.PNG 1024w"
 loading="lazy"
 alt="Craft Benches"
 class="gallery-image"
@@ -295,7 +295,7 @@ data-flex-basis="290px"
 &lt;p>&lt;img src="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download.png"
 width="537"
 height="328"
-srcset="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download_hu6eb182279e159d1defd5fbf23dc9e42a_13465_480x0_resize_box_2.png 480w, https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download_hu6eb182279e159d1defd5fbf23dc9e42a_13465_1024x0_resize_box_2.png 1024w"
+srcset="https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download_hu6eb182279e159d1defd5fbf23dc9e42a_13465_480x0_resize_box_3.png 480w, https://ryzenier.github.io/p/guide/how-to-create-custom-sound/voice-download_hu6eb182279e159d1defd5fbf23dc9e42a_13465_1024x0_resize_box_3.png 1024w"
 loading="lazy"
 alt="voice.exe"
 class="gallery-image"
@@ -306,10 +306,10 @@ data-flex-basis="392px"
 &lt;p>コマンドプロンプトを起動して &lt;code>voice.exe&lt;/code> をダウンロードしたフォルダに移動します。&lt;/p>
 &lt;p>※やり方がわからない場合は「 &lt;code>コマンドプロンプト フォルダ 移動&lt;/code> 」等でググってください。&lt;/p>
 &lt;p>移動したら↓のコマンドをコピペして、実行すると &lt;code>voice.exe&lt;/code> と同じフォルダに &lt;code>trans.wav&lt;/code> というファイルができます。&lt;/p>
-&lt;pre>&lt;code>voice -n &amp;quot;Microsoft Zira Desktop&amp;quot; -o trans.wav trans
+&lt;pre tabindex="0">&lt;code>voice -n &amp;quot;Microsoft Zira Desktop&amp;quot; -o trans.wav trans
 &lt;/code>&lt;/pre>&lt;p>（※コマンドプロンプトは&lt;code>Ctrl + V&lt;/code>が使えないので右クリック→貼り付けで）&lt;/p>
 &lt;p>後は、いつもどおり「&lt;code>C:\Users\ryzenier\Documents\My Games\Path of Exile&lt;/code>」に &lt;code>trans.wav&lt;/code> を置いて完了です。&lt;/p>
 &lt;hr>
 &lt;p>今回は例として「&lt;code>trans&lt;/code>」にしましたが「&lt;code>blue blue green&lt;/code>」のように複数単語にしたい場合は、特に何も考えず↓のように羅列すればOKです！&lt;/p>
-&lt;pre>&lt;code>voice -n &amp;quot;Microsoft Zira Desktop&amp;quot; -o bbg.wav blue blue green
+&lt;pre tabindex="0">&lt;code>voice -n &amp;quot;Microsoft Zira Desktop&amp;quot; -o bbg.wav blue blue green
 &lt;/code>&lt;/pre></description></item></channel></rss>
