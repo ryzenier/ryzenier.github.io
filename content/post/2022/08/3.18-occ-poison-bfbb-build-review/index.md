@@ -143,8 +143,9 @@ OccでLifetap運用はやや厳しいので、Manaコストを下げつつ、Man
 	- Awakened inc AoEのArea DamageではPoisonダメージがスケールしないので優先度低
 - Helmet: {{< color red "CwDT (lv. 1)" >}} - {{< color red "Vaal Molten Shell (lv. 10)" >}} / {{< color red "Defiance Banner" >}} / {{< color green "Poacher's Mark" >}}
 	- Poacher's MarkはFC生成用
-- Glove: {{< color green "BF (lv. 1)" >}} - {{< color blue "Faster Casting" >}} - {{< color blue "Spell Cascade (lv. 1)" >}} - {{< color blue "Unleash" >}} - {{< color blue "Conc. Effect" >}}
+- Glove: {{< color green "BF (lv. 1)" >}} - {{< color blue "Faster Casting" >}} - {{< color blue "Spell Cascade (lv. 1)" >}} - {{< color blue "Unleash" >}} - {{< color blue "(Anomalous) Conc. Effect" >}}
 	- BFのManaコストを下げるためにlv. 1で止める。Spell CascadeもLess AoEのためにlv. 1で止める。
+	- Anomalous Conc. Effectで更にLess AoEできる
 - Boots: {{< color green "Withering Step" >}} - {{< color green "Plague Bearer" >}} - {{< color blue "inc AoE" >}} / {{< color green "Grace" >}}
 	- Chaos DoTのMedium ClusterでEternal Sufferingを付けて{{< color green "Withering Step" >}}を外して{{< color red Empower >}}を付けるのもあり
 - Wand: {{< color blue Blasphemy >}} - {{< color green "Temporal Chain" >}} / {{< color blue "Flame Dash" >}}
@@ -290,9 +291,11 @@ Chaos DoT Medium Clusterがなくて100% Chance to Poisonにできない場合�
 
 ![ring version](ring-version.png)
 
-#### Level 2: Ashes of the Star
+#### Level 2: Ashes of the Stars
 
 結局、これが一番強い。
+
+![Ashes of the Stars](ashes-of-the-stars.png)
 
 +1 all Gemは言わずもがな、QualityでBBのinc. AoE、Temporal ChainのCurse Effect、VMSのDuration、Plague Bearerのinc AoE、Defiance BannerのAura Effect、Anomalous Withering StepのWither Stack数が上がったりと恩恵がデカい。
 
