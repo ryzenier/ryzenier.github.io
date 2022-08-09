@@ -225,9 +225,10 @@ data-flex-basis="385px"
 &lt;li>Poacher&amp;rsquo;s MarkはFC生成用&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>Glove: &lt;span style="color:green">BF (lv. 1)&lt;/span> - &lt;span style="color:blue">Faster Casting&lt;/span> - &lt;span style="color:blue">Spell Cascade (lv. 1)&lt;/span> - &lt;span style="color:blue">Unleash&lt;/span> - &lt;span style="color:blue">Conc. Effect&lt;/span>
+&lt;li>Glove: &lt;span style="color:green">BF (lv. 1)&lt;/span> - &lt;span style="color:blue">Faster Casting&lt;/span> - &lt;span style="color:blue">Spell Cascade (lv. 1)&lt;/span> - &lt;span style="color:blue">Unleash&lt;/span> - &lt;span style="color:blue">(Anomalous) Conc. Effect&lt;/span>
 &lt;ul>
 &lt;li>BFのManaコストを下げるためにlv. 1で止める。Spell CascadeもLess AoEのためにlv. 1で止める。&lt;/li>
+&lt;li>Anomalous Conc. Effectで更にLess AoEできる&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>Boots: &lt;span style="color:green">Withering Step&lt;/span> - &lt;span style="color:green">Plague Bearer&lt;/span> - &lt;span style="color:blue">inc AoE&lt;/span> / &lt;span style="color:green">Grace&lt;/span>
@@ -415,8 +416,18 @@ class="gallery-image"
 data-flex-grow="119"
 data-flex-basis="287px"
 >&lt;/p>
-&lt;h4 id="level-2-ashes-of-the-star">Level 2: Ashes of the Star&lt;/h4>
+&lt;h4 id="level-2-ashes-of-the-stars">Level 2: Ashes of the Stars&lt;/h4>
 &lt;p>結局、これが一番強い。&lt;/p>
+&lt;p>&lt;img src="https://ryzenier.github.io/p/2022/08/3.18-occ-poison-bfbb-build-review/ashes-of-the-stars.PNG"
+width="391"
+height="387"
+srcset="https://ryzenier.github.io/p/2022/08/3.18-occ-poison-bfbb-build-review/ashes-of-the-stars_hu2b0de8d8dd5a5742d6a97882cda2c95f_48889_480x0_resize_box_3.PNG 480w, https://ryzenier.github.io/p/2022/08/3.18-occ-poison-bfbb-build-review/ashes-of-the-stars_hu2b0de8d8dd5a5742d6a97882cda2c95f_48889_1024x0_resize_box_3.PNG 1024w"
+loading="lazy"
+alt="Ashes of the Stars"
+class="gallery-image"
+data-flex-grow="101"
+data-flex-basis="242px"
+>&lt;/p>
 &lt;p>+1 all Gemは言わずもがな、QualityでBBのinc. AoE、Temporal ChainのCurse Effect、VMSのDuration、Plague Bearerのinc AoE、Defiance BannerのAura Effect、Anomalous Withering StepのWither Stack数が上がったりと恩恵がデカい。&lt;/p>
 &lt;p>Masteryから15% Mana Reservatin Efficiencyが消えたことで更に有要性が上がった。&lt;/p>
 &lt;h3 id="physical-large-cluster">Physical Large Cluster&lt;/h3>
