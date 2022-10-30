@@ -5,6 +5,7 @@ date: 2022-08-08
 slug: 2022/08/3.18-occ-poison-bfbb-build-review
 categories:
     - 3.18 Sentinel
+    - ビルド紹介
 draft: false
 image: occultist.png
 ---
