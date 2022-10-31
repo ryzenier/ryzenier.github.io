@@ -1,0 +1,736 @@
+<!doctype html><html lang=ja dir=ltr>
+<head><meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1"><meta name=description content="SSFHCでLv100 Ladder Rank 1になったビルドの紹介"><title>EB MoM Hierophant Cold DoT Buildの紹介</title>
+<link rel=canonical href=https://ryzenier.github.io/p/2022/10/3.19-eb-mom-hierophant-cold-dot/>
+<link rel=stylesheet href=/scss/style.min.6cc590fc7312358eb07d7a1241a000002411c1d86d7fd9964491defda7b86338.css><meta property="og:title" content="EB MoM Hierophant Cold DoT Buildの紹介">
+<meta property="og:description" content="SSFHCでLv100 Ladder Rank 1になったビルドの紹介">
+<meta property="og:url" content="https://ryzenier.github.io/p/2022/10/3.19-eb-mom-hierophant-cold-dot/">
+<meta property="og:site_name" content="/log ryzenier">
+<meta property="og:type" content="article"><meta property="article:section" content="Post"><meta property="article:published_time" content="2022-10-30T00:00:00+00:00"><meta property="article:modified_time" content="2022-10-30T00:00:00+00:00"><meta property="og:image" content="https://ryzenier.github.io/p/2022/10/3.19-eb-mom-hierophant-cold-dot/hierophant.jpg">
+<meta name=twitter:site content="@ryzenier">
+<meta name=twitter:creator content="@ryzenier"><meta name=twitter:title content="EB MoM Hierophant Cold DoT Buildの紹介">
+<meta name=twitter:description content="SSFHCでLv100 Ladder Rank 1になったビルドの紹介"><meta name=twitter:card content="summary_large_image">
+<meta name=twitter:image content="https://ryzenier.github.io/p/2022/10/3.19-eb-mom-hierophant-cold-dot/hierophant.jpg">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LLJKYX5TLE"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date),gtag('config','G-LLJKYX5TLE')</script>
+</head>
+<body class=article-page>
+<script>(function(){const a='StackColorScheme';localStorage.getItem(a)||localStorage.setItem(a,"auto")})()</script><script>(function(){const b='StackColorScheme',a=localStorage.getItem(b),c=window.matchMedia('(prefers-color-scheme: dark)').matches===!0;a=='dark'||a==='auto'&&c?document.documentElement.dataset.scheme='dark':document.documentElement.dataset.scheme='light'})()</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky">
+<button class="hamburger hamburger--spin" type=button id=toggle-menu aria-label="Toggle Menu">
+<span class=hamburger-box>
+<span class=hamburger-inner></span>
+</span>
+</button>
+<header>
+<figure class=site-avatar>
+<a href=/>
+<img src=/img/avatar_hucd13fe743ae87348c7c759e862fa680a_18093_300x0_resize_q75_box.jpg width=300 height=296 class=site-logo loading=lazy alt=Avatar>
+</a>
+</figure>
+<div class=site-meta>
+<h1 class=site-name><a href=/>/log ryzenier</a></h1>
+<h2 class=site-description>Path of ExileをSSFHCでプレイ中。プレイ日記やレースの参加記録、攻略解説なんかを書く予定。</h2>
+</div>
+</header><ol class=menu id=main-menu>
+<li>
+<a href=/><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentcolor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z"/><polyline points="5 12 3 12 12 3 21 12 19 12"/><path d="M5 12v7a2 2 0 002 2h10a2 2 0 002-2v-7"/><path d="M9 21v-6a2 2 0 012-2h2a2 2 0 012 2v6"/></svg>
+<span>Home</span>
+</a>
+</li>
+<li>
+<a href=/about/><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentcolor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z"/><circle cx="12" cy="7" r="4"/><path d="M6 21v-2a4 4 0 014-4h4a4 4 0 014 4v2"/></svg>
+<span>About</span>
+</a>
+</li>
+<li>
+<a href=/archives/><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentcolor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z"/><rect x="3" y="4" width="18" height="4" rx="2"/><path d="M5 8v10a2 2 0 002 2h10a2 2 0 002-2V8"/><line x1="10" y1="12" x2="14" y2="12"/></svg>
+<span>Archives</span>
+</a>
+</li>
+<li>
+<a href=/search/><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentcolor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z"/><circle cx="10" cy="10" r="7"/><line x1="21" y1="21" x2="15" y2="15"/></svg>
+<span>Search</span>
+</a>
+</li>
+<div class=menu-bottom-section>
+<li id=dark-mode-toggle><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentcolor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z"/><circle cx="8" cy="12" r="2"/><rect x="2" y="6" width="20" height="12" rx="6"/></svg><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentcolor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z"/><circle cx="16" cy="12" r="2"/><rect x="2" y="6" width="20" height="12" rx="6"/></svg>
+<span>Dark Mode</span>
+</li>
+</div>
+</ol>
+</aside>
+<main class="main full-width">
+<article class="has-image main-article">
+<header class=article-header>
+<div class=article-details>
+<header class=article-category>
+<a href=/categories/3.19-lake-of-kalandra/>
+3.19 Lake of Kalandra
+</a>
+<a href=/categories/%E3%83%93%E3%83%AB%E3%83%89%E7%B4%B9%E4%BB%8B/>
+ビルド紹介
+</a>
+</header>
+<h2 class=article-title>
+<a href=/p/2022/10/3.19-eb-mom-hierophant-cold-dot/>EB MoM Hierophant Cold DoT Buildの紹介</a>
+</h2>
+<h3 class=article-subtitle>
+SSFHCでLv100 Ladder Rank 1になったビルドの紹介
+</h3>
+<footer class=article-time><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentcolor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z"/><circle cx="12" cy="12" r="9"/><polyline points="12 7 12 12 15 15"/></svg>
+<time class=article-time--published>Oct 30, 2022</time>
+</footer></div>
+</header>
+<section class=article-content>
+<p>SSFHCでLv100レースで1位になりました！！！</p>
+<p>昨年の短期イベント（Endless Heist SSFHC）で、自分が総合1位になったことはありましたが、通常SSFHCリーグでの <strong>正真正銘の総合1位は日本人初</strong> です！！！</p>
+<p>Lv100達成直後のtweet↓</p>
+<blockquote class=twitter-tweet><p lang=en dir=ltr>Lake of Kalandra SSFHC 1st level 100！！！ <a href=https://t.co/5aG1RFZh5X>pic.twitter.com/5aG1RFZh5X</a></p>&mdash; らざにあ (@ryzenier) <a href="https://twitter.com/ryzenier/status/1563055785889869824?ref_src=twsrc%5Etfw">August 26, 2022</a></blockquote>
+<script async src=https://platform.twitter.com/widgets.js></script>
+<ul>
+<li><a class=link href=https://clips.twitch.tv/CutePrettiestStrawberryAMPTropPunch-pqmodmvBc9K8chJG target=_blank rel=noopener>Lv100時のclip</a></li>
+</ul>
+<p>Lv100直後のtweetにも書きましたが、3.1のAbyssリーグからSSFHCを初めて約5年で、ようやく1つの大きな目標を達成できました！</p>
+<p>特に今回は、よくあるテンプレビルドではなくオリジナルビルド（EB MoM Cold DoT Hierophant）で達成できたことが何よりも嬉しかったです！！！
+SSFHCを始めたてのときに、オリジナルビルドでLv100レースを連覇していたAila RFに憧れて必死にLv100を目指していた自分としては、喜びもひとしおです。</p>
+<hr>
+<p>あまり需要はないかもしれないですが、せっかくの機会なので（もう2ヶ月以上経ってますが）紹介記事を書き残しておこうと思います。</p>
+<p>正直、Occ Cold DoTの劣化では？と思うこともないけど、SSFHCのリーグスターターとしては、こっちのほうが向いていると思ってます。</p>
+<p>一応、OskarmlnがSSFHCでUber Bossを全Killしてるので、Endgameもいけるはずｗ（ただ、ビルド性能というよりは、人間性能で倒してる感があるので注意ｗ）</p>
+<ul>
+<li>YouTube - All Uber Boss Kill by Oskarmln:
+<ul>
+<li><a class=link href="https://www.youtube.com/watch?v=X6ZzJ0tPkyY" target=_blank rel=noopener>https://www.youtube.com/watch?v=X6ZzJ0tPkyY</a></li>
+</ul>
+</li>
+</ul>
+<p>特にやりたいビルドが思いつかなければ、今週末から始まる<a class=link href=https://www.pathofexile.com/forum/view-thread/3320180 target=_blank rel=noopener>短期イベントのMayhemレース</a>も、このビルドでいく予定です！対よろー！</p>
+<p>前回の<a class=link href=https://ryzenier.github.io/p/2022/08/3.18-occ-poison-bfbb-build-review/>Occultist Poison BFBB Buildの紹介</a>と同じフォーマットです。</p>
+<h2 id=参考にしたpobninja>参考にしたPoB、ninja</h2>
+<ul>
+<li>Hoowoo - Elementalist Cold DoT
+<ul>
+<li><a class=link href="https://poe.ninja/sentinelhcssf/builds/char/HooWoo/jungroan%E3%86%8Dfan%E3%86%8Dclub%E3%86%8DCEO?i=4&search=class%3DElementalist" target=_blank rel=noopener>poe.ninja</a></li>
+<li>Recombinator有りなので、SSFHCにも関わらず、とんでもなくギアが強い</li>
+<li>3.18でSSFHCで全てのUber Bossを倒しているビルド
+<ul>
+<li>VOD: <a class=link href=https://www.twitch.tv/videos/1564226674 target=_blank rel=noopener>https://www.twitch.tv/videos/1564226674</a></li>
+</ul>
+</li>
+<li>PoB: <a class=link href=https://pastebin.com/SVjWnCXD target=_blank rel=noopener>https://pastebin.com/SVjWnCXD</a></li>
+<li>このビルドを参考にHierophantに変えた</li>
+</ul>
+</li>
+<li>Ryzenier - EB MoM Hierophant Cold DoT
+<ul>
+<li><a class=link href="https://poe.ninja/challengehcssf/builds/char/ryzenier/%E5%93%80%E3%82%8C%E3%81%AA%E3%82%A2%E3%82%AF%E3%83%9E%E3%81%AB%E9%AD%82%E3%81%AE%E6%95%91%E6%B8%88%E3%82%92?i=2&search=class%3DHierophant" target=_blank rel=noopener>poe.ninja</a>
+<ul>
+<li>右上の「Time Machine」って書いてあるセレクトボックスから「Day X」の装備が見れます</li>
+</ul>
+</li>
+<li>Lake of Kalandra SSFHC Rank1</li>
+<li>今期スターターで使用してLv100になったビルド</li>
+<li>PoB
+<ul>
+<li>Day1 (Lv90): <a class=link href=https://pastebin.com/VJniPCUj target=_blank rel=noopener>https://pastebin.com/VJniPCUj</a>
+<ul>
+<li>4L: Eater of World撃破
+<ul>
+<li>PoBではGem Lv19だが、流石にLv20まで上げてから行った</li>
+</ul>
+</li>
+<li>今期は、ドロップ渋い＆アクネメ超強くて19時間でLv90だった</li>
+<li>いつもより、かなり辛かったorz（この時点で総合5位）</li>
+<li>4LでT16もギリギリ回れる</li>
+</ul>
+</li>
+<li>Day2 (Lv94): <a class=link href=https://pastebin.com/5UAMukBS target=_blank rel=noopener>https://pastebin.com/5UAMukBS</a>
+<ul>
+<li>5L: +1 Sceptre 2本完成</li>
+</ul>
+</li>
+<li>Day3 (Lv96): <a class=link href=https://pastebin.com/uDGY8E3i target=_blank rel=noopener>https://pastebin.com/uDGY8E3i</a>
+<ul>
+<li>5L: Catarina頭入手＆Exarch撃破</li>
+<li>この時点で、装備ほぼほぼ完成</li>
+</ul>
+</li>
+<li>Day4 (Lv97): <a class=link href=https://pastebin.com/CDfLcYaN target=_blank rel=noopener>https://pastebin.com/CDfLcYaN</a></li>
+<li>Day5 (Lv98): <a class=link href=https://pastebin.com/ZAyu37kg target=_blank rel=noopener>https://pastebin.com/ZAyu37kg</a>
+<ul>
+<li>5L: Militant Faith入手＆SceptreをMulti Craft</li>
+<li>以降、装備変更なし</li>
+</ul>
+</li>
+<li>Day6 (Lv99): <a class=link href=https://pastebin.com/k3KcCdWq target=_blank rel=noopener>https://pastebin.com/k3KcCdWq</a></li>
+<li>Day7 (Lv100): <a class=link href=https://pastebin.com/9N44eUpQ target=_blank rel=noopener>https://pastebin.com/9N44eUpQ</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Oskarmln - EB MoM Hierophant Cold DoT
+<ul>
+<li>自分のビルドのフォロワー</li>
+<li><a class=link href="https://poe.ninja/challengehcssf/builds/char/Oskarmln/DeadGameExplorer?i=3&search=class%3DHierophant" target=_blank rel=noopener>poe.ninja</a></li>
+<li>PoB: <a class=link href=https://pastebin.com/r1j7r403 target=_blank rel=noopener>https://pastebin.com/r1j7r403</a></li>
+<li>SSFHCで全Uber Boss Kill済み
+<ul>
+<li>ビルドパワーではなく、ほぼほぼプレイヤースキルで倒してる</li>
+<li>YouTube: <a class=link href="https://www.youtube.com/watch?v=X6ZzJ0tPkyY" target=_blank rel=noopener>https://www.youtube.com/watch?v=X6ZzJ0tPkyY</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id=メリットデメリット>メリット・デメリット</h2>
+<ul>
+<li>メリット
+<ul>
+<li>Hierophantのmin EC4のお陰でデフォルトでPhysicalに強く、Resも確保しやすいため、その分、スペサプに回せる。</li>
+<li>20% Mana gain ESとEB + MoMにより高いHit Poolを得られる</li>
+<li>↑2つにより、盾を持たなくても十分な防御性能がありSceptre 2本持ちできる。DW Leap Slamのため移動速度が早い
+<ul>
+<li>クラフトもilv2 SceptreにEssenceを打つだけなので超絶簡単</li>
+</ul>
+</li>
+<li>inc 25% mana reservation efficiencyにより通常ビルドよりも50% auraを1つ多く貼れる
+<ul>
+<li>これにより、柔軟なAura選択が可能</li>
+<li>Map入り直後はPurity of Elementsを貼ることで、スペサプ装備を優先して使用できる</li>
+<li>MapファームとHeist、Lab周回時はHaste、ボスキル時はHatredにSwap</li>
+<li>更に火力が欲しい場合は、GraceをZealotryに変えられる
+<ul>
+<li>初回のEldrichボスやTimeless Conflictなど</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>EBにより、Divine BlessingでMalevolenceを使用でき、Cold DoTのMana問題も解決</li>
+<li>HierophantのArcane BlessingによりEBで有りながらArcane SurgeをProcできる</li>
+<li>Expedition適正◎
+<ul>
+<li>畑がnerfされた今、SSFでギアをこねるには、ExpeditionかEssenceの2択なので、かなりのメリット</li>
+<li>絶対に無理なのはCold Immuneのみ。耐久系だと30% reduce damageとLife Reg以外は全て無視できる。ダメージ系は、overwhelm、always crit、can&rsquo;t be evadedを避ければOK。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>デメリット
+<ul>
+<li>4つのスキルを場面場面で打ち別ける必要があるため、操作がそこそこ煩雑。このため、ファーム速度がプレイヤースキルに依存する。
+<ul>
+<li>Vortex: CD 1.8秒、自分中心AoE、Instantスキルのためボス以外左クリックに入れておけばOK</li>
+<li>Creeping Frost: CD無し、地点指定型AoE（ただしProjectileなので遠くの敵には当てづらい）</li>
+<li>Cold Snap: CD 3.0秒、地点指定型AoE</li>
+<li>Vaal Cold Snap: Vaal Skill、自分中心AoEの持続スキル（Cold版RFみたいな感じ）</li>
+</ul>
+</li>
+<li>冗談抜きで、上手い人と下手な人で、ファーム速度が倍は違う</li>
+<li>ESの回復手段が、Ghost Dance、BeltのVeiled Modのみ（一応Catarina頭でも回復可）
+<ul>
+<li>このためDoTに対して非常に弱い</li>
+<li>100%アボエレにするまで、burning ground対策ができないためMapデバイスでExarch Influenceを選択できない。また、Igniteも非常にキツイのでEnslaver、Exarchに行くときは対策必須。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>=> 総じて、SSFのリーグスターター適性が高いが、極まったギアの場合Occの劣化なんじゃないかと思わないでもない。</p>
+<h2 id=cold-dotビルドに関して>Cold DoTビルドに関して</h2>
+<p>現状、Cold DoTを与えれるスキルは以下の4つのみ（3.19現在）。</p>
+<ul>
+<li>Vortex</li>
+<li>Creeping Frost</li>
+<li>Cold Snap</li>
+<li>Wintertide Brand</li>
+</ul>
+<p>スキルを使用すると、範囲内の敵に「①Cold属性のHitダメージ」を与えつつ、Chilled Groundを生成して、その上に載っている敵に「②Cold属性のDoTダメージ」を与える。
+Cold DoTビルドでは、「②Cold属性のDoTダメージ」をメインのダメージソースとする。</p>
+<p><strong>Chilled GroundによるDoTダメージは、スキルごとに重複する。</strong>
+（Lv21 VortexとLv21 Creeping Frostのダメージは重複するが、Lv21 VortexとLv20 Vortexのダメージは重複しない。この場合、ダメージが高いほうが優先される。）</p>
+<p>また、生成されたChilled Groundの上にいる敵は強制的にChill状態になる（ベースのChill Effectは10%）。
+Elemental Focusを使用した場合、Hit部分ではChillできなくなるが、Chilled Ground上にいるときは引き続き強制的にChillさせることができる。</p>
+<ul>
+<li><a class=link href=https://www.poewiki.net/wiki/Chilled_ground target=_blank rel=noopener>poewiki.net - Chilled Ground</a></li>
+</ul>
+<p>その他の特徴として、Map ModやExpedition Mod、Eldrich AltarでSpell Suppression Chanceがモンスターに追加されてもDoTダメージは減らない（HitでもDamaging Ailmentsでもないため）。</p>
+<style type=text/css>.notice{--root-color:#444;--root-background:#eff;--title-color:#fff;--title-background:#7bd;--warning-title:#c33;--warning-content:#fee;--info-title:#fb7;--info-content:#fec;--note-title:#6be;--note-content:#e7f2fa;--tip-title:#5a5;--tip-content:#efe}@media(prefers-color-scheme:dark){.notice{--root-color:#ddd;--root-background:#eff;--title-color:#fff;--title-background:#7bd;--warning-title:#800;--warning-content:#400;--info-title:#a50;--info-content:#420;--note-title:#069;--note-content:#023;--tip-title:#363;--tip-content:#121}}body.dark .notice{--root-color:#ddd;--root-background:#eff;--title-color:#fff;--title-background:#7bd;--warning-title:#800;--warning-content:#400;--info-title:#a50;--info-content:#420;--note-title:#069;--note-content:#023;--tip-title:#363;--tip-content:#121}.notice{padding:18px;line-height:24px;margin-bottom:24px;border-radius:4px;color:var(--root-color);background:var(--root-background)}.notice p:last-child{margin-bottom:0}.notice-title{margin:-18px -18px 12px;padding:4px 18px;border-radius:4px 4px 0 0;font-weight:700;color:var(--title-color);background:var(--title-background)}.notice.warning .notice-title{background:var(--warning-title)}.notice.warning{background:var(--warning-content)}.notice.info .notice-title{background:var(--info-title)}.notice.info{background:var(--info-content)}.notice.note .notice-title{background:var(--note-title)}.notice.note{background:var(--note-content)}.notice.tip .notice-title{background:var(--tip-title)}.notice.tip{background:var(--tip-content)}.icon-notice{display:inline-flex;align-self:center;margin-right:8px}.icon-notice img,.icon-notice svg{height:1em;width:1em;fill:currentColor}.icon-notice img,.icon-notice.baseline svg{top:.125em;position:relative}</style>
+<div><svg width="0" height="0" display="none" xmlns="http://www.w3.org/2000/svg"><symbol id="tip-notice" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet"><path d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379.0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628.0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628.0l-22.627 22.627c-6.248 6.248-6.248 16.379.0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"/></symbol><symbol id="note-notice" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet"><path d="M504 256c0 136.997-111.043 248-248 248S8 392.997 8 256C8 119.083 119.043 8 256 8s248 111.083 248 248zm-248 50c-25.405.0-46 20.595-46 46s20.595 46 46 46 46-20.595 46-46-20.595-46-46-46zm-43.673-165.346 7.418 136c.347 6.364 5.609 11.346 11.982 11.346h48.546c6.373.0 11.635-4.982 11.982-11.346l7.418-136c.375-6.874-5.098-12.654-11.982-12.654h-63.383c-6.884.0-12.356 5.78-11.981 12.654z"/></symbol><symbol id="warning-notice" viewBox="0 0 576 512" preserveAspectRatio="xMidYMid meet"><path d="M569.517 440.013C587.975 472.007 564.806 512 527.94 512H48.054c-36.937.0-59.999-40.055-41.577-71.987L246.423 23.985c18.467-32.009 64.72-31.951 83.154.0l239.94 416.028zM288 354c-25.405.0-46 20.595-46 46s20.595 46 46 46 46-20.595 46-46-20.595-46-46-46zm-43.673-165.346 7.418 136c.347 6.364 5.609 11.346 11.982 11.346h48.546c6.373.0 11.635-4.982 11.982-11.346l7.418-136c.375-6.874-5.098-12.654-11.982-12.654h-63.383c-6.884.0-12.356 5.78-11.981 12.654z"/></symbol><symbol id="info-notice" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet"><path d="M256 8C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm0 110c23.196.0 42 18.804 42 42s-18.804 42-42 42-42-18.804-42-42 18.804-42 42-42zm56 254c0 6.627-5.373 12-12 12h-88c-6.627.0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h12v-64h-12c-6.627.0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h64c6.627.0 12 5.373 12 12v1e2h12c6.627.0 12 5.373 12 12v24z"/></symbol></svg></div><div class="notice warning">
+<p class="first notice-title"><span class="icon-notice baseline"><svg><use href="#warning-notice"/></svg></span>warning</p><p>Wintertide BrandはStack数に応じてDPSが上昇するためCast Speedを稼ぐ必要がある。
+このため、CSを必要としない、その他のCold DoTスキルと相性が悪く、現状では、特化ビルド以外では使用されないので、ここでは説明を省く。</p></div>
+<p>各スキルの基本スペックは、以下のとおり。</p>
+<div class=table-wrapper><table>
+<thead>
+<tr>
+<th></th>
+<th style=text-align:right>CD [s]</th>
+<th style=text-align:right>Duration [s]</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vortex</td>
+<td style=text-align:right>1.80</td>
+<td style=text-align:right>3.0</td>
+</tr>
+<tr>
+<td>Creeping Frost</td>
+<td style=text-align:right>-</td>
+<td style=text-align:right>5.0</td>
+</tr>
+<tr>
+<td>Cold Snap</td>
+<td style=text-align:right>3.00</td>
+<td style=text-align:right>5.0</td>
+</tr>
+</tbody>
+</table></div>
+<p><img src=/p/2022/10/3.19-eb-mom-hierophant-cold-dot/vortex.PNG width=680 height=541 srcset="/p/2022/10/3.19-eb-mom-hierophant-cold-dot/vortex_hu1b4a0dcbf1beabbd4c2b5d96ed7be929_75499_480x0_resize_box_3.PNG 480w, /p/2022/10/3.19-eb-mom-hierophant-cold-dot/vortex_hu1b4a0dcbf1beabbd4c2b5d96ed7be929_75499_1024x0_resize_box_3.PNG 1024w" loading=lazy alt=Vortex class=gallery-image data-flex-grow=125 data-flex-basis=301px>
+<img src=/p/2022/10/3.19-eb-mom-hierophant-cold-dot/creeping-frost.PNG width=676 height=489 srcset="/p/2022/10/3.19-eb-mom-hierophant-cold-dot/creeping-frost_hu5374fbeea6d6d46c49300619b9e9aef8_66012_480x0_resize_box_3.PNG 480w, /p/2022/10/3.19-eb-mom-hierophant-cold-dot/creeping-frost_hu5374fbeea6d6d46c49300619b9e9aef8_66012_1024x0_resize_box_3.PNG 1024w" loading=lazy alt="Creeping Frost" class=gallery-image data-flex-grow=138 data-flex-basis=331px>
+<img src=/p/2022/10/3.19-eb-mom-hierophant-cold-dot/cold-snap.PNG width=677 height=544 srcset="/p/2022/10/3.19-eb-mom-hierophant-cold-dot/cold-snap_hu9736dc13bbb2ee3e9d4ff1295951f801_74995_480x0_resize_box_3.PNG 480w, /p/2022/10/3.19-eb-mom-hierophant-cold-dot/cold-snap_hu9736dc13bbb2ee3e9d4ff1295951f801_74995_1024x0_resize_box_3.PNG 1024w" loading=lazy alt="Cold Snap" class=gallery-image data-flex-grow=124 data-flex-basis=298px></p>
+<p>ダメージ量では、VortexとCreeping Frostが、大体同じぐらいで、Cold Snapは約15-19%ほど低い。
+（誤差レベルではあるが、Lv24以降ではCreeping Frost > Vortex）</p>
+<p><img src=/p/2022/10/3.19-eb-mom-hierophant-cold-dot/cold-dot-skills.svg loading=lazy alt="Cold DoT Skills"></p>
+<ul>
+<li><a class=link href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQvkobdAagvfOT4bTpwI1e8DEgXU__smuiLZF45er06Lbkokf-gzN2IfYf119PKYBpz4_9BBs5yVJ-A/pubhtml?gid=0&single=true" target=_blank rel=noopener>Google Spreadsheet - Cold DoT Skills</a></li>
+</ul>
+<p>どのスキルも、1レベル当たり約12%づつ火力が上昇する。
+Lv31以降では、ダメージの伸びが鈍化し1レベル当たり約6%の伸びる。</p>
+<p>Cold Snapは、ダメージ量では劣るが、Gem Lvでinc. Chill Effectが上がるためBonechillのproc用として最適。</p>
+<p>以上から、火力の高いVortexとCreeping Frostをメインの6Lにセットして5L*2運用しつつ、Cold SnapをBonechill proc用のサブスキルとして使用する。</p>
+<ul>
+<li>よくある質問：5L * 2運用するのはなぜか？
+<ul>
+<li>Cold DoTは、スキルごとにダメージが重複するので、多くのスキルを使用したほうが、総合したダメージが高くなるため。</li>
+<li>6Link目の価値で考えた場合、サポGem一つで得られるのは20～30% more程度だが、Linkを共有する別のスキルを6Link目に入れることで100% more相当になる。</li>
+</ul>
+</li>
+</ul>
+<h2 id=ダメージの伸ばし方>ダメージの伸ばし方</h2>
+<p>大まかに優先度順</p>
+<ul>
+<li>All/Cold Gem +1
+<ul>
+<li>Lv30まではGem Lv1当たり約12%上昇する</li>
+</ul>
+</li>
+<li>Cold DoT Multi.</li>
+<li>inc. Spell / Elemental / Cold Damage</li>
+<li>inc. Effect of Non-Damaging Ailments
+<ul>
+<li>Chill Effectを上げることで、Bonechillによりダメージが上がる</li>
+<li>靴のEldrich ModのScorch GroundのRes下げ効果も上がる</li>
+<li>装備だと、Amuletと靴のVeiled Modと頭のEldrich Modのみなので、余裕があればクラフトする程度でOK</li>
+</ul>
+</li>
+<li>inc. Effect of Non-Curse Aura
+<ul>
+<li>主に防御面での恩恵が大きいが、火力も微量に伸びる</li>
+</ul>
+</li>
+<li>inc. AoE
+<ul>
+<li>ダメージには寄与しないが、スキルが当てやすくなるので、なるべく稼ぎたいが、優先度は低め</li>
+</ul>
+</li>
+<li>inc. Cast Speed
+<ul>
+<li>Cold SnapのベースCast Timeが0.85と遅いので、稼いでおくと若干プレイフィールが上がるが、基本的には不要</li>
+</ul>
+</li>
+</ul>
+<h2 id=その他細かい点>その他細かい点</h2>
+<h3 id=aura選択>Aura選択</h3>
+<p>基本は↓のAuraを貼る。</p>
+<ul>
+<li>Determination</li>
+<li>Defiance Banner</li>
+<li>Malevolence w/ Divine Blessing</li>
+<li>Hatred</li>
+<li>Grace</li>
+<li>Vitality: Catarina頭が手に入ったら</li>
+</ul>
+<p>その他、要所要所で使うAura。</p>
+<ul>
+<li>Haste: 主にファーム時とLab、HeistでHatredと入れ替え</li>
+<li>Zealotry: 耐久よりも火力が欲しい場面で、Graceとスワップ</li>
+<li>Purity of Elements: リーグスタート時にResに余裕を持たせるために貼る</li>
+</ul>
+<h3 id=spell-suppression>Spell Suppression</h3>
+<p>最終的には、Catarina頭（AR/ES）にするとsuppression masteryの+12%が取得できないので、Inveterateまで伸ばす必要がある。</p>
+<p>Treeから、22% (Instinct) + 39% (Inveterate) = 61%稼げるので、残り39%稼ぐ必要がある。
+胴、手、靴全てにSuppression必須！</p>
+<p>赤マップに入る前には絶対に100%にする。序盤で装備がない場合は、EntrenchをAnointするのが吉！</p>
+<h3 id=アボエレ>アボエレ</h3>
+<p>Lv100を目指すだけなら不要。</p>
+<p>DWのSceptre 2本持ちから盾持ちに変えて、Arcane Sanctuary 25% + 胴25% + 靴50%で合計100%。
+胴、手、靴、全てにSuppressionを付ける必要がある。</p>
+<h2 id=act-run>Act Run</h2>
+<p>Act 5を2時間半、Act 10を6時間以内クリアを目標にする（Foothillファーム込み）。</p>
+<ul>
+<li>参考動画
+<ul>
+<li>Balaar - 3.18 - Cold Dot Occultist - A10 Pts+Labs - 3h40m14s
+<ul>
+<li>YouTube: <a class=link href="https://www.youtube.com/watch?v=FSVHqvNDyKs" target=_blank rel=noopener>https://www.youtube.com/watch?v=FSVHqvNDyKs</a></li>
+<li>リーグの後半はずっとActrunしてる人の動画</li>
+<li>Witchスタートだが参考になる</li>
+<li><strong>概要欄は必読！</strong></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>以下、全編解説は大変なのでポイントだけ。</p>
+<ul>
+<li>TemplarだとVolleyが手にはいらないので、RangerでMuleしてMercy Missionまでやる</li>
+<li>Lv10でLeap Slamを買って、Sceptre 2本で進める</li>
+<li>Lv12でCreeping Frost + Onslaught + Volley（DoTではなくOverlapするHit部分がメイン）
+<ul>
+<li>キチンとFlame Wall越しに当てる</li>
+</ul>
+</li>
+<li>Lv28でVortexを使用するタイミングで、Clarityを貼る
+<ul>
+<li>Vortex + Cold Snap + Elemental Focus + (Controlled Destruction or Efficacy or Arcane Surge or Bonechill)</li>
+<li>Creeping Frost + Onslaught + Volley + Arcane Surge</li>
+</ul>
+</li>
+<li>Act 4でBonechill、Act 6でHypothemia、Inspirationを買う</li>
+<li><strong>【超重要】</strong> Act 9 FoothillでInstanceガチャして"Reg. XXX ES while a Rare or Unique Enemy is Nearby"のmodが出るまでSyndicateファームをする
+<ul>
+<li>これがないとEB MoM型に移行できない</li>
+</ul>
+</li>
+<li>3週目のLabをクリアしたらEB MoM型に移行する</li>
+</ul>
+<h3 id=ascendancy>Ascendancy</h3>
+<p>以下の順番で取得</p>
+<ol>
+<li>Conviction of Power: min EC + PC</li>
+<li>Divine Guidance</li>
+<li>Sanctuary of Thought: 最強！！！</li>
+<li>Arcane Blessing: Arcane Surge on Hit</li>
+</ol>
+<h3 id=act5までのpassive振り>Act5までのPassive振り</h3>
+<p><img src=/p/2022/10/3.19-eb-mom-hierophant-cold-dot/act5-passives.PNG width=1155 height=770 srcset="/p/2022/10/3.19-eb-mom-hierophant-cold-dot/act5-passives_hu9b0fc45946400db150d5628d5e953abc_1237090_480x0_resize_box_3.PNG 480w, /p/2022/10/3.19-eb-mom-hierophant-cold-dot/act5-passives_hu9b0fc45946400db150d5628d5e953abc_1237090_1024x0_resize_box_3.PNG 1024w" loading=lazy alt="Act 5" class=gallery-image data-flex-grow=150 data-flex-basis=360px></p>
+<h3 id=lv70までのpassive振り>Lv70までのPassive振り</h3>
+<ul>
+<li>3周目のLabをクリアしたらEO周りのポイントをrefundしてEB MoM型に移行する</li>
+<li>この段階でResがキツければ、HatredではなくPurity of Elementsを貼る</li>
+</ul>
+<p>この段階で、以下のオーラが貼れる！さいきょー！</p>
+<ul>
+<li>Determination</li>
+<li>Grace</li>
+<li>Hatred or Purity of Elements</li>
+<li>Malevolence w/ Divine Blessing</li>
+<li>Defiance Banner</li>
+</ul>
+<p><img src=/p/2022/10/3.19-eb-mom-hierophant-cold-dot/act10-passives.PNG width=1516 height=736 srcset="/p/2022/10/3.19-eb-mom-hierophant-cold-dot/act10-passives_hu8818af632439c206779967af833271a9_1638794_480x0_resize_box_3.PNG 480w, /p/2022/10/3.19-eb-mom-hierophant-cold-dot/act10-passives_hu8818af632439c206779967af833271a9_1638794_1024x0_resize_box_3.PNG 1024w" loading=lazy alt="Act 10" class=gallery-image data-flex-grow=205 data-flex-basis=494px></p>
+<h2 id=クラフト指南>クラフト指南</h2>
+<h3 id=sceptre>Sceptre</h3>
+<h4 id=level-1-1-cold-gem--inc-spell-damage--cold-dot-multi>Level 1: +1 Cold Gem + inc. Spell Damage + Cold DoT Multi.</h4>
+<p>Lv100目指すだけなら、これで十分</p>
+<p><img src=/p/2022/10/3.19-eb-mom-hierophant-cold-dot/sceptre-level1.PNG width=539 height=444 srcset="/p/2022/10/3.19-eb-mom-hierophant-cold-dot/sceptre-level1_hu7ed1533b421bb79e195d7a88761a745f_144401_480x0_resize_box_3.PNG 480w, /p/2022/10/3.19-eb-mom-hierophant-cold-dot/sceptre-level1_hu7ed1533b421bb79e195d7a88761a745f_144401_1024x0_resize_box_3.PNG 1024w" loading=lazy alt="Sceptre Level 1" class=gallery-image data-flex-grow=121 data-flex-basis=291px></p>
+<ul>
+<li>Step 1: 適当なキャラを作って、<a class=link href=https://www.poewiki.net/wiki/Book_of_Regression target=_blank rel=noopener>Book of Regression</a>（1 scoring + 1 wisdom）でLv1にして、ilv2のDriftwood Sceptreを買う</li>
+<li>Step 2: +1 Cold Gemが付くまでinc. Spell DamageのEssenceでスパム（成功率: 約1/27）</li>
+<li>Step 3: SuffixにCold DoT Multi.をクラフトする</li>
+</ul>
+<h4 id=level-2-1-cold-gem--inc-spell-damage--dot-multi--cold-dot-multi>Level 2: +1 Cold Gem + inc. Spell Damage + DoT Multi. + Cold DoT Multi.</h4>
+<p>今期から、&ldquo;Empowered Elements"のアクネメmodを持ったmobがFractureアイテムを落とすようになった。
+運良くDoT Multi.がFractureされたアイテムを手に入れられたらクラフト可能。</p>
+<p><img src=/p/2022/10/3.19-eb-mom-hierophant-cold-dot/sceptre-level2.png width=539 height=440 srcset="/p/2022/10/3.19-eb-mom-hierophant-cold-dot/sceptre-level2_hu6d50d134cfe3b3bab0517c9fbada2495_142338_480x0_resize_box_3.png 480w, /p/2022/10/3.19-eb-mom-hierophant-cold-dot/sceptre-level2_hu6d50d134cfe3b3bab0517c9fbada2495_142338_1024x0_resize_box_3.png 1024w" loading=lazy alt="Sceptre Level 2" class=gallery-image data-flex-grow=122 data-flex-basis=294px></p>
+<ul>
+<li>Step 1: SuffixにDoT Multi.がFractureされたベースを入手する</li>
+<li>Step 2: Prefixに+1 Cold Gemが付くまでAltスパム（成功率: 約1/358）</li>
+<li>Step 3: Regalでレア化。Suffixに追加された場合はAnnulするか、Step 2に戻る。Prefixに追加された場合は、Step 4に。</li>
+<li>Step 4: Multi Craftでinc. Spell DamageとCold DoT Multi.をクラフト</li>
+</ul>
+<h4 id=level-3-2-gem--inc-spell-damage--cold-dot-multi>Level 3: +2 Gem + inc. Spell Damage + Cold DoT Multi.</h4>
+<p>今期から、畑の4 modランダムFractureとAdd modが変更されたためSSFでも+2 Gem Sceptreを入手できるようになった。
++1 Physical/Chaos Gemの場合は、後からAdd Physical/Chaosで追加できるのでFractureする必要がないが、Fire、Cold、Lightningは必須。</p>
+<p>Fractureするのは、+1 Cold Gemか+1 All Gem。</p>
+<p>+1 All Gemの場合は、ベースを用意するのが大変な分、追加でDoT Multi.を付けられる。
++1 Cold Gemは、ベースをベンダークラフトで簡単に用意できる（Normal SceptreとColdタグの付いたGemをQ40以上になるように店売り）</p>
+<p>FractureするベースはAll +1を引きやすくするためにilv 55にするか、T3 DoT Multi.がギリギリつくilv 68、高みを目指してilv 82から選択。
+ilv 55 or 68のSceptreは、Act 7 or 10のNPCから買うか自分で掘る。</p>
+<p><strong>+1 Cold Gem Fracture ver.</strong></p>
+<p><img src=/p/2022/10/3.19-eb-mom-hierophant-cold-dot/sceptre-level3-ver1.PNG width=538 height=414 srcset="/p/2022/10/3.19-eb-mom-hierophant-cold-dot/sceptre-level3-ver1_hucb6e1bb9ab6c25ba5a0174935617bfcb_135825_480x0_resize_box_3.PNG 480w, /p/2022/10/3.19-eb-mom-hierophant-cold-dot/sceptre-level3-ver1_hucb6e1bb9ab6c25ba5a0174935617bfcb_135825_1024x0_resize_box_3.PNG 1024w" loading=lazy alt="Sceptre Level 3 - +1 Cold Gem Fracture Ver." class=gallery-image data-flex-grow=129 data-flex-basis=311px></p>
+<ul>
+<li>Step 1: +1 Cold Gemが付いたSceptreに対して畑のランダムFractureガチャ</li>
+<li>Step 2: Aetheric + Corroded + Metallic + Shudderingで+1 All Gemを引く
+<ul>
+<li>Aetheric + Corroded + Shudderingでも可</li>
+</ul>
+</li>
+<li>Step 3: Multi Craftでinc. Spell DamageとCold DoT Multi.をクラフトして完成</li>
+</ul>
+<p><strong>+1 All Gem Fracture ver.</strong></p>
+<p><img src=/p/2022/10/3.19-eb-mom-hierophant-cold-dot/sceptre-level3-ver2.PNG width=537 height=440 srcset="/p/2022/10/3.19-eb-mom-hierophant-cold-dot/sceptre-level3-ver2_hu5e2c4c49985468bc9c1fba69658b8005_142631_480x0_resize_box_3.PNG 480w, /p/2022/10/3.19-eb-mom-hierophant-cold-dot/sceptre-level3-ver2_hu5e2c4c49985468bc9c1fba69658b8005_142631_1024x0_resize_box_3.PNG 1024w" loading=lazy alt="Sceptre Level 3 - +1 All Gem Fracture Ver." class=gallery-image data-flex-grow=122 data-flex-basis=292px></p>
+<ul>
+<li>Step 1: Aetheric + Corroded + Metallic + Shudderingで+1 All Gemを引いて、畑のランダムFractureガチャ
+<ul>
+<li>Aetheric + Corroded + Shudderingでも可</li>
+</ul>
+</li>
+<li>Step 2: Frigid Fossilで+1 Cold GemとDoT Multi.を引く。
+<ul>
+<li>ilv82以上のベースの場合は、高TierのCold DoT Multi.でも可</li>
+</ul>
+</li>
+<li>Step 3: Multi Craftでinc. Spell DamageとCold DoT Multi.をクラフトして完成</li>
+</ul>
+<h3 id=helmet>Helmet</h3>
+<p>とりあえず、SuppressionがついていればOK。
+EssenceスパムかRogクラフトで作る。</p>
+<p>最終は、Catarina頭。Veiled ModはChaos Res複合がベスト。</p>
+<div class="notice warning">
+<p class="first notice-title"><span class="icon-notice baseline"><svg><use href="#warning-notice"/></svg></span>warning</p><p>Catarina頭（AR/ES）ベースにすることでSuppression Masteryの+12%がなくなるので注意！</p></div>
+<p>効率的にCatarinaを湧かす方法は、以下のyamanさんの解説を読めば分かるので必読！！！（なんと日本語！）
+今期は、3日目に4回目のCatarinaでドロップした（Lv96時）。</p>
+<ul>
+<li><a class=link href=https://docs.google.com/document/d/1SYKsEP1aO4Fx15wjNytW4-MRefCnAZvQaZ9nIMqDih8/edit target=_blank rel=noopener>Betrayalガイド by yaman</a></li>
+</ul>
+<p>Lv20 Vitalityを追加で貼れるようになる。胴体にEssenceのMana Reservation Efficiencyをつけるか、EnlightenがあればVitalityの代わりに25% Auraを貼ることもできる。</p>
+<p><img src=/p/2022/10/3.19-eb-mom-hierophant-cold-dot/devouring-diadem.PNG width=451 height=514 srcset="/p/2022/10/3.19-eb-mom-hierophant-cold-dot/devouring-diadem_hud9e1677a1f73b13406aa9e7e72b78ef7_76006_480x0_resize_box_3.PNG 480w, /p/2022/10/3.19-eb-mom-hierophant-cold-dot/devouring-diadem_hud9e1677a1f73b13406aa9e7e72b78ef7_76006_1024x0_resize_box_3.PNG 1024w" loading=lazy alt=Helmet class=gallery-image data-flex-grow=87 data-flex-basis=210px></p>
+<p>更に、EBを取るための3ptが浮くのもデカい。</p>
+<p><img src=/p/2022/10/3.19-eb-mom-hierophant-cold-dot/eb.PNG width=449 height=306 srcset="/p/2022/10/3.19-eb-mom-hierophant-cold-dot/eb_hu9e3c2d47db38092ebeb44c511abfbff5_212897_480x0_resize_box_3.PNG 480w, /p/2022/10/3.19-eb-mom-hierophant-cold-dot/eb_hu9e3c2d47db38092ebeb44c511abfbff5_212897_1024x0_resize_box_3.PNG 1024w" loading=lazy alt="Eldrich Battery" class=gallery-image data-flex-grow=146 data-flex-basis=352px></p>
+<h3 id=glove>Glove</h3>
+<p>とりあえず、SuppressionがついてればOK。
+EssenceスパムかRogクラフトで作る。</p>
+<p>最終的には、Delirium Essenceで30% more DoT + Suppression付きを作る。
+SuppressionがFractureされたGloveに対してDelirium Essenceスパムしてから、Suffix Cannot Be ChangedからのVeiled Orbで+2 AoEをつけてLifeクラフトで完成！</p>
+<ul>
+<li>Eater of World: Cold Exposure</li>
+<li>Searing Exarch: Cold DoT Multi.</li>
+</ul>
+<h3 id=boots>Boots</h3>
+<p>とりあえず、SuppressionがついていればOK。
+EssenceスパムかRogクラフトで作る。</p>
+<p>最終的には、Loathing EssenceでAvoid Elemental AilmentsとSuppressionが付いたものにSuffix Cannot Be ChangedからのVeiled OrbでPrefixにMSをつけてLifeクラフトで完成！</p>
+<ul>
+<li>Eater of World: Avoid Elemental Ailments</li>
+<li>Searing Exarch: Scorching Ground</li>
+</ul>
+<h3 id=body-armour>Body Armour</h3>
+<p>とりあえず、SuppressionがついていればOK</p>
+<p>最終はAR/EVベースにSupression + PDRがついたものを用意する。</p>
+<ul>
+<li>Eater of World: Determination / Malevolence / Hatred effect</li>
+<li>Searing Exarch: Non-Curse Aura Effect / Max All Res</li>
+</ul>
+<h3 id=amulet>Amulet</h3>
+<p>Anointは、火力ならAsh, Frost and Storm、耐久ならPrismatic Skin or Soul of Steel。
+クラフトは、inc Non-Damaging Ailments Effectがベスト！</p>
+<h4 id=level-1-1-cold-or-dot-multi付き>Level 1: +1 Cold or DoT Multi.付き</h4>
+<p>とりあえず、+1 ColdかDoT Multi.がついてるものにLifeクラフトすればOK</p>
+<p>火力的には、+1 Cold > T1 DoT Multi.</p>
+<p>T1 DoT Multi.は、タグなしなのでAltスパムからのRegalで作る。
++1 ColdはReforge ColdかFrigid Fossilでスパムする。</p>
+<h4 id=level-2-最終装備-2-gem>Level 2: 最終装備 +2 Gem</h4>
+<p>畑の改変により、SSFでも+2 Amuletを作れるようになった。</p>
+<p>最低でも、8 Divine必要。Step 3で1/2ガチャに失敗するたびに追加で2 Divineかかる。</p>
+<p><img src=/p/2022/10/3.19-eb-mom-hierophant-cold-dot/amulet-tier2.PNG width=537 height=389 srcset="/p/2022/10/3.19-eb-mom-hierophant-cold-dot/amulet-tier2_hu3aa503facb7eb796329af2cadb1ef2ad_129326_480x0_resize_box_3.PNG 480w, /p/2022/10/3.19-eb-mom-hierophant-cold-dot/amulet-tier2_hu3aa503facb7eb796329af2cadb1ef2ad_129326_1024x0_resize_box_3.PNG 1024w" loading=lazy alt=Amulet class=gallery-image data-flex-grow=138 data-flex-basis=331px></p>
+<ul>
+<li>Step 1: Suffixに有用modがfractureされているものに対してAltスパムで+1 all gemを引く</li>
+<li>Step 2: Regalでmod追加。PrefixならAnnulガチャ、SuffixならStep 3へ</li>
+<li>Step 3: Prefix Cannot Be ChangedからのAnnulガチャで2 modレアにする</li>
+<li>Step 4: Multi Craft + Prefix Cannot Be Changed + Add Cold Damage to Attackをクラフトして畑のAdd Coldで確定で+1 Coldが付く</li>
+<li>Step 5: Multi CraftでLifeとNon-Damaging Ailments Effectをクラフトして完成</li>
+</ul>
+<p>fracture modは、DoT Multi.がベストだが、SSFだと難しいのでRes、Dex、Strあたりでも可！</p>
+<p>Step 1のAltスパムは、かなりの沼なので2k Altは考えておくこと！</p>
+<p>沼っている例↓</p>
+<blockquote class=twitter-tweet><p lang=ja dir=ltr>2.5k alt & 1.3 aug溶けたけどｗｗｗ 終わってんな、このゲームｗｗｗ <a href=https://t.co/N3QxpjHLAe>pic.twitter.com/N3QxpjHLAe</a></p>&mdash; らざにあ (@ryzenier) <a href="https://twitter.com/ryzenier/status/1577303984150577153?ref_src=twsrc%5Etfw">October 4, 2022</a></blockquote>
+<script async src=https://platform.twitter.com/widgets.js></script>
+<h3 id=ring>Ring</h3>
+<p>ベースは基本Amethyst Ring、その他の部位で十分にChaos Resが稼げていればVermillion Ringもあり。</p>
+<p>Mana Regが必要ないので、Cannot Be Changed SuffixからのVeiled OrbはやらなくてOK</p>
+<p>Dexが44足りないので、片方はDex Essenceをスパムする！</p>
+<p>もう片方は、何でもOK。強いて言うなら、Delirium EssenceでDoT Multi.付きがクラフトできると良い。</p>
+<h3 id=shield>Shield</h3>
+<p>アボエレにする場合は必要。</p>
+<p>ここでAvoid Elemental AilmentsやSupressionを盛ってもいいが、inc. Spell or Cold Damageが付いたものに畑のAdd Coldで+1 Cold Gemを付けたものを用意したい。</p>
+<p>ファーム速度は圧倒的にDW Leap Slam > Shield Charge。</p>
+<h2 id=総評>総評</h2>
+<ul>
+<li>SSFHC Rank 1になった思い出深いビルド</li>
+<li>資産ゼロの状態から安定してLv100まで一気にいける</li>
+<li>PS依存度は高いが、ファームもそこまで遅くない</li>
+</ul>
+<hr>
+<h2 id=余談>余談</h2>
+<p>ここからは完全に余談。</p>
+<p>本当は「SSFHC Rank1流：リーグスタートの進め方」っていう別記事にするつもりだったけど、めんどくなったので、ここに書き残しておく。</p>
+<p>今週末の短期リーグや、来期のスタート時の目安になれば程度。</p>
+<h3 id=ビルド決めリーグスターターに求める条件>ビルド決め：リーグスターターに求める条件</h3>
+<p>まず、直近の数リーグで、自分がSSFHCのスターターを決める目安は↓</p>
+<p>「<strong>①5Link</strong>で、<strong>②クエスト版のEater of Worldを倒す</strong>ことができ、<strong>③T14+を安定して回れる</strong>」</p>
+<p>一つ一つ見ていくと、</p>
+<ul>
+<li><strong>①5Link</strong>
+<ul>
+<li>サポgem nerfのお陰で以前よりも6Link目の価値（=20～30% more）が下がっている</li>
+<li>SSFではcorrupt 6Lも手に入りづらく、万一手に入ったとしても今期からスペサプ100にするには、胴体にスペサプが、ほぼほぼ必須なため6Lは考えないほうがいい。
+<ul>
+<li>優先順位としては、「スペサプ有り6L > スペサプ有り5L > スペサプ無し6L > スペサプ有り4L > コラプト6L > 5L > 4L > 白シャツ」</li>
+</ul>
+</li>
+<li>実際に今回Lv100にしたキャラは最後まで、スペサプ有り5L。</li>
+</ul>
+</li>
+<li><strong>②クエスト版のEater of Worldを倒す</strong>
+<ul>
+<li>Void Stoneが入手できるし、何よりMapをInfluence化して回せるようになる（リーグ開始直後のCurrencyカツカツのときにはBasic CurrencyのAltarですら美味い 😋 ）</li>
+<li>今期は、Gem Lv20で4Lのときに倒した（525k = 4L: Creeping Frost 260k + 3L: Vortex 145k + 3L: Cold Snap 120k）</li>
+<li>前座の中ボスはGem Lv19のLv87-89ぐらいで倒す。</li>
+</ul>
+</li>
+<li><strong>③T14+を安定して回れる</strong>
+<ul>
+<li>T14+なのは、Eldrich BossのInvitationが進む、ガーディアンマップが手に入る、Jun Missionで得られる経験値量が多いと、メリットが多いため</li>
+<li>Mapが安定してきたら、当然T16しか回さない</li>
+<li>回すのは、ダメージmodなしの2 modのmagic！！！
+<ul>
+<li><strong>HCの場合、レアで回す必要は一切ない！</strong> 自分が、レアで回すのは、リーグ開始直後にT11→T16にTierを上げていてCurrencyに十分な余裕があるときと、ビルドが100%完成してガーディアンマップを回すときだけ。通常のマップファームはMagicのみ。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>本来なら、この後に、SSFHCでの効率的なMapのTierの上げ方、Atlas Passiveの振り方、その他細かいTipsを書くつもりだったorz
+後々、気合があれば、あれば書くかも（多分、書かない）。</p>
+</section>
+<footer class=article-footer>
+</footer>
+</article>
+<aside class=related-content--wrapper>
+<h2 class=section-title>Related content</h2>
+<div class=related-content>
+<div class="flex article-list--tile">
+<article class=has-image>
+<a href=/p/2022/08/3.18-occ-poison-bfbb-build-review/>
+<div class=article-image>
+<img src=/p/2022/08/3.18-occ-poison-bfbb-build-review/occultist.44c07523f2f8692db6fceabdbab95c8c_hu39a98c2d010e20d98852ac04da3151fd_82226_250x150_fill_box_smart1_3.png width=250 height=150 loading=lazy alt="Featured image of post Occultist Poison BFBB Buildの紹介" data-key=2022/08/3.18-occ-poison-bfbb-build-review data-hash="md5-RMB1I/L4aS22/Oq9urlcjA==">
+</div>
+<div class=article-details>
+<h2 class=article-title>Occultist Poison BFBB Buildの紹介</h2>
+</div>
+</a>
+</article>
+</div>
+</div>
+</aside>
+<div class=disqus-container>
+<div id=disqus_thread></div>
+<script type=application/javascript>var disqus_config=function(){};(function(){if(["localhost","127.0.0.1"].indexOf(window.location.hostname)!=-1){document.getElementById('disqus_thread').innerHTML='Disqus comments not available by default when the website is previewed locally.';return}var b=document,a=b.createElement('script');a.async=!0,a.src='//log-ryzenier.disqus.com/embed.js',a.setAttribute('data-timestamp',+new Date),(b.head||b.body).appendChild(a)})()</script>
+<noscript>Please enable JavaScript to view the <a href=https://disqus.com/?ref_noscript>comments powered by Disqus.</a></noscript>
+<a href=https://disqus.com class=dsq-brlink>comments powered by <span class=logo-disqus>Disqus</span></a>
+</div>
+<style>.disqus-container{background-color:var(--card-background);border-radius:var(--card-border-radius);box-shadow:var(--shadow-l1);padding:var(--card-padding)}</style>
+<script>window.addEventListener('onColorSchemeChange',a=>{DISQUS&&DISQUS.reset({reload:!0})})</script>
+<footer class=site-footer>
+<section class=copyright>
+&copy;
+2021 -
+2022 /log ryzenier
+</section>
+<section class=powerby>
+Built with <a href=https://gohugo.io/ target=_blank rel=noopener>Hugo</a> <br>
+Theme <b><a href=https://github.com/CaiJimmy/hugo-theme-stack target=_blank rel=noopener data-version=3.11.0>Stack</a></b> designed by <a href=https://jimmycai.com target=_blank rel=noopener>Jimmy</a>
+</section>
+</footer>
+<div class=pswp tabindex=-1 role=dialog aria-hidden=true>
+<div class=pswp__bg></div>
+<div class=pswp__scroll-wrap>
+<div class=pswp__container>
+<div class=pswp__item></div>
+<div class=pswp__item></div>
+<div class=pswp__item></div>
+</div>
+<div class="pswp__ui pswp__ui--hidden">
+<div class=pswp__top-bar>
+<div class=pswp__counter></div>
+<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+<button class="pswp__button pswp__button--share" title=Share></button>
+<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+<div class=pswp__preloader>
+<div class=pswp__preloader__icn>
+<div class=pswp__preloader__cut>
+<div class=pswp__preloader__donut></div>
+</div>
+</div>
+</div>
+</div>
+<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+<div class=pswp__share-tooltip></div>
+</div>
+<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+</button>
+<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+</button>
+<div class=pswp__caption>
+<div class=pswp__caption__center></div>
+</div>
+</div>
+</div>
+</div><script src=https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo=" crossorigin=anonymous defer></script><script src=https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU=" crossorigin=anonymous defer></script><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css crossorigin=anonymous><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css crossorigin=anonymous>
+</main>
+<aside class="sidebar right-sidebar sticky">
+<section class="widget archives">
+<div class=widget-icon><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentcolor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z"/><line x1="5" y1="9" x2="19" y2="9"/><line x1="5" y1="15" x2="19" y2="15"/><line x1="11" y1="4" x2="7" y2="20"/><line x1="17" y1="4" x2="13" y2="20"/></svg>
+</div>
+<h2 class="widget-title section-title">Table of contents</h2>
+<div class=widget--toc>
+<nav id=TableOfContents>
+<ul>
+<li><a href=#参考にしたpobninja>参考にしたPoB、ninja</a></li>
+<li><a href=#メリットデメリット>メリット・デメリット</a></li>
+<li><a href=#cold-dotビルドに関して>Cold DoTビルドに関して</a></li>
+<li><a href=#ダメージの伸ばし方>ダメージの伸ばし方</a></li>
+<li><a href=#その他細かい点>その他細かい点</a>
+<ul>
+<li><a href=#aura選択>Aura選択</a></li>
+<li><a href=#spell-suppression>Spell Suppression</a></li>
+<li><a href=#アボエレ>アボエレ</a></li>
+</ul>
+</li>
+<li><a href=#act-run>Act Run</a>
+<ul>
+<li><a href=#ascendancy>Ascendancy</a></li>
+<li><a href=#act5までのpassive振り>Act5までのPassive振り</a></li>
+<li><a href=#lv70までのpassive振り>Lv70までのPassive振り</a></li>
+</ul>
+</li>
+<li><a href=#クラフト指南>クラフト指南</a>
+<ul>
+<li><a href=#sceptre>Sceptre</a></li>
+<li><a href=#helmet>Helmet</a></li>
+<li><a href=#glove>Glove</a></li>
+<li><a href=#boots>Boots</a></li>
+<li><a href=#body-armour>Body Armour</a></li>
+<li><a href=#amulet>Amulet</a></li>
+<li><a href=#ring>Ring</a></li>
+<li><a href=#shield>Shield</a></li>
+</ul>
+</li>
+<li><a href=#総評>総評</a></li>
+<li><a href=#余談>余談</a>
+<ul>
+<li><a href=#ビルド決めリーグスターターに求める条件>ビルド決め：リーグスターターに求める条件</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</section>
+</aside>
+</div>
+<script src=https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z+KMkF24hUW8WePSA9HM=" crossorigin=anonymous></script><script type=text/javascript src=/ts/main.js defer></script>
+<script>(function(){const a=document.createElement('link');a.href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap",a.type="text/css",a.rel="stylesheet",document.head.appendChild(a)})()</script>
+</body>
+</html>
