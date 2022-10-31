@@ -6,7 +6,7 @@ author: ryzenier
 aliases:
   - about-us
   - contact
-lastmod: '2022-06-07'
+lastmod: '2022-10-31'
 menu:
     main: 
         weight: -90
@@ -18,7 +18,7 @@ menu:
 
 Path of ExileをSSFHCでプレイしている、らざにあ([@ryzenier](https://twitter.com/ryzenier))です！
 
-主にSSFHC lv100 Ladder 1位を目指しつつ、公式・非公式レースでの入賞を目指しています！
+主にSSFHC Lv100 Ladder 1位を目指しつつ、公式・非公式レースでの入賞を目指しています！
 
 ## なんでSSFHCなの？
 
@@ -33,6 +33,8 @@ Path of ExileをSSFHCでプレイしている、らざにあ([@ryzenier](https:/
 
 ## 過去実績
 
+- 3.19 Lake of Kalandra SSF HC Rank #1 (Hierophant #1)
+    - :sparkles: 通常のSSF HCリーグで総合1位 :sparkles: ←日本人初！
 - 3.18 Archnemesis 40 Challenge in SSF HC
 - 3.18 Archnemesis SSF HC Delve 1,399 depth Rank #3
 - 3.16 Scourge Endless Heist Event SSF HC Rank #1 (Gladiator #1)
@@ -40,6 +42,10 @@ Path of ExileをSSFHCでプレイしている、らざにあ([@ryzenier](https:/
 - 3.14 Ultimatum SSF HC Rank #7 (Assassin #1)
 - 3.13 Ritual Flashback SSF HC Rank #4 (Champion #3)
 - 3.1 Abyss SSF HC Rank #8 (Raider #1)
+
+### 3.19 Lake of Kalandra SSF HC Rank #1
+
+{{< tweet ryzenier 1563055785889869824 >}}
 
 ### 3.16 Scourge Endless Heist Event SSF HC Rank #1
 
